@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- document meta -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="assets/img/favicon.ico">
+
+  <meta name="description" content="">
+  <meta name="author" content="mozilla">
+
+  <!-- styles -->
+  <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- title -->
+  <title>Mozilla Clubs: How to use Central Station</title>
+</head>
+<body data-spy="scroll" data-taget=".page-menu">
+  <nav class="navbar navbar-default navbar-webmaker">
+    <div class="container">
+
+      <ul class="nav navbar-nav navbar-right">
+        <li class="hidden-xs"><a href="https://www.mozilla.org/" id="tabzilla">mozilla</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main>
+    <article>
+      <header class="jumbotron">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 title">
+              <h1>Mozilla Clubs: How to use Central Station</h1>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2 hidden-sm hidden-xs" id="page-menu">
+            <ul class="nav" >
+                <li class="active"><a href="#introduction">Introduction</a></li>
+                <li><a href="#what">What is Central Station</a></li>
+                <li><a href="#when">When to use it</a></li>
+                <li><a href="#how">How to use it</a></li>
+                <li><a href="#troubleshooting">Troubleshooting</a></li>
+            </ul>
+          </div>
+          <div class="col-md-10 col-md-offset-2">
+              
+              <blockquote>
+                  <em>Central Station is a shared document among Mozilla Club Regional Coordinators and Staff Organizers to record and coordinate how we serve Club Captains. </em> 
+              </blockquote>
+              
+            <h2 id="what">What is Central Station?</h2>
+              <p>
+                  [...]  
+              </p>            
+              
+            <h2 id="when">When to use it</h2>
+              <p>
+                  [...]  
+              </p>
+
+            <h2 id="how">How to use it</h2>
+              <p>
+                  [...]  
+              </p>
+              
+            <h2 id="troubleshooeting">Troubleshooting</h2>
+              <p>
+                  [...]  
+              </p>
+                
+            
+            <br>
+            <br>
+          
+            
+    </article>
+  </main>
+
+  <footer class="wm-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 col-sm-6 col-xs-12 footer-license">
+          <p>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img style="padding-bottom:10px;" alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><strong>Mozilla Clubs Fact Sheet</strong></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="#" property="cc:attributionName" rel="cc:attributionURL">Mozilla Learning Network</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+          </p>
+        </div>
+
+        <div class="col-md-2 col-sm-3 col-xs-12 col-md-offset-4 footer-links">
+          <ul>
+            <li><i class="fa fa-twitter"></i><a href="https://twitter.com/webmaker"> @mozteach on Twitter</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-2 col-sm-3 col-xs-12 footer-links">
+          <ul>
+            <li><a href="https://teach.mozilla.org/about/">Mozilla Learning Networks</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- scripts -->
+  <script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script>
+    // Disable tabzilla easteregg
+    Tabzilla.disableEasterEgg();
+
+    // fix the page menu position when scrolling
+    $( '#page-menu' ).affix({
+      offset: {
+        top: $( '#page-menu' ).offset().top,
+        bottom: $( 'main > article > footer' ).outerHeight( true ) + $( 'body > footer' ).outerHeight( true )
+      }
+    });
+
+    // scroll to internal links rather than jump
+    // (external links are not affected by this)
+    $( 'a' ).on( 'click', function() {
+      $( 'html, body' ).animate({
+        scrollTop: $( $.attr( this, 'href' ) ).offset().top
+      }, 700 );
+
+      return false;
+    });
+  </script>
+</body>
+</html>
