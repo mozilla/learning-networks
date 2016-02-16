@@ -2,15 +2,18 @@
 
 This repo is for tracking initiatives of the Mozilla Learning Networks team.
 
-## Adding new pages using the template
+### Adding new pages using the template
 
 This assumes that you are already familiar with how to make changes in this repo. If you're not, read the section below.
 
 1. Duplicate the ``blank-template`` folder and rename it to match the new page title
 2. Edit the ``content.md`` file in that folder.
-3. When you're done the page will be available at ``http://mozilla.github.io/learning-networks/clubs/name-of-your-folder``
+3. The navigation items in the left-side navigation will be automatically added for every primary and secondary heading
+  * Keep these headings short if possible
+4. The ``<title>`` tag in the HTML will set to the content in the main title in ``content.md`` file
+5. When you're done and push your changes to the main repo, your new page will be available at ``http://mozilla.github.io/learning-networks/clubs/name-of-your-folder``
 
-## Setting up your environment
+### Setting up your environment & making changes to content
 
 This briefly describes the steps you'll need to take in order to make changes to this content on your local machine. It's also possible to make changes directly on the Github UI - which is also an option.
 
