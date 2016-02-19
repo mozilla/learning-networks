@@ -7,7 +7,7 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
 1. Download the [Template Folder zip file](https://github.com/mozilla/learning-networks/releases/download/1/clubs-blank-template.zip)
 2. Unzip it
 3. Edit the ``content.md`` file only
-  * Try the [Brackets Editor](http://brackets.io/) - it's a cool!
+  * Try the [Brackets Editor](http://brackets.io/) - it's cool!
   * It's in markdown, here's a [handy syntax guide](https://guides.github.com/features/mastering-markdown/).
 4. Rename the folder to match the content title, this will be a part of the URL so...
   * Make it all lowercase
