@@ -14,3 +14,8 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
   * Replace spaces with dashes (like-this)
 5. Drag and drop the finished folder into the ``clubs`` folder on the ``gh-pages`` branch - [Right Here](https://github.com/mozilla/learning-networks/tree/gh-pages/clubs).
 6. Your new page will be available at ``http://mozilla.github.io/learning-networks/clubs/name-of-your-folder``
+
+### Deleting Pages
+1. Navigate to the specific file you want to delete
+2. Click the **Trash** icon in the top right of the file content
+3. If you delete both files in the folder, the folder will be deleted automatically
