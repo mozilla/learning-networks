@@ -11,6 +11,8 @@ In this guide you will find tips on,
 
 Have tips, links or information to share? Send it to teachtheweb@mozillafoundation.org or [add them in Discourse] (https://discourse.webmaker.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579).
 
+![Alt text](http://mozilla.github.io/learning-networks/clubs/assets/img/clubs-phone.jpg)
+
 ##Creating Safe Spaces
 
 Leading up to the event, it’s important to share clear communication with attendees and address any safety concerns regarding location, scheduling and logistical factors. Make sure attendees feel like they are able to come and attend a space safely and comfortably. Clearly identify the purpose of the event and the value they will gain as a participant as it relates to both gender and local context. For example, sending a pre-event email to attendees telling them that "the event is female-only and is meant to be a space where women can share, support and collaborative with each other" will allow participants to come to the event with that mindset. 
