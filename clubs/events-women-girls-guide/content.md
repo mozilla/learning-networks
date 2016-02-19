@@ -19,6 +19,7 @@ Leading up to the event, it’s important to share clear communication with atte
 While at the event, create a comfortable learning and sharing environment by sharing ground rules at the beginning. The point of the ground rules is to create an inclusive space by making sure that individuals feel they can express feelings, opinions and ideas in a way that are welcome and encouraged.
 
 Here are some example ground rules:
+
 * The goal of the event is to create a safe place for everyone to share opinions and ideas 
 * Everyone’s opinions are valid and important. There are no bad ideas.
 * The information shared by individuals within the session will be held with respect and anonymity.
@@ -46,6 +47,7 @@ Some ideas include:
 ## Dealing with Difficult Topics
 
 Often when addressing issues and concerns related specifically to women and girls it can be a high-risk conversation. A high-risk conversation means that participants will have strong emotional reactions and feelings towards what is being discussed. Facilitators should be aware of the risk and expect certain types of triggers (also known as tension points) to occur. These often occur when dealing with,
+
 * Gender
 * Race
 * Sexual preference
@@ -54,6 +56,7 @@ Often when addressing issues and concerns related specifically to women and girl
 * Culture differences 
  
 These triggers can result in individuals:
+
 * Blaming themselves, outsiders or each other
 * Frustrated over identify including sexual preference, gender, culture etc.
 * Becoming embarrassed or uncomfortable and not participating
@@ -61,6 +64,7 @@ These triggers can result in individuals:
 * Feeling unsupported or isolated because of comments made
  
 Here are some tips to help make sure you are creating a space that is as safe as possible for all individuals when engaging in high-risk conversations:
+
 * Tell individuals you are talking about sensitive topics before the event so that they have time to digest and reflect on their own
 * Reference the agreed upon ground rules when needed
 * Encourage the opinions of those who are might no longer be sharing, if more appropriate ask them why they weren’t participating in a 1-1 setting which they will find more comfortable
@@ -72,6 +76,7 @@ Here are some tips to help make sure you are creating a space that is as safe as
 ## Understanding Unconcious Biases
 
 What is unconscious bias?
+
 * Your mind makes 50,000 “fast” associations per one “slow” association
 * It bases these on information it has been passively collecting for your whole life
 * The unconscious mind is powerful and may surprise you
@@ -95,6 +100,7 @@ It’s important that in events, facilitation and material are created or adapte
 * Are there safe places you can point attendees to after the event to continue sharing, talking and reflecting with others?
  
 Remember to be,
+
 * Open to real conversations where individuals can be vulnerable and open
 * Honest to each other
 * Respectful of different ideas and backgrounds
