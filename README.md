@@ -2,6 +2,14 @@
 
 This repo is for tracking initiatives of the Mozilla Learning Networks team.
 
+### Adding new pages the Easy! way
+
+1. Download the [Template Folder zip file](https://github.com/mozilla/learning-networks/releases/download/1/clubs-blank-template.zip)
+2. Unzip it
+3. Edit the ``content.md`` file only
+4. Rename the folder to match the content title
+5. Drag and drop the finished folder into github.
+
 ### Adding new pages using the template
 
 This assumes that you are already familiar with how to make changes in this repo. If you're not, read the section below.
