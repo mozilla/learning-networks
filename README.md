@@ -8,7 +8,7 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
 2. Unzip it
 3. Edit the ``content.md`` file only
   * Use [Brackets](http://brackets.io/)
-  * It's in markdown, here's a (handy syntax guide)[https://guides.github.com/features/mastering-markdown/].
+  * It's in markdown, here's a [handy syntax guide](https://guides.github.com/features/mastering-markdown/).
 4. Rename the folder to match the content title, this will be a part of the URL so...
   * Make it all lowercase
   * Don't use special characters
