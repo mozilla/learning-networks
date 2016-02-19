@@ -2,7 +2,7 @@
 
 This repo is for tracking initiatives of the Mozilla Learning Networks team.
 
-![GitHub Logo](https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiC2NPoroTLAhUK02MKHecMB40QjRwIBw&url=http%3A%2F%2Fwww.vetprofessionals.com%2Fcatprofessional%2F&psig=AFQjCNEOwPCfj4uMxilclpPKzFtmdks_Gg&ust=1455989800704252)
+![GitHub Logo](http://www.vetprofessionals.com/catprofessional/images/home-cat.jpg)
 
 ### Adding new pages via the drag & drop!
 
