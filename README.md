@@ -18,12 +18,12 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
 
 ### Editing existing pages
 
-#### If you already have the  folder & files on your computer
+##### If you already have the  folder & files on your computer
 1. Edit the ``content.md`` file on your computer and save it.
 2. Drag the folder into the ``clubs`` folder (just like outlined above).
 3. **Warning** - your content will totally override what is in the repo
 
-#### If it is not
+##### If it is not
 1. Navigate to the ``content.md`` file you want to edit in the Github UI
 2. Click the Pencil icon near the top right of the file contents
 3. Use the **Preview** tab to check your changes.
