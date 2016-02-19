@@ -1,4 +1,4 @@
-#Guide: Mixing Your Afterschool Program & Your Mozilla Club
+###Guide: Mixing Your Afterschool Program & Your Mozilla Club
 
 Mozilla Clubs offer an opportunity to regularly bring digital literacy skills into an afterschool environment and participate in a global community of teachers and learners.  Afterschool programs are the ideal setting for educators and participants to teach and learn digital literacy skills by adapting Mozilla Club curriculum. Any afterschool provider interested in learning web literacy skills to help facilitate positive experiences in their programs, and create new and innovative hands-on activities can lead the effort.
 
