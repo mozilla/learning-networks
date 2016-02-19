@@ -22,6 +22,7 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
 1. Edit the ``content.md`` file on your computer and save it.
 2. Drag the folder into the ``clubs`` folder (just like outlined above).
 3. **Warning** - your content will totally override what is in the repo
+4. Basic syntax guide https://guides.github.com/features/mastering-markdown/
 
 ##### If it is not
 1. Navigate to the ``content.md`` file you want to edit in the Github UI
