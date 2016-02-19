@@ -8,6 +8,9 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
 2. Unzip it
 3. Edit the ``content.md`` file only
   * Use [Brackets](http://brackets.io/)
-4. Rename the folder to match the content title
+4. Rename the folder to match the content title, this will be a part of the URL so...
+  * Make it all lowercase
+  * Don't use special characters
+  * Replace spaces with dashes (like-this)
 5. Drag and drop the finished folder into the ``clubs`` folder on the ``gh-pages`` branch - [Right Here](https://github.com/mozilla/learning-networks/tree/gh-pages/clubs).
 6. Your new page will be available at ``http://mozilla.github.io/learning-networks/clubs/name-of-your-folder``
