@@ -1,7 +1,7 @@
 # Welcome!
 
 This repo is for tracking initiatives of the Mozilla Learning Networks team.
-!![560x315](https://www.youtube.com/embed/16euyHEi_X8)
+!![560x315](//www.youtube.com/embed/16euyHEi_X8)
 
 ### Adding new pages via the drag & drop!
 
