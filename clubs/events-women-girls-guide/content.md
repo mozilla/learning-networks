@@ -9,9 +9,8 @@ In this guide you will find tips on,
 * Understand personal biases
 * Design for optimal participation
 
-Have tips, links or information to share? Send it to teachtheweb@mozillafoundation.org or [add them in Discourse] (https://discourse.webmaker.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579).
+Have tips, links or information to share? Send it to teachtheweb@mozillafoundation.org or [add them in Discourse](https://discourse.webmaker.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579).
 
-![Alt text](http://mozilla.github.io/learning-networks/clubs/assets/img/clubs-phone.jpg)
 
 ##Creating Safe Spaces
 
@@ -28,7 +27,7 @@ Here are some example ground rules:
 * This is an open environment where we have all come to learn from each other.
 * We are not here to be mean, negative, sarcastic or attack each other
 * Say “I” when expressing your opinion so it doesn’t sound like you are speaking for an unknown collective group
-* ……[view this guide to setting ground rules] (http://www.edchange.org/multicultural/activities/groundrules.html)
+* ……[view this guide to setting ground rules](http://www.edchange.org/multicultural/activities/groundrules.html)
 
 Ask attendees if there are any other norms that might benefit the group? Give attendees information about what or who they can contact during the event if they want to ask questions or address concerns. This might be volunteering yourself, other mentors or directing to external support channels. Once you have created a space where individuals feel they can contribute shift the conversation to what you are there to learn about that day.
 
@@ -38,10 +37,10 @@ Consider including activities, games or icebreakers that help reinforce a safe/s
 
 Some ideas include:
 
-* Run through [this code of conduct exercise] (http://mozillascience.github.io/working-open-workshop/code_of_conduct/) that will walk you through some of the considerations associated with anti-harassment policies, and help you put in place a plan and process for creating a welcoming, inclusive, harassment-free space. 
+* Run through [this code of conduct exercise](http://mozillascience.github.io/working-open-workshop/code_of_conduct/) that will walk you through some of the considerations associated with anti-harassment policies, and help you put in place a plan and process for creating a welcoming, inclusive, harassment-free space. 
 * Before running an activity ask each attendee to share why the topic being covered at the event matters to them (if appropriate ask them specifically why it matters for females in their location).
-* [Run a spectrogram] (https://mozteach.makes.org/thimble/how-to-run-a-spectrogram-icebreaker) and ask questions containing gender-specific language. Ex. “As a women I feel the Internet is a safe place to use.”
-* At the end of the event have individuals share, either publically or privately, their appreciation for something another women in the room said or did at the event. If opting for more private appreciation, give individuals a few minutes at the end of the event to go up to each other directly (make sure it’s mandatory and don’t be alarmed if it looks like individuals are scrambling everywhere!). 
+* [Run a spectrogram](https://mozteach.makes.org/thimble/how-to-run-a-spectrogram-icebreaker) and ask questions containing gender-specific language. Ex. “As a women I feel the Internet is a safe place to use.”
+* At the end of the event have individuals share, either publically or privately, their appreciation for something another women in the room said or did at the event. If opting for more private appreciation, give individuals a few minutes at the end of the event to go up to each other directly(make sure it’s mandatory and don’t be alarmed if it looks like individuals are scrambling everywhere!). 
 
 
 ## Dealing with Difficult Topics
@@ -106,10 +105,10 @@ Remember to be,
 
 ## Resources 
 
-[Check out this facilitators guide] (http://mediasmarts.ca/sites/mediasmarts/files/pdfs/half-girl-half-face_guide.pdf) from Media Smarts for teaching a workshop on online image to girls in grade 7-8.
+[Check out this facilitators guide](http://mediasmarts.ca/sites/mediasmarts/files/pdfs/half-girl-half-face_guide.pdf) from Media Smarts for teaching a workshop on online image to girls in grade 7-8.
 
-View [these instructions] (http://andrewfuller.com.au/wp-content/uploads/2014/08/Teaching-Girls.pdf) on how you have to adapt your teaching style when teaching girls by Andrew Fuller.
+View [these instructions](http://andrewfuller.com.au/wp-content/uploads/2014/08/Teaching-Girls.pdf) on how you have to adapt your teaching style when teaching girls by Andrew Fuller.
 
 ### Join the Discussion
 
-Have tips and tricks? [Share them with the community in Discourse.] (https://discourse.webmaker.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579)
+Have tips and tricks? [Share them with the community in Discourse.](https://discourse.webmaker.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579)
