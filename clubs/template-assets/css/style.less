@@ -5,7 +5,7 @@
 @primary-darkest: darken(@primary, 10%);     // Selected state in nav
 @primary-dark:  darken(@primary, 5%);        // Hover state in nav
 @primary-light: lighten(@primary, 35%);      // Borders & horizontal rules
-@primary-lightest: lighten(@primary, 35%);   // Background for Example
+@primary-lightest: lighten(@primary, 55%);   // Background for Example
 
 @link-color: #089970;         // Link text
 @link-background: #E4F7F0;    // Link background when hovered
@@ -23,6 +23,7 @@ body {
   font-size: 16px;
   padding: 0;
   margin: 0;
+  position: relative;
 
   * {
     padding: 0;
@@ -144,89 +145,21 @@ article {
 
 // Example callout box
 
-.example {
-  display: flex;
+blockquote {
   margin: 35px 0 40px 0;
   background: @primary-lightest;
   color: @primary-darkest;
-  padding: 30px 35px;
+  padding: 20px;
+  border-left: solid 2px @primary-light;
 
-  .title {
-    flex: 1;
-    color: inherit;
-
-    h1 {
-      width: 100%;
-      padding: 0 0 2px 0;
-      font-size: 20px;
-      font-style: italic;
-      position: relative;
-      top: 3px;
-      color: inherit;
-    }
+  * {
+   color: inherit;
   }
 
-  .content {
-    flex: 2;
-    color: inherit;
-    position: relative;
-    padding-left: 22px;
-
-    &:after {
-      content: "";
-      width: 2px;
-      left: -2px;
-      top: 4px;
-      height: ~"calc(100% - 8px)";
-      position: absolute;
-      background: @primary-light;
-    }
-
-    p:last-child {
-      margin: 0;
-    }
-
-    * {
-      color: inherit;
-    }
-  }
-
-}
-
-// Summary, audience and duration
-.meta-information {
-  display: flex;
-  margin: 0 -20px 50px -20px;
-
-  .summary, .details {
-    margin: 0 20px;
-  }
-
-  .details {
-    flex: 1;
-
-    time, .difficulty {
-      color: @primary-darkest;
-      font-weight: 700;
-      margin-bottom: 3px;
-      display: block;
-    }
-
-    .difficulty:before {
-      content:   "\f007";
-      font-family: FontAwesome;
-      margin-right: 6px;
-    }
+  p:last-child {
+    margin-bottom: 0;
   }
 }
-
-time:before {
-  content:   "\f017";
-  font-family: FontAwesome;
-  margin-right: 6px;
-  color: inherit;
-}
-
 
 .summary {
   flex: 2;
@@ -247,33 +180,33 @@ time:before {
   }
 }
 
-// Format, target audience & materials
-.presentation-details {
-  display: flex;
-  margin: 0 -20px 35px -20px;
-
-  section {
-    flex: 1;
-    margin: 0 20px;
-
-    :last-child {
-      margin-bottom: 0;
-    }
-
-  }
-}
-
 // Side-bar with navigation
 aside {
-  background: @primary;
-  position:fixed;
-  height: 100vh;
-  width: @aside-width;
-  top: 0;
   z-index: 2;
+  width: @aside-width;
+  position: fixed;
+  top: 0;
+
+  &:before {
+    background: @primary;
+    content: "";
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    width: @aside-width;
+    z-index: 1;
+  }
 
   .image {
     position: relative;
+    height: 190px;
+    width: 170px;
+    margin: 22px 0 30px 27px;
+    background-image: ~"url(../template-assets/images/mozilla-clubs-illustration.svg)";
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 2;
 
     img {
       width: ~"calc(100% - 20px)";
@@ -284,10 +217,12 @@ aside {
 /* Left-side Navigation */
 
 nav {
-  padding: 0;
-  margin: 15px 0 80px 0;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
   position: relative;
+  z-index: 2;
+  margin: 25px 0;
 
   a {
     display: block;
@@ -338,112 +273,6 @@ nav {
   }
 }
 
-/*The steps to complete list*/
-
-time {
-  margin: 0 0 10px 0;
-  display: block;
-  color: @text-medium;
-  font-weight: 500;
-
-  &:before {
-    content:   "\f017";
-    font-family: FontAwesome;
-    margin-right: 6px;
-    color: inherit;
-  }
-}
-
-.steps {
-  margin: 30px 0 50px 0;
-  padding: 0 0 0 60px;
-
-  h1 {
-    font-weight: 500;
-    font-size: 22px;
-    margin: 0 0 6px 0;
-    padding: 0;
-    color: @primary-darkest;
-  }
-
-  > ol {
-    padding: 0;
-  }
-
-  > li {
-    list-style-type: none;
-    position: relative;
-    padding: 0 0 10px 0;
-    margin: 0 0 40px 0;
-
-    &:not(:last-child):after {
-      content: "";
-      position: absolute;
-      bottom: -2px;
-      height: 2px;
-      background: @primary-light;
-      width: 35%;
-      left: ~"calc(22% + 50px)";
-    }
-
-    &:last-child {
-      border: none;
-      margin: 0;
-
-      :last-child {
-        margin: 0;
-      }
-    }
-
-    &:before {
-      position: absolute;
-      left: -60px;
-      top: -10px;
-      font-weight: 400;
-      font-size: 22px;
-      color: @primary-darkest;
-      border: solid 2px @primary-light;
-      height: 43px;
-      width: 43px;
-      text-align: center;
-      box-sizing: border-box;
-      padding-top: 9px;
-      border-radius: 0 50% 50% 50%;
-    }
-
-    // Creates fancy number elements for the Steps-to-Complete list
-    .make-steps(@counter) when (@counter > 0) {
-      .make-steps((@counter - 1));
-      &:nth-child(@{counter}):before {
-        content: ~"'"@counter~"'";
-      }
-    }
-    .make-steps(10);
-  }
-
-  // Lists within the steps to complete list
-  ul, ol {
-    padding: 0;
-
-    li {
-      list-style-type: none;
-
-      &:before {
-        display: none;
-      }
-
-      h2 {
-        font-size: 15px;
-        color: @text-dark;
-        font-style: normal;
-        font-weight: 500;
-        margin: 0;
-      }
-    }
-  }
-
-}
-
 .glossary {
   -webkit-column-count: 2;
      -moz-column-count: 2;
@@ -471,33 +300,24 @@ time {
       margin-left: 15px;
     }
   }
-
 }
 
-.resources {
-  -webkit-column-count: 2;
-     -moz-column-count: 2;
-          column-count: 2;
-  -webkit-column-gap: 30px;
-     -moz-column-gap: 30px;
-          column-gap: 30px;
-  padding-bottom: 30px;
+// The main content wrapper
 
-  .resource  {
-    -webkit-column-break-inside: avoid;
-    break-inside: avoid;
-    padding-bottom: 25px;
+article {
+  .logo {
+    left: 0px;
+    width: 155px;
+    margin-top: 20px;
+  }
 
-    h4 {
-      margin: 0;
-      padding: 0;
-      font-size: 15px;
-      font-weight: 500;
-      line-height: 17px;
-    }
+  > ul, ol {
+    padding-left: 22px;
+    margin-bottom: 40px;
 
-    p {
-      margin: 10px 0 0 0;
+    li {
+      margin-bottom: 14px;
+      line-height: 150%;
     }
   }
 }
@@ -513,56 +333,5 @@ time {
     padding: 0;
     margin: 0;
     max-width: 100%;
-  }
-}
-
-
-
-
-article {
-  > ul, ol {
-    padding-left: 22px;
-    margin-bottom: 40px;
-
-    li {
-      margin-bottom: 8px;
-      line-height: 150%;
-    }
-  }
-}
-
-
-// The main content wrapper
-
-article {
-  .logo {
-    left: 0px;
-    width: 155px;
-    margin-top: 20px;
-  }
-}
-
-aside .image {
-  height: 190px;
-  width: 170px;
-  margin: 22px 0 30px 27px;
-  background-image: ~"url(../template-assets/images/mozilla-clubs-illustration.svg)";
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-aside nav {
-  margin-top: 25px;
-}
-
-article {
-  > ul, ol {
-    padding-left: 22px;
-
-    li {
-      margin-bottom: 14px;
-      line-height: 150%;
-    }
   }
 }
