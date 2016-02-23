@@ -95,34 +95,25 @@ function positionNav(){
   var asideTop = parseInt($("aside").css("top"));
 
   if(maxOffset > 0) {
-
     if(scrollDelta > 0) {
       //scrolling down
-
       var jam = $(window).height() - asideTop - $("aside").height();
-
       if(jam < 0) {
         $("aside").css("top", asideTop - scrollDelta);
       }
-
-
     } else {
       //Scrolling up
-
       if(asideTop < 0) {
         $("aside").css("top", asideTop - scrollDelta);
       }
     }
-
     if(asideTop > 0) {
       asideTop = 0;
       $("aside").css("top", 0);
     }
-
     if(Math.abs(asideTop) > maxOffset){
       $("aside").css("top", -1 * maxOffset);
     }
-
   }
 }
 
@@ -150,7 +141,7 @@ function buildContent(html){
 
       if($(el).prop("nodeName") == "H2") {
         var text = $(el).text();
-        var id = text.replace(/\s+/g, '-').toLowerCase();
+        var id = text.replace(/[^a-zA-Z0-9]+/g, "-");
         var id = id.toLowerCase();
         $(el).attr("id",id);
         $("nav").append("<a href='#"+id+"'>"+text+"</a>");
