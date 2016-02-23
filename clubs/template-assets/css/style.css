@@ -35,31 +35,44 @@ h4 {
   margin: 0 0 5px 0;
   font-size: 18px;
 }
+hr {
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  border: none;
+}
+hr:after {
+  content: "";
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 19px;
+  height: 2px;
+  background: #dde4f5;
+}
 p,
 li {
   color: rgba(0, 0, 0, 0.45);
   line-height: 160%;
 }
-ul,
-ol {
-  margin: 0 0 30px 0;
+code {
+  background: #dde4f5;
+  color: #1f3467;
+  padding: 3px;
 }
-ul li,
-ol li {
-  margin-bottom: 6px;
+pre {
+  background: #273D44;
+  padding: 18px;
+  display: block;
+  margin: 25px 0 30px 0;
+  font-size: 14px;
 }
-ul li {
-  list-style-type: none;
-  position: relative;
-}
-ul li:before {
-  content: ".";
-  position: absolute;
-  left: -15px;
-  font-weight: 700;
-  color: inherit;
-  font-size: 25px;
-  top: -6px;
+pre code {
+  padding: 0;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 140%;
 }
 strong {
   font-weight: 500;
@@ -83,6 +96,36 @@ article {
   margin-right: 55px;
   z-index: 1;
 }
+article img {
+  max-width: 100%;
+}
+article .logo {
+  left: 0px;
+  width: 155px;
+  margin-top: 20px;
+}
+article > ul,
+article ol {
+  padding-left: 22px;
+  margin-bottom: 40px;
+}
+article > ul li,
+article ol li {
+  margin-bottom: 8px;
+}
+article ul li {
+  list-style-type: none;
+  position: relative;
+}
+article ul li:before {
+  content: ".";
+  position: absolute;
+  left: -15px;
+  font-weight: 700;
+  color: inherit;
+  font-size: 25px;
+  top: -6px;
+}
 .logo {
   position: relative;
   left: -12px;
@@ -97,7 +140,7 @@ article {
   opacity: .8;
 }
 blockquote {
-  margin: 35px 0 40px 0;
+  margin: 30px 0 40px 0;
   background: #dde4f5;
   color: #1f3467;
   padding: 20px;
@@ -204,45 +247,6 @@ nav a.selected {
 nav a.selected:after {
   width: 15px;
   right: -15px;
-}
-.glossary {
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  column-count: 2;
-  -webkit-column-gap: 30px;
-  -moz-column-gap: 30px;
-  column-gap: 30px;
-  margin: 0 0 40px 0;
-}
-.glossary .term {
-  -webkit-column-break-inside: avoid;
-  column-break-inside: avoid;
-  display: table;
-}
-.glossary .term h3 {
-  font-weight: 500;
-  font-size: 16px;
-  color: #273D44;
-  margin: 0;
-}
-.glossary .term p {
-  margin-bottom: 20px;
-  margin-left: 15px;
-}
-article .logo {
-  left: 0px;
-  width: 155px;
-  margin-top: 20px;
-}
-article > ul,
-article ol {
-  padding-left: 22px;
-  margin-bottom: 40px;
-}
-article > ul li,
-article ol li {
-  margin-bottom: 14px;
-  line-height: 150%;
 }
 @media print {
   aside {

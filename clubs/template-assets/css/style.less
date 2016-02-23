@@ -63,35 +63,50 @@ h4 {
   font-size: 18px;
 }
 
+
+hr {
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  border: none;
+
+  &:after {
+    content: "";
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    top: 19px;
+    height: 2px;
+    background: @primary-lightest;
+  }
+}
+
 p, li {
   color: @text-medium;
   line-height: 160%;
 }
 
-ul, ol {
-  margin: 0 0 30px 0;
 
-  li {
-    margin-bottom: 6px;
-  }
+code {
+  background: @primary-lightest;
+  color: @primary-darkest;
+  padding: 3px;
 }
 
 
+pre {
+  background: @text-dark;
+  padding: 18px;
+  display: block;
+  margin: 25px 0 30px 0;
+  font-size: 14px;
 
-ul {
-  li {
-    list-style-type: none;
-    position: relative;
-
-    &:before {
-      content: ".";
-      position: absolute;
-      left: -15px;
-      font-weight: 700;
-      color: inherit;
-      font-size: 25px;
-      top: -6px;
-    }
+  code {
+    padding: 0;
+    background: transparent;
+    color: rgba(255,255,255,.6);
+    line-height: 140%;
   }
 }
 
@@ -123,6 +138,43 @@ article {
   padding: 20px 0 40px @aside-width + 65;
   margin-right: 55px;
   z-index: 1;
+
+
+  img {
+    max-width: 100%;
+  }
+
+  .logo {
+    left: 0px;
+    width: 155px;
+    margin-top: 20px;
+  }
+
+  > ul, ol {
+    padding-left: 22px;
+    margin-bottom: 40px;
+
+    li {
+      margin-bottom: 8px;
+    }
+  }
+
+  ul {
+    li {
+      list-style-type: none;
+      position: relative;
+
+      &:before {
+        content: ".";
+        position: absolute;
+        left: -15px;
+        font-weight: 700;
+        color: inherit;
+        font-size: 25px;
+        top: -6px;
+      }
+    }
+  }
 }
 
 .logo {
@@ -146,7 +198,7 @@ article {
 // Example callout box
 
 blockquote {
-  margin: 35px 0 40px 0;
+  margin: 30px 0 40px 0;
   background: @primary-lightest;
   color: @primary-darkest;
   padding: 20px;
@@ -273,56 +325,9 @@ nav {
   }
 }
 
-.glossary {
-  -webkit-column-count: 2;
-     -moz-column-count: 2;
-          column-count: 2;
-  -webkit-column-gap: 30px;
-     -moz-column-gap: 30px;
-          column-gap: 30px;
-
-  margin: 0 0 40px 0;
-
-  .term {
-    -webkit-column-break-inside: avoid;
-            column-break-inside: avoid;
-    display: table; // Weird hack for Firefox
-
-    h3 {
-      font-weight: 500;
-      font-size: @base-font-size;
-      color: @text-dark;
-      margin: 0;
-    }
-
-    p {
-      margin-bottom: 20px;
-      margin-left: 15px;
-    }
-  }
-}
-
-// The main content wrapper
-
-article {
-  .logo {
-    left: 0px;
-    width: 155px;
-    margin-top: 20px;
-  }
-
-  > ul, ol {
-    padding-left: 22px;
-    margin-bottom: 40px;
-
-    li {
-      margin-bottom: 14px;
-      line-height: 150%;
-    }
-  }
-}
 
 // Print styles
+
 @media print {
   aside {
     display: none;
