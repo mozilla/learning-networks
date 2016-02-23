@@ -3,6 +3,7 @@ body {
   font-size: 16px;
   padding: 0;
   margin: 0;
+  position: relative;
 }
 body * {
   padding: 0;
@@ -95,75 +96,18 @@ article {
   background: none;
   opacity: .8;
 }
-.example {
-  display: flex;
+blockquote {
   margin: 35px 0 40px 0;
-  background: #8fa6dd;
+  background: #dde4f5;
   color: #1f3467;
-  padding: 30px 35px;
+  padding: 20px;
+  border-left: solid 2px #8fa6dd;
 }
-.example .title {
-  flex: 1;
+blockquote * {
   color: inherit;
 }
-.example .title h1 {
-  width: 100%;
-  padding: 0 0 2px 0;
-  font-size: 20px;
-  font-style: italic;
-  position: relative;
-  top: 3px;
-  color: inherit;
-}
-.example .content {
-  flex: 2;
-  color: inherit;
-  position: relative;
-  padding-left: 22px;
-}
-.example .content:after {
-  content: "";
-  width: 2px;
-  left: -2px;
-  top: 4px;
-  height: calc(100% - 8px);
-  position: absolute;
-  background: #8fa6dd;
-}
-.example .content p:last-child {
-  margin: 0;
-}
-.example .content * {
-  color: inherit;
-}
-.meta-information {
-  display: flex;
-  margin: 0 -20px 50px -20px;
-}
-.meta-information .summary,
-.meta-information .details {
-  margin: 0 20px;
-}
-.meta-information .details {
-  flex: 1;
-}
-.meta-information .details time,
-.meta-information .details .difficulty {
-  color: #1f3467;
-  font-weight: 700;
-  margin-bottom: 3px;
-  display: block;
-}
-.meta-information .details .difficulty:before {
-  content: "\f007";
-  font-family: FontAwesome;
-  margin-right: 6px;
-}
-time:before {
-  content: "\f017";
-  font-family: FontAwesome;
-  margin-right: 6px;
-  color: inherit;
+blockquote p:last-child {
+  margin-bottom: 0;
 }
 .summary {
   flex: 2;
@@ -182,37 +126,43 @@ time:before {
   position: absolute;
   background: #8fa6dd;
 }
-.presentation-details {
-  display: flex;
-  margin: 0 -20px 35px -20px;
-}
-.presentation-details section {
-  flex: 1;
-  margin: 0 20px;
-}
-.presentation-details section :last-child {
-  margin-bottom: 0;
-}
 aside {
-  background: #2B488E;
+  z-index: 2;
+  width: 230px;
   position: fixed;
+  top: 0;
+}
+aside:before {
+  background: #2B488E;
+  content: "";
+  position: fixed;
+  top: 0;
   height: 100vh;
   width: 230px;
-  top: 0;
-  z-index: 2;
+  z-index: 1;
 }
 aside .image {
   position: relative;
+  height: 190px;
+  width: 170px;
+  margin: 22px 0 30px 27px;
+  background-image: url(../images/mozilla-clubs-illustration.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  z-index: 2;
 }
 aside .image img {
   width: calc(100% - 20px);
 }
 /* Left-side Navigation */
 nav {
-  padding: 0;
-  margin: 15px 0 80px 0;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
   position: relative;
+  z-index: 2;
+  margin: 25px 0;
 }
 nav a {
   display: block;
@@ -255,120 +205,6 @@ nav a.selected:after {
   width: 15px;
   right: -15px;
 }
-/*The steps to complete list*/
-time {
-  margin: 0 0 10px 0;
-  display: block;
-  color: rgba(0, 0, 0, 0.45);
-  font-weight: 500;
-}
-time:before {
-  content: "\f017";
-  font-family: FontAwesome;
-  margin-right: 6px;
-  color: inherit;
-}
-.steps {
-  margin: 30px 0 50px 0;
-  padding: 0 0 0 60px;
-}
-.steps h1 {
-  font-weight: 500;
-  font-size: 22px;
-  margin: 0 0 6px 0;
-  padding: 0;
-  color: #1f3467;
-}
-.steps > ol {
-  padding: 0;
-}
-.steps > li {
-  list-style-type: none;
-  position: relative;
-  padding: 0 0 10px 0;
-  margin: 0 0 40px 0;
-}
-.steps > li:not(:last-child):after {
-  content: "";
-  position: absolute;
-  bottom: -2px;
-  height: 2px;
-  background: #8fa6dd;
-  width: 35%;
-  left: calc(22% + 50px);
-}
-.steps > li:last-child {
-  border: none;
-  margin: 0;
-}
-.steps > li:last-child :last-child {
-  margin: 0;
-}
-.steps > li:before {
-  position: absolute;
-  left: -60px;
-  top: -10px;
-  font-weight: 400;
-  font-size: 22px;
-  color: #1f3467;
-  border: solid 2px #8fa6dd;
-  height: 43px;
-  width: 43px;
-  text-align: center;
-  box-sizing: border-box;
-  padding-top: 9px;
-  border-radius: 0 50% 50% 50%;
-}
-.steps > li:nth-child(1):before {
-  content: ' 1 ';
-}
-.steps > li:nth-child(2):before {
-  content: ' 2 ';
-}
-.steps > li:nth-child(3):before {
-  content: ' 3 ';
-}
-.steps > li:nth-child(4):before {
-  content: ' 4 ';
-}
-.steps > li:nth-child(5):before {
-  content: ' 5 ';
-}
-.steps > li:nth-child(6):before {
-  content: ' 6 ';
-}
-.steps > li:nth-child(7):before {
-  content: ' 7 ';
-}
-.steps > li:nth-child(8):before {
-  content: ' 8 ';
-}
-.steps > li:nth-child(9):before {
-  content: ' 9 ';
-}
-.steps > li:nth-child(10):before {
-  content: ' 10 ';
-}
-.steps ul,
-.steps ol {
-  padding: 0;
-}
-.steps ul li,
-.steps ol li {
-  list-style-type: none;
-}
-.steps ul li:before,
-.steps ol li:before {
-  display: none;
-}
-.steps ul li h2,
-.steps ol li h2 {
-  font-size: 15px;
-  color: #273D44;
-  font-style: normal;
-  font-weight: 500;
-  margin: 0;
-}
 .glossary {
   -webkit-column-count: 2;
   -moz-column-count: 2;
@@ -393,29 +229,20 @@ time:before {
   margin-bottom: 20px;
   margin-left: 15px;
 }
-.resources {
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  column-count: 2;
-  -webkit-column-gap: 30px;
-  -moz-column-gap: 30px;
-  column-gap: 30px;
-  padding-bottom: 30px;
+article .logo {
+  left: 0px;
+  width: 155px;
+  margin-top: 20px;
 }
-.resources .resource {
-  -webkit-column-break-inside: avoid;
-  break-inside: avoid;
-  padding-bottom: 25px;
+article > ul,
+article ol {
+  padding-left: 22px;
+  margin-bottom: 40px;
 }
-.resources .resource h4 {
-  margin: 0;
-  padding: 0;
-  font-size: 15px;
-  font-weight: 500;
-  line-height: 17px;
-}
-.resources .resource p {
-  margin: 10px 0 0 0;
+article > ul li,
+article ol li {
+  margin-bottom: 14px;
+  line-height: 150%;
 }
 @media print {
   aside {
@@ -427,40 +254,4 @@ time:before {
     margin: 0;
     max-width: 100%;
   }
-}
-article > ul,
-article ol {
-  padding-left: 22px;
-  margin-bottom: 40px;
-}
-article > ul li,
-article ol li {
-  margin-bottom: 8px;
-  line-height: 150%;
-}
-article .logo {
-  left: 0px;
-  width: 155px;
-  margin-top: 20px;
-}
-aside .image {
-  height: 190px;
-  width: 170px;
-  margin: 22px 0 30px 27px;
-  background-image: url(../images/mozilla-clubs-illustration.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-aside nav {
-  margin-top: 25px;
-}
-article > ul,
-article ol {
-  padding-left: 22px;
-}
-article > ul li,
-article ol li {
-  margin-bottom: 14px;
-  line-height: 150%;
 }
