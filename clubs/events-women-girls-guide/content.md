@@ -84,6 +84,11 @@ What is unconscious bias?
 
 Test your unconcious bias by going to implicit.harvard.edu Select your language and click go (sign in as guest). Select the Gender-Career IAT test. 
 
+Or watch these videos:
+*  [Learn about unconcious bias from ASAP Science](https://www.youtube.com/watch?v=JiTz2i4VHFw)
+*  [Facebook shares how to manage unconcious bias](https://managingbias.fb.com/)
+*  [And this video from Google](https://www.youtube.com/watch?v=nLjFTHTgEVU) 
+
 We often don't realize we make bias decision. It's important to understand more about your own personal biases and reflect upon your choice of wording, actions and presence as a facilitator.  
 
 ## Designing for Participation
@@ -114,6 +119,8 @@ Remember to be,
 [Check out this facilitators guide](http://mediasmarts.ca/sites/mediasmarts/files/pdfs/half-girl-half-face_guide.pdf) from Media Smarts for teaching a workshop on online image to girls in grade 7-8.
 
 View [these instructions](http://andrewfuller.com.au/wp-content/uploads/2014/08/Teaching-Girls.pdf) on how you have to adapt your teaching style when teaching girls by Andrew Fuller.
+
+[Watch a video](http://gender.stanford.edu/uncovering-authentic-leadership) on Uncovering Authentic Leadership with Professor Kenji Yoshino from NYU Law.
 
 ### Join the Discussion
 
