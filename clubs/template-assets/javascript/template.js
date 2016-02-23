@@ -36,6 +36,10 @@ $(document).ready(function(){
       scroll();
     }
   });
+
+  $(window).on("resize",function(){
+    checkLayout();
+  });
 });
 
 // Loads the h1 and h2 used for navigations into a javascript collection
@@ -86,6 +90,9 @@ function scroll(){
 function buildContent(html){
   var pageTitle;
 
+  $("article").attr("id","introduction");
+  $("nav").append("<a class='selected' href='#introduction'>Introduction</a>");
+
   $(html).each(function(i,el){
 
     // Loops through all of the elements in the page
@@ -98,8 +105,6 @@ function buildContent(html){
         if(!pageTitle) {
           pageTitle = $(el).text();
         }
-        $("nav").append("<a class='selected' href='#introduction'>Introduction</a>");
-        $(el).attr("id","introduction");
       }
 
       if($(el).prop("nodeName") == "H2") {
@@ -116,7 +121,21 @@ function buildContent(html){
   $("title").text(pageTitle);
   docHeight = $("body").height();
   checkHash();
+  checkLayout();
 }
+
+// Hides the sidebar image if there isn't a lot of room.
+
+function checkLayout(){
+  var windowHeight = $(window).height();
+  var asideHeight = $("nav").height() + $("aside .image").height() + 55;
+  if(asideHeight > windowHeight){
+    $(".image").hide();
+  } else {
+    $(".image").show();
+  }
+}
+
 
 //Gets the content.md file found in the same folder
 
