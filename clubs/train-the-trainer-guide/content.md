@@ -2,6 +2,12 @@
 
 This train-the-trainer guide will take you through the steps of running a Web Literacy leaders training. If you have questions email us at teachtheweb@mozillafoundation.org 
 
+![Training](https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12750024_825363694252539_1873474666_n.jpg)
+
+
+
+
+
 Now let's start with what you need to know before your training!
 
 ##Before the event
@@ -18,11 +24,11 @@ Look through these outlines and examples of training events that have happened i
 *  [Professional Development workshop by Mouse and Mozilla](https://mousemeredith.makes.org/thimble/LTExOTM0MTA1Ng==/summer-webmaker-institute) 
 
 ###Invite attendees
-Once you have established your audience, location, date and time you are ready to invite your attendees. 
-1.  Send your potential attendees an email asking them to RSVP.
-2.  Have them RSVP using an application form. [Here’s a sample form.](https://www.eventninja.io/e/web-literacy-leaders-mozilla-winter-ippd-2299) 
-3.  Two days before the event send a reminder of event details. 
+Once you have established your audience, location, date and time you are ready to invite your attendees.
 
+1. Send your potential attendees an email asking them to RSVP.
+2. Have them RSVP using an application form. [Here’s a sample form.](https://www.eventninja.io/e/web-literacy-leaders-mozilla-winter-ippd-2299) 
+3. Two days before the event send a reminder of event details. 
 
 ##Set-up
 
@@ -90,8 +96,8 @@ Are there other organizations present or being represented in a formal manner? S
 Mozilla understands web literacy to be the skills and competencies required to read, write and participate effectively on the web. Knowing how to read, write, and participate in the digital world has become the 4th basic foundational skill next to the three Rs—reading, writing, and arithmetic—in a rapidly evolving, networked world. Having these skills on the web expands access and opportunity for more people to learn anytime, anywhere, at any pace.
 
 Core to this work is the Web Literacy Map 2.0:
-1. Core skills needed to read, write, and participate on Web. This means being able to understand the mechanics, culture and citizenship of the web by helping people work more open, become citizens of and contributors to the web. The competencies listed on the map detail what it means to read, write and participate in ways that can create a positive impact for the web and user. 
-2. 21C Skills: problem-solving, creativity, collaboration, and communication.  This refers to a broad set of knowledge, skills, work habits, and character traits that are important to succeed in today’s world, particularly for college and career readiness and in the workplace. Examples of these skills include collaboration, communication, creativity, and problem-solving. 
+*  Core skills needed to read, write, and participate on Web. This means being able to understand the mechanics, culture and citizenship of the web by helping people work more open, become citizens of and contributors to the web. The competencies listed on the map detail what it means to read, write and participate in ways that can create a positive impact for the web and user. 
+*  21C Skills: problem-solving, creativity, collaboration, and communication.  This refers to a broad set of knowledge, skills, work habits, and character traits that are important to succeed in today’s world, particularly for college and career readiness and in the workplace. Examples of these skills include collaboration, communication, creativity, and problem-solving. 
 
 For more information [read the whitepaper on why Mozilla cares about Web Literacy.](http://mozilla.github.io/webmaker-whitepaper/)
 
