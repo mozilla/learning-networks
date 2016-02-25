@@ -19,9 +19,9 @@ Look through these outlines and examples of training events that have happened i
 
 ###Invite attendees
 Once you have established your audience, location, date and time you are ready to invite your attendees. 
-1. Sent your attendees an acceptance email asking them to RSVP.
-2. Have them RSVP using an application form. [Here’s a sample form.](https://www.eventninja.io/e/web-literacy-leaders-mozilla-winter-ippd-2299) 
-3. Two days before the event send a reminder of event details. 
+1.  Send your potential attendees an email asking them to RSVP.
+2.  Have them RSVP using an application form. [Here’s a sample form.](https://www.eventninja.io/e/web-literacy-leaders-mozilla-winter-ippd-2299) 
+3.  Two days before the event send a reminder of event details. 
 
 
 ##Set-up
@@ -77,7 +77,7 @@ Once the room is energized and back in their seats, this is when we usually shar
 
 As a representative of Mozilla this would be the time to share your work and what it means to be a contributor to the Mozilla project. Be sure to include how your work interacts with what individuals are doing that day. If individuals are not aware of Mozilla you might want to highlight some key points like,
 *  Mozilla is a non-profit that is dedicated to protecting the Internet as a global public resource.
-*  Mozilla is made up of a global community of people who believe that openness, innovation, and opportunity are key to the continued *  health of the Internet.
+*  Mozilla is made up of a global community of people who believe that openness, innovation, and opportunity are key to the continued  health of the Internet.
 *  Mozilla is dedicated to helping turn consumers of the web into producers of the web who understand the choices they have about authorship, privacy, and security online.
 *  Mozilla is also cultivating a global network of leaders who are teaching and learning web literacy, broadly defined as the ability to read, write and participate in the digital world.
 *  Encourage attendees to visit and use the free curriculum, tools and resources at https://teach.mozilla.org 
@@ -104,10 +104,12 @@ This is the meat of your training! You want to run activities that show your lea
 When teaching X-Ray Goggles,
 *  Do the [sample activity on the homepage](https://goggles.mozilla.org/) 
 *  [Hack the news](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session02-hackthenews.html) 
+
 When teaching Thimble,
 *  [The homework excuse generator](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/31650/homework-excuse-generator.html) 
 *  [My six-word learning story](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/14616/six-word-learning-story.html) 
 *  [Other activities](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/14616/thimble-cyoa.html) 
+
 Others,
 *  [Videos and activities to teach encryption](https://advocacy.mozilla.org/encrypt/) 
 *  [Run a spectrogram for privacy](https://chadsansing.github.io/curriculum-testing/expanded-privacy-curriculum/privacy-spectrogram) 
@@ -144,10 +146,10 @@ There are many aspects that go into teaching how to run an activity. Consider th
 *  Model failure and troubleshooting. Show that it’s okay if a mistake or error happens, and that the best response is to work through a solution, rather than to shut down or skip a step.
 
 ###Don’t,
-*  *  Stand in front of the room running a lecture-style presentation from your computer.
+*  Stand in front of the room running a lecture-style presentation from your computer.
 *  Let the same individuals control the whole conversation. If you see the same people raising their hand be sure to say that you are looking to hear from those who haven’t yet participated. 
 *  Force everyone to stay on the same step. If others jump ahead they can act as impromptu mentors for others that need help. 
-U*  se acronyms, big words, technical terms or language that others won’t understand. If you do, make sure that individuals in the room know what they mean.  
+*  Use acronyms, big words, technical terms or language that others won’t understand. If you do, make sure that individuals in the room know what they mean.  
 
 ##Closing
 
