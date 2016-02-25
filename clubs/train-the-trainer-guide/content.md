@@ -1,6 +1,6 @@
 #Running a Web Literacy leaders training 
 
-This train-the-trainer guide will take you through the steps of running a Web Literacy leaders training. If you have questions email us at teachtheweb@mozillafoundation.org 
+This train-the-trainer guide will take you through the steps of running a Web Literacy leaders training. If you have questions email us at [teachtheweb@mozillafoundation.org](teachtheweb@mozillafoundation.org)
 
 ![Training](https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/12750024_825363694252539_1873474666_n.jpg)
 
