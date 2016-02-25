@@ -18,6 +18,7 @@ Once the details are coming together identify your audience of facilitators, men
 
 ###Set an agenda
 Look through these outlines and examples of training events that have happened in the past. You can use them as a template for your own!
+
 *  [IPPD Web Literacy Leaders Training](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/31650/)
 *  [Teaching how to read, write and participate on the web with NWP](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/14616/) 
 *  [Teach the Web training for NCS Champions](https://laura.makes.org/thimble/teach-the-web-webmaker-and-ncs-teaching-kit) 
