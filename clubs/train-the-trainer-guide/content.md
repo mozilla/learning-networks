@@ -70,7 +70,9 @@ When starting your training, or any event, there are many things to remember. To
 ###Start with an engaging, participatory activity
 Whether your learners know each other or not it’s always good to start with an activity that allows people to move around and interact with each other. This can help break the ice and get them into the right frame of mind. 
 Often, a simple hands-on activity that participants can do together is the best way to introduce a technical concept. By making something or performing something together, participants can help one another understand your content and build trust that they will keep helping each other on more technical parts of the lesson.
+
 At Mozilla we love these activities:
+
 *  Spectrogram. This activity requires standing, moving and a healthy discussion. Best of all, it is adaptable to any topic you are covering that day. [Here’s a guide to running a spectogram](https://mozteach.makes.org/thimble/how-to-run-a-spectrogram-icebreaker) and here’s [how you can adapt the spectogram at a teach the web training event.](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/31650/spectrogram.html) Note: this works best when choosing polarizing/controversial statements where people have varying opinions/perspectives.
 *  A strong wind blows. This activity also requires standing up and some running around. It’s a good way to learn each attendee’s individual skills in the room. [Here’s the guide to running this activity.](https://mozteach.makes.org/thimble/a-strong-wind-blows-for-the-open-web) 
 *  Tag Tag Revolution. This activity, created by our friends at Mouse, is a quick HTML game that involves moving, shaking and dancing. [Here’s the guide to running this activity.](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/31650/tag-tag-revolution.html)
@@ -82,6 +84,7 @@ At Mozilla we love these activities:
 Once the room is energized and back in their seats, this is when we usually share more information about the individuals or organizations running the training. Be sure to share your role and any relevant experience you might have. 
 
 As a representative of Mozilla this would be the time to share your work and what it means to be a contributor to the Mozilla project. Be sure to include how your work interacts with what individuals are doing that day. If individuals are not aware of Mozilla you might want to highlight some key points like,
+
 *  Mozilla is a non-profit that is dedicated to protecting the Internet as a global public resource.
 *  Mozilla is made up of a global community of people who believe that openness, innovation, and opportunity are key to the continued  health of the Internet.
 *  Mozilla is dedicated to helping turn consumers of the web into producers of the web who understand the choices they have about authorship, privacy, and security online.
@@ -96,6 +99,7 @@ Are there other organizations present or being represented in a formal manner? S
 Mozilla understands web literacy to be the skills and competencies required to read, write and participate effectively on the web. Knowing how to read, write, and participate in the digital world has become the 4th basic foundational skill next to the three Rs—reading, writing, and arithmetic—in a rapidly evolving, networked world. Having these skills on the web expands access and opportunity for more people to learn anytime, anywhere, at any pace.
 
 Core to this work is the Web Literacy Map 2.0:
+
 *  Core skills needed to read, write, and participate on Web. This means being able to understand the mechanics, culture and citizenship of the web by helping people work more open, become citizens of and contributors to the web. The competencies listed on the map detail what it means to read, write and participate in ways that can create a positive impact for the web and user. 
 *  21C Skills: problem-solving, creativity, collaboration, and communication.  This refers to a broad set of knowledge, skills, work habits, and character traits that are important to succeed in today’s world, particularly for college and career readiness and in the workplace. Examples of these skills include collaboration, communication, creativity, and problem-solving. 
 
@@ -108,15 +112,18 @@ Dig into the skills and competencies [here.](https://teach.mozilla.org/activitie
 This is the meat of your training! You want to run activities that show your learners how to teach web literacy skills through various tools and curriculum. You can use those available at teach.mozilla.org/activities or integrate others as well. This section is curated and decided by you. In the past, we have found these activities provide a fun and fundamental framework:
 
 When teaching X-Ray Goggles,
+
 *  Do the [sample activity on the homepage](https://goggles.mozilla.org/) 
 *  [Hack the news](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session02-hackthenews.html) 
 
 When teaching Thimble,
+
 *  [The homework excuse generator](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/31650/homework-excuse-generator.html) 
 *  [My six-word learning story](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/14616/six-word-learning-story.html) 
 *  [Other activities](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/14616/thimble-cyoa.html) 
 
 Others,
+
 *  [Videos and activities to teach encryption](https://advocacy.mozilla.org/encrypt/) 
 *  [Run a spectrogram for privacy](https://chadsansing.github.io/curriculum-testing/expanded-privacy-curriculum/privacy-spectrogram) 
 *  [Use Lightbeam in this activity to learn about tracking](http://mozilla.github.io/webmaker-curriculum/ProtectingYourData/session02-lightbeam.html) 
