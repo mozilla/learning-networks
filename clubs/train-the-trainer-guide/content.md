@@ -16,6 +16,16 @@ The first step involves organizing your event and determining the logistics need
 
 Once the details are coming together identify your audience of facilitators, mentors, Club Captains or other attendees. Make sure you understand their skill level, needs or interests and develop an agenda that addresses these various levels. 
 
+Make sure your agenda matches both the needs of your audience and the amount of time you have with them.
+
+Decide which facilitators will lead which part of the workshop beforehand. 
+
+Create a shared document or other project management tool to keep track of the tasks you need to do ahead of the training. For example, you may need to revise a lesson, print materials, and make sure someone brings any special equipment or supplies.
+
+Schedule a few check-ins before the workshop so that facilitators can ask one another questions and build up common trust in each other and the agenda.
+
+Test as much technology as you can before the event. Have a backup plan ready in case of technical trouble.
+
 ###Set an agenda
 Look through these outlines and examples of training events that have happened in the past. You can use them as a template for your own!
 
