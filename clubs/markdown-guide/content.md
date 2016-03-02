@@ -71,22 +71,30 @@ You can ever ~~cross things out~~.
 
 * This is a bullet in an un-ordered list
 * This is a bullet in an un-ordered list
+  * This is a sub-bullet
+  * This is a sub-bullet
 * This is a bullet in an un-ordered list
 
 ```
 * This is a bullet in an un-ordered list
 * This is a bullet in an un-ordered list
+  * This is a sub-bullet
+  * This is a sub-bullet
 * This is a bullet in an un-ordered list
 ```
 
 1. This is a bullet in an ordered list
 2. This is a bullet in an un-ordered list
+  1. This is a sub-bullet
+  2. This is also a sub bullet
 3. This is a bullet in an un-ordered list
 
 
 ```
 1. The fist item
 2. The second item
+  1. This is a sub-bullet
+  2. This is also a sub bullet
 3. The third item
 ```
 

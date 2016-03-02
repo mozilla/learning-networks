@@ -113,18 +113,10 @@ article > ul li,
 article ol li {
   margin-bottom: 8px;
 }
-article ul li {
-  list-style-type: none;
-  position: relative;
-}
-article ul li:before {
-  content: ".";
-  position: absolute;
-  left: -15px;
-  font-weight: 700;
-  color: inherit;
-  font-size: 25px;
-  top: -6px;
+article li ul,
+article li ol {
+  padding-left: 20px;
+  margin: 12px 0;
 }
 .logo {
   position: relative;
