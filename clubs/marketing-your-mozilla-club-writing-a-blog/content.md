@@ -1,6 +1,6 @@
 #Clubs Communications: Blogging Guide
 
-###Your Mission:
+##Your Mission:
 Write regular blog articles about your Mozilla Club to tell its story / discuss recent Club events and activities; encourage participation within your community.
 
 ###Your Qualifications:
