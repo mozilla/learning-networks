@@ -41,4 +41,4 @@ Have a compelling story to share and experience publishing online via blogs or o
 ###Contact
 * Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs 
 * Email Mozilla’s communications manager Kevin Zawacki (kevin@mozillafoundation.org) for help or guidance with your blog
-* Tweet us anytime [@MozTeach](www.twitter.com/mozteach0) or using [#teachtheweb] (https://twitter.com/search?src=typd&q=%23teachtheweb) or [#MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
+* Tweet us anytime [@MozTeach](www.twitter.com/mozteach) or using [#teachtheweb] (https://twitter.com/search?src=typd&q=%23teachtheweb) or [#MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
