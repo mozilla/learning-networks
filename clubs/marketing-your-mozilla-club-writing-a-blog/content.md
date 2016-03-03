@@ -20,7 +20,7 @@ Have a compelling story to share and experience publishing online via blogs or o
 * Encourage learners in your club to submit their own blogs or written submissions to share. 
 * Provide timely responses to any commenters’ questions
 
-##Ideas for Getting Started
+##Getting Started
 * What did you experience that you want to share?
 * Choose one topic/theme/opinion to discuss.
 * What was interesting?
