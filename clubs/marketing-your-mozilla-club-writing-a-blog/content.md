@@ -1,6 +1,6 @@
 #Clubs Communications: Blogging Guide
 
-##Your Mission:
+###Your Mission:
 Write regular blog articles about your Mozilla Club to tell its story / discuss recent Club events and activities; encourage participation within your community.
 
 ###Your Qualifications:
@@ -17,7 +17,7 @@ Have a compelling story to share and experience publishing online via blogs or o
 
 5. Use correct spelling, grammar and punctuation (protip: ask someone to help proofread your work before submitting).
 
-6. Share your results with Mozilla. Email a link to your blog to amira@mozillafoundation.org or use [#teachtheweb] (https://twitter.com/search?src=typd&q=%23teachtheweb) on Twitter.
+6. Share your results with Mozilla. Email a link to your blog to amira@mozillafoundation.org or use [#teachtheweb](https://twitter.com/search?src=typd&q=%23teachtheweb) on Twitter.
 
 ###Your Goals
 * Post at least one blog about your Mozilla Club in the next month
@@ -41,4 +41,4 @@ Have a compelling story to share and experience publishing online via blogs or o
 ###Contact
 * Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs 
 * Email Mozilla’s communications manager Kevin Zawacki (kevin@mozillafoundation.org) for help or guidance with your blog
-* Tweet us anytime [@MozTeach](https://twitter.com/mozteach) or using [#teachtheweb] (https://twitter.com/search?src=typd&q=%23teachtheweb) or [#MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
+* Tweet us anytime [@MozTeach](https://twitter.com/mozteach) or using [#teachtheweb](https://twitter.com/search?src=typd&q=%23teachtheweb) or [#MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
