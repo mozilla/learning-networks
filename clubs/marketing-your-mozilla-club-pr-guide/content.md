@@ -3,7 +3,7 @@
 ##Your Mission
 Encourage local newspapers, radio stations and other media to share the story of your Mozilla Clubs with your community.
 
-#Your Qualifications
+##Your Qualifications
 You are a leader within a local Mozilla Club community with an interest in identifying, talking to and working with local media to share the story of your Club.
 
 ##Your Tasks
