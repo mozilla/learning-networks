@@ -16,7 +16,7 @@ Have a compelling story to share and experience publishing online via blogs or o
 
 ##Your Goals
 * Post at least one blog about your Mozilla Club in the next month
-* Share your blog with others who might be interested in participating. You can do this through [social media](https://docs.google.com/document/d/1UIukayevaotjBNtn_sRO3ozPPvlrghFs6mGbHjhTCs0/edit). On Twitter, include [@MozTeach](https://twitter.com/mozteach), #teachtheweb, or #MozillaClubs in your posts so we can keep up-to-date with your Clubs happenings.
+* Share your blog with others who might be interested in participating. You can do this through [social media](mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-social-media). On Twitter, include [@MozTeach](https://twitter.com/mozteach), #teachtheweb, or #MozillaClubs in your posts so we can keep up-to-date with your Clubs happenings.
 * Encourage learners in your club to submit their own blogs or written submissions to share. 
 * Provide timely responses to any commenters’ questions
 
