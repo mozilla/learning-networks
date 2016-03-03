@@ -1,4 +1,4 @@
-#Clubs Communications: Blogging Guide
+#Marketing Your Mozilla Club: Blogging Guide
 
 ##Your Mission
 Write regular blog articles about your Mozilla Club to tell its story / discuss recent Club events and activities; encourage participation within your community.
