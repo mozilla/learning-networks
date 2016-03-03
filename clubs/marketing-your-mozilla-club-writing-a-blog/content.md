@@ -8,15 +8,10 @@ Have a compelling story to share and experience publishing online via blogs or o
 
 ##Your Tasks:
 1. Write regular blog posts on your personal or club web page about your Mozilla Club. Range from 250-500 words.
-
 2. Include important information about your Club: examples of moments when your Club taught and learned the Web; where the club is based, what skills you taught at an event, how many members there are, how often you meet and what activities and products you use. (If this isn’t your first time blogging about your Club, consider writing about a recent Club event or activity.) 
-
 3. Tell your story: tell your reader why Web Literacy is important to you — and them. This should be in narrative form. Briefly describe the Club or your experience so readers understand the context. 
-
 4. Include photos/videos or links to relevant content. Provide links to the activities and web pages your Club uses.
-
 5. Use correct spelling, grammar and punctuation (protip: ask someone to help proofread your work before submitting).
-
 6. Share your results with Mozilla. Email a link to your blog to amira@mozillafoundation.org or use [#teachtheweb](https://twitter.com/search?src=typd&q=%23teachtheweb) on Twitter.
 
 ##Your Goals:
