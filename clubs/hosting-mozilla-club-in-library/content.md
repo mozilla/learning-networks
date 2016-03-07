@@ -1,7 +1,7 @@
 #Mozilla Club Guide: Hosting a Mozilla Club in Your Library
 Developed by: Kristina Gorr and the Mozilla Clubs team
 
->"At their best, ... libraries serve as centers of discovery and communication–places where people gather and where information comes alive through teaching and personal interaction. Indeed, to distinguish themselves in a world where Google is well on its way to digitally scanning most of the books ever written, libraries are learning to take advantage of the simple fact that they are centrally located in almost every community. In other words, libraries now see success being linked to their role as public places and destinations.” - [Cynthia Nikitin and Josh Jackson of Project for Public Spaces](http://www.pps.org/reference/librariesthatmatter-2/)
+>"At their best ... libraries serve as centers of discovery and communication–places where people gather and where information comes alive through teaching and personal interaction. Indeed, to distinguish themselves in a world where Google is well on its way to digitally scanning most of the books ever written, libraries are learning to take advantage of the simple fact that they are centrally located in almost every community. In other words, libraries now see success being linked to their role as public places and destinations.” - [Cynthia Nikitin and Josh Jackson of Project for Public Spaces](http://www.pps.org/reference/librariesthatmatter-2/)
 
 Curious about what it takes to create a Mozilla Club environment within a library that provides a welcoming, safe, and creative environment for teaching the web? This guide will help you by providing information and tips on:
 
@@ -12,7 +12,7 @@ Curious about what it takes to create a Mozilla Club environment within a librar
 Do you have other tips, links, or resources to share? Send them to us at teachtheweb@mozillafoundation.org or [join the discussion on teaching in a library in our community forum](https://discourse.webmaker.org/t/hosting-events-mozilla-clubs-in-libraries/581).
 
 
-##Why Should Your Mozilla Club Meet in a Library?
+##Why Should You Meet in a Library?
 
 * 98.0% of libraries offer either formal or informal technology training to patrons
 * 49.3% of libraries offer formal technology training classes in general computer use
@@ -32,7 +32,7 @@ Here are some quick steps to getting your club started at a library:
 3. Circulate information about the club online and within the library space.
 4. Have a designated area where your club takes place in the library and make sure the set-up is designed for group work (and perhaps some noise!). If you can run your club in a highly visible space, you might attract new mentors and participants, as well.
 5. Find co-facilitators or mentors to join you. Consider running a training and event for volunteers before the actual event. [Here’s a guide on how to run a training.](http://mozilla.github.io/learning-networks/clubs/train-the-trainer-guide/) 
-6. Create your agenda or pick some activities to run at teach.mozilla.org.
+6. Create your agenda or pick some activities to run at [teach.mozilla.org](https://teach.mozilla.org/).
 
 ###If you’re a library wanting to start a Mozilla Club in your space…..
 Libraries can benefit from running a Mozilla Club meeting in their space, as well.  Hosting local clubs and activities strengthens the resources available to the community, making the library a healthy, vibrant place for gatherings like clubs to promote web literacy. It’s essential for libraries to remain a positive place for youth and adults alike, especially as the digital age changes the environment of libraries across the world. Moreover, beginning a club can help spotlight your library’s digital programming for patrons, as well as attract local technology mentors to library-hosted events. Running a club is a way to connect learners and leaders in your library on a regular basis, establishing a strong mentorship offering with your library at the center.
@@ -40,12 +40,12 @@ Libraries can benefit from running a Mozilla Club meeting in their space, as wel
 ####How to start a club in your library
 Here are some quick steps to getting a club started at your library:
 
-1. Conduct an assessment of programs that are already hosted in your library and determine if and how a Mozilla Club might complement them
-2. Decide on partners/patrons that might be interested in getting involved
-3. Plan and conduct a preview night to build up interest and finalize plans for an ongoing club meeting
-4. If you decide to move forward with the club, pick a recurring date and time that works for the library schedule
-5. Circulate information about the club online and within the library space
-6. Create your agenda or pick some activities to run at teach.mozilla.org.
+1. Conduct an assessment of programs that are already hosted in your library and determine if and how a Mozilla Club might complement them.
+2. Decide on partners/patrons that might be interested in getting involved.
+3. Plan and conduct a preview night to build up interest and finalize plans for an ongoing club meeting.
+4. If you decide to move forward with the club, pick a recurring date and time that works for the library schedule.
+5. Circulate information about the club online and within the library space.
+6. Create your agenda or pick some activities to run at [teach.mozilla.org](https://teach.mozilla.org/).
 
 ##Facilitation Tips for Clubs in Libraries
 Because you are hosting your Club in a public space, there are some best practice guidelines that you should abide by:
@@ -55,7 +55,7 @@ Because you are hosting your Club in a public space, there are some best practic
 * Move tables, chairs, and other furniture back to their original places if you rearranged them for your meeting.
 * Be mindful of the noise level of your meetup. While you don’t need to whisper, monitor the noise level periodically, especially with youth. Check in with library staff, as well, regarding noise guidelines -  as more and more community programming moves into library spaces, silence isn’t always the rule in libraries.
 * Post clear signage where your library permits that lists the name of your Club, the topic of meet-up, and the date, time, and location of your meeting.
-* Be inclusive and welcoming to participants and curious bystanders who drop in to check out your club. Ask your regional coordinator or another mentor for help debiasing materials and make sure that all of your club members can see themselves in your lessons and materials 
+* Be inclusive and welcoming to participants and curious bystanders who drop in to check out your club. Ask your regional coordinator or another mentor for help debiasing materials and make sure that all of your club members can see themselves in your lessons and materials. 
 * Look into other meetups and events that are happening at the library. You may not want to host your meeting at the same time to minimize competition between programs. On the other hand, maybe you can collaborate with another program meeting at the same time!
 
 ###Guidelines for Libraries Hosting a Club
@@ -64,7 +64,7 @@ It’s important as the hosting library to be as clear as possible regarding exp
 ##Starter projects
 The following activities are easy to implement with any size group and are perfect for library meetings where computers are present:
 
-Beginner
+*Beginner*
 * [Making a MakerSpace](https://d157rqmxrxj6ey.cloudfront.net/mrskapp/9795/): A guide for creating a makerspace in your library.
 * [Web Literacy Basics](https://teach.mozilla.org/activities/web-lit-basics/): This six-part (available in 11 languages) series helps learners become familiar with reading, writing and participating on the web. They'll discover the foundations of the web through production and collaboration. This is an ideal kit for Mozilla Clubs.
 * [Web Literacy Basics II](https://teach.mozilla.org/activities/web-lit-basics-two/): Dive deeper into the basics of composing web pages, designing for accessibility, sharing resources, using online media, and working open.
@@ -72,12 +72,12 @@ Beginner
 * [Lo-fi, no-fi Teaching Kit](https://laura.makes.org/thimble/MTUyODMwNDY0/lofi-nofi-teaching-kit): This series of activities help teach web literacy concepts offline, or where access to technology is limited. Includes printable templates and games to teach coding, game design and app development.
 * [Homework Excuse Generator Thimble Tutorial](https://thimble.mozilla.org/anonymous/721d1185-eb53-4fdc-8078-b14a15646832/2498): Remix a random Homework Excuse Generator to have some fun at the start of a new school year.
 
-Intermediate
+*Intermediate*
 * [Hack Your Notebook](https://laura.makes.org/thimble/LTU1NDA0MTA4OA==/hack-your-notebook-teaching-kit) - Explore the connections between art, circuitry and systems thinking by hacking notebooks/journals with power and LEDs.
 * [Minecraft A Flavor of Java](https://epik.makes.org/thimble/NjU2MTQ2OTQ0/minecraft-a-flavor-of-java-epik) - Learners develop computational thinking skills by using Java to create their own Minecraft mod.
 * [CSS Story Cards](https://d157rqmxrxj6ey.cloudfront.net/mouseorg/19913/) - Students play a collaborative HTML & CSS card game to assemble an offline version of web page source code, then enter their code into Thimble to see what the web page looks like, and make fixes.
 
-##Examples of Successful Web Literacy Events in Libraries
+##Library Event Examples
 Mozilla has supported numerous web literacy events affiliated with libraries, primarily in North America to date. [Please share your story with us](https://discourse.webmaker.org/t/hosting-events-mozilla-clubs-in-libraries/581), so we can add more international examples to this list.
 * [PROjectUS](http://hivechicago.org/portfolio/project-us/)
 * [Teen Lit Festival](http://hivechicago.org/portfolio/chicago-teen-literary-festival/)
