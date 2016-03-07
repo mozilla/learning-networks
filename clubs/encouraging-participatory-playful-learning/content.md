@@ -3,6 +3,8 @@ Developed by: Shreyas Kutty, Carolina Tejada Alvarez, Kristina Gorr and the Mozi
 
 How does "teach like Mozilla" translate to your Mozilla Club? Instead of conventional learning methods that include watching & listening, explore participatory, inclusive and fun ways of teaching.  Below are facilitation tips, activity ideas and resources to help you get started!
 
+![Mozilla Club Guide - Playful Learning](http://i.imgur.com/AeUzMDQ.jpg)
+
 ###First, what do we mean by “participatory” and “playful”?
 **Participatory** = Participation = Your club members actively engaged in discussion, activities, and relationships with other Club members.
 
@@ -24,6 +26,8 @@ Keep participants on their feet or moving throughout the event. This will help t
 * If you know that a part of your meeting agenda includes a more low-energy activity, be sure to balance out your meeting with at least one high energy, offline, and playful activity!
 * Pay attention to your meeting space. Research shows the lighting, smell, temperature, etc. can affect people’s ability to learn and collaborate.
     * Change your meeting location from time to time to provide a refreshing atmosphere (park, rail station, etc.). OR take advantage of your space by doing different activities in various parts of the space (i.e. do an activity outside). 
+
+![Mozilla Club Guide - Playful Learning](http://i.imgur.com/b04ToHA.jpg)
 
 ##Activity Ideas
 There are tons of great activities that encourage participatory and playful learning on [teach.mozilla.org/activities](https://teach.mozilla.org/activities/). This list highlights a few to get you started. 
@@ -49,6 +53,8 @@ There are tons of great activities that encourage participatory and playful lear
     * [Thimble](https://thimble.mozilla.org/) - [Keep Calm & Carry On Poster Remix](https://thimble.mozilla.org/anonymous/13240dda-7b5a-4c89-83b3-741b651d1276/72) 
     * [Create a WebMaker Project](http://mozilla.github.io/webmaker-curriculum/MobileWeb/create-webmaker-project.html)
     * [X-Ray Goggles](https://goggles.mozilla.org/) - [Hack the News activity](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session02-hackthenews.html)
+
+![Mozilla Club Guide - Playful Learning](http://i.imgur.com/q1jNhyd.jpg)
 
 ##Resources
 Want even more ideas and tools for creating a participatory and playful Mozilla Club atmosphere? Here are a few resources to help you dig further.
