@@ -47,7 +47,7 @@ Here are some quick steps to getting a club started at your library:
 5. Circulate information about the club online and within the library space.
 6. Create your agenda or pick some activities to run at [teach.mozilla.org](https://teach.mozilla.org/).
 
-##Facilitation Tips for Clubs in Libraries
+##Facilitation Tips
 Because you are hosting your Club in a public space, there are some best practice guidelines that you should abide by:
 
 * You’re meeting in a common, public space, so be sure to respect it as such. 
