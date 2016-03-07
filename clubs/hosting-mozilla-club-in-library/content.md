@@ -1,4 +1,4 @@
-#Mozilla Club Guide: Hosting a Mozilla Club in Your Library
+#Hosting a Mozilla Club in Your Library
 Developed by: Kristina Gorr and the Mozilla Clubs team
 
 >"At their best ... libraries serve as centers of discovery and communication–places where people gather and where information comes alive through teaching and personal interaction. Indeed, to distinguish themselves in a world where Google is well on its way to digitally scanning most of the books ever written, libraries are learning to take advantage of the simple fact that they are centrally located in almost every community. In other words, libraries now see success being linked to their role as public places and destinations.” - [Cynthia Nikitin and Josh Jackson of Project for Public Spaces](http://www.pps.org/reference/librariesthatmatter-2/)
