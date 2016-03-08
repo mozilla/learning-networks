@@ -81,6 +81,7 @@ The following activities are easy to implement with any size group and are perfe
 
 ##Library Event Examples
 Mozilla has supported numerous web literacy events affiliated with libraries, primarily in North America to date. [Please share your story with us](https://discourse.webmaker.org/t/hosting-events-mozilla-clubs-in-libraries/581), so we can add more international examples to this list.
+
 * [PROjectUS](http://hivechicago.org/portfolio/project-us/)
 * [Teen Lit Festival](http://hivechicago.org/portfolio/chicago-teen-literary-festival/)
 * [Smart Grid Challenge](http://hivechicago.org/portfolio/smart-grid-challenge/)
@@ -104,6 +105,7 @@ Mozilla has supported numerous web literacy events affiliated with libraries, pr
 
 ##Other Resources
 Want even more ideas and tools for making your Club a success in your library? Here are a few resources to help you dig further.
+
 * [If You Build It, Will They Come? The story of a MakerSpace [Library] miracle.](http://www.teenlibrariantoolbox.com/2016/01/sunday-reflections-if-you-build-it-will-they-come-the-story-of-a-makerspace-miracle/)
 * [Digital Literacy, "Maker" Librarians and the Mozilla Learning Network](http://www.cilip.org.uk/blog/digital-literacy-maker-librarians-mozilla-learning-network)
 * [YOUMedia Learning Labs Network](http://youmedia.org/)
