@@ -1,6 +1,7 @@
 #Design Thinking
 
 Learning Objectives
+
 * Define problems suitable for learners to work on
 * Use haptic methods to encourage critical thought and planning
 * Encourage collaboration through project based activities
