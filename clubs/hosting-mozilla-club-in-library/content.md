@@ -64,7 +64,8 @@ It’s important as the hosting library to be as clear as possible regarding exp
 ##Starter projects
 The following activities are easy to implement with any size group and are perfect for library meetings where computers are present:
 
-*Beginner*
+####Beginner
+
 * [Making a MakerSpace](https://d157rqmxrxj6ey.cloudfront.net/mrskapp/9795/): A guide for creating a makerspace in your library.
 * [Web Literacy Basics](https://teach.mozilla.org/activities/web-lit-basics/): This six-part (available in 11 languages) series helps learners become familiar with reading, writing and participating on the web. They'll discover the foundations of the web through production and collaboration. This is an ideal kit for Mozilla Clubs.
 * [Web Literacy Basics II](https://teach.mozilla.org/activities/web-lit-basics-two/): Dive deeper into the basics of composing web pages, designing for accessibility, sharing resources, using online media, and working open.
@@ -72,7 +73,8 @@ The following activities are easy to implement with any size group and are perfe
 * [Lo-fi, no-fi Teaching Kit](https://laura.makes.org/thimble/MTUyODMwNDY0/lofi-nofi-teaching-kit): This series of activities help teach web literacy concepts offline, or where access to technology is limited. Includes printable templates and games to teach coding, game design and app development.
 * [Homework Excuse Generator Thimble Tutorial](https://thimble.mozilla.org/anonymous/721d1185-eb53-4fdc-8078-b14a15646832/2498): Remix a random Homework Excuse Generator to have some fun at the start of a new school year.
 
-*Intermediate*
+####Intermediate
+
 * [Hack Your Notebook](https://laura.makes.org/thimble/LTU1NDA0MTA4OA==/hack-your-notebook-teaching-kit) - Explore the connections between art, circuitry and systems thinking by hacking notebooks/journals with power and LEDs.
 * [Minecraft A Flavor of Java](https://epik.makes.org/thimble/NjU2MTQ2OTQ0/minecraft-a-flavor-of-java-epik) - Learners develop computational thinking skills by using Java to create their own Minecraft mod.
 * [CSS Story Cards](https://d157rqmxrxj6ey.cloudfront.net/mouseorg/19913/) - Students play a collaborative HTML & CSS card game to assemble an offline version of web page source code, then enter their code into Thimble to see what the web page looks like, and make fixes.
