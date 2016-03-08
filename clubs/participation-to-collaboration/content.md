@@ -14,6 +14,7 @@ Do you know the characteristics of participation versus collaboration? They both
 ##Facilitation Tips
 
 Moving your Club from participation-centric to collaboration-centric, if done successfully, will result in participants self-organizing and stepping into various roles to meet their needs, the needs of others, and the club’s needs. You can help facilitate this healthy shift using the following tips:
+
 * Ensure that your participants are clear in what they want to learn and are confident that their goal will be heard by you and the rest of the club. You can do this by doing self reflection activities, and opening up discussion for feedback on the Club environment.
 * Encourage participants to connect their emotions, inspirations and goals with their educational community and future. This link will ensure they do what is necessary to collaborate with others, not only to achieve their goals, but to also help others achieve their goals.
     * Activities that give them an opportunity to connect with their emotions (1 - happy memory), with their inspiration (2 - dream) before they get to rational thinking (3 - planning) tend to trigger the impulse for action (4 - stepping in). This is a great outcome and one that harbors collaboration!
@@ -25,6 +26,7 @@ Moving your Club from participation-centric to collaboration-centric, if done su
 ##Activity Ideas
 
 There are tons of great activities that encourage collaboration at teach.mozilla.org/activities. Here are a quick list of suggested activities to help your Mozilla Club move from participation to collaboration:
+
 * Personal Presentation Icebreakers: Sit in a circle and...
         * Tell us about a time when you felt motivated to be a leader?
         * What inspires you?
@@ -38,6 +40,7 @@ There are tons of great activities that encourage collaboration at teach.mozilla
 
 ##Resources
 Want even more ideas and tools for moving your Club from participation to collaboration? Here are a few resources to help you dig further.
+
 * [Discourse Community Forum](https://discourse.webmaker.org/)
 * [Web Literacy Map](https://teach.mozilla.org/activities/web-literacy)
 * [Github](https://github.com/)
