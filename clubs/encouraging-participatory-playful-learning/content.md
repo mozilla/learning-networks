@@ -58,6 +58,7 @@ There are tons of great activities that encourage participatory and playful lear
 
 ##Resources
 Want even more ideas and tools for creating a participatory and playful Mozilla Club atmosphere? Here are a few resources to help you dig further.
+
 *  [[MozFest]Playful & Participatory learning at Mozilla Clubs](https://dunebuggie.wordpress.com/2015/11/08/mozfestplayful-participatory-learning-at-mozilla-clubs/)
 *  [Using Thimble with Limited Connectivity](https://blog.webmaker.org/using-thimble-with-limited-internet-connectivity)
 *  [Discourse Community Forum](https://discourse.webmaker.org/)
