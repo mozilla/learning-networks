@@ -4,7 +4,9 @@ Developed by: Simeon Oriko, Carolina Tejada Alvarez, Kristina Gorr and the Mozil
 How do organizations work in the open and how can your Mozilla Club replicate those ideas? By reviewing case studies of organizations working in the open, teaching how to practice open, and having hands on tutorials using web tools that facilitate working in the open, we’ll learn the answer. Less what to do and more how to do it!
 
 ##What does “teaching in the open” mean?
+
 Teaching = to impart knowledge of skill
+
 Open = unobstructed entrance and exit; not shut or closed
 
 Therefore, to teach in the open is to impart a knowledge or skill (web literacy, in our case) in an unobstructed environment, with no closed entrance or exit for collaborators. All knowledge, skill, processes, and goals are completely transparent to those in our community. 
