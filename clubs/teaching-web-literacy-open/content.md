@@ -13,6 +13,7 @@ Therefore, to teach in the open is to impart a knowledge or skill (web literacy,
 
 ##Facilitation Tips
 Teaching web literacy in the open will require that you model working in the open while facilitating your Mozilla Club. Here are some tips for effectively doing so:
+
 * Build and plan your Mozilla Clubs meeting agenda using collaborative tools and welcome feedback or ideas from all members
     * Example of collaborative tools: [Github](https://github.com/), [Google Docs](https://www.google.com/docs/about/), [Etherpad](http://etherpad.org/)
 * Create projects with your students from inception, instead of on your own. This encourages collaboration in every aspect of your Mozilla Club!
@@ -31,6 +32,7 @@ Teaching web literacy in the open will require that you model working in the ope
 
 ##Activity Ideas
 Here are a list of suggested activities to help your Mozilla Club participants understand why and how teaching the web in the open is important and to begin thinking of implementation. 
+
 * Personal Presentation Icebreakers: Example: Invite the participants to draw a self picture and paste it on the wall to create a class photo. This builds a sense of belonging and community and also provides a point of reflection.
 * Post-It Note Q&A/Discussions: Provide a prompt and have participants write answers/feedback on a post-it note, then stick it to a wall.
     * Here is an idea of a few prompts/activities to create one session:
@@ -54,6 +56,7 @@ Here are a list of suggested activities to help your Mozilla Club participants u
 
 ##Resources
 Want even more ideas and tools for teaching the web in the open? Here are a few resources to help you dig further.
+
 * [Discourse Community Forum](https://discourse.webmaker.org/)
 * [Web Literacy Map](https://teach.mozilla.org/activities/web-literacy)
 * [Github](https://github.com/)
