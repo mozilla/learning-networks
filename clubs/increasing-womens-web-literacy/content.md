@@ -18,8 +18,8 @@ BUT, invite women of all ages! Just be mindful that they will have different web
 * Build confidence in women participants by creating a safe environment where there are no “stupid” questions, every mistake is viewed as an opportunity to learn, and allow them to work together to build relationships as much as possible. Create a safe environment by:
     * Setting ground rules. Tell participants to be respectful of others opinions, that information will remain confidential, and other relevant information that is needed. 
     * Asking and encouraging all individuals to participate. 
-    * Be supportive of all opinions. 
-*Play a supporter role, not a micromanagement role. Share, learn, motivate, create together. Connect with other Mozilla Club Captains and share ideas
+    * Be supportive of all opinions.
+    * *Play a supporter role, not a micromanagement role. Share, learn, motivate, create together. Connect with other Mozilla Club Captains and share ideas
 
 ![Women & Web Literacy](http://i.imgur.com/LtZa3xF.jpg)
 
