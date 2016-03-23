@@ -132,7 +132,11 @@ View [these instructions](http://andrewfuller.com.au/wp-content/uploads/2014/08/
 
 [Watch a video](http://gender.stanford.edu/uncovering-authentic-leadership) on Uncovering Authentic Leadership with Professor Kenji Yoshino from NYU Law.
 
+[Another video on Gender Equality by Design](https://air.mozilla.org/what-works-gender-equality-by-design-with-iris-bohnet/) with Iris Bohnet.
+
 [Strategies for educators](http://www.unr.edu/Documents/education/math-camp/Teacher_Strategies_PDF.pdf) to support females in STEM by Lynda R. Wiest. 
+
+[Read this report from YWCA](https://www.ywcanyc.org/wp-content/uploads/2016/02/FutureOfSTEM-Publication.pdf) titled "The Future of STEM is Inclusive, Equity Ideas for Women and Girls in Science, Technology, Engineering, and Math."
 
 ### Join the Discussion
 
