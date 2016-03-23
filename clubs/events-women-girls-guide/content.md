@@ -124,11 +124,15 @@ Remember to be:
 
 ## Resources 
 
+[Watch the Mozilla Learning Community Call](https://www.youtube.com/watch?v=QfvrKvx4mUk) with speakers, resources and tips on teaching the web to women and girls.
+
 [Check out this facilitators guide](http://mediasmarts.ca/sites/mediasmarts/files/pdfs/half-girl-half-face_guide.pdf) from Media Smarts for teaching a workshop on online image to girls in grade 7-8.
 
 View [these instructions](http://andrewfuller.com.au/wp-content/uploads/2014/08/Teaching-Girls.pdf) on how you have to adapt your teaching style when teaching girls by Andrew Fuller.
 
 [Watch a video](http://gender.stanford.edu/uncovering-authentic-leadership) on Uncovering Authentic Leadership with Professor Kenji Yoshino from NYU Law.
+
+[Strategies for educators](http://www.unr.edu/Documents/education/math-camp/Teacher_Strategies_PDF.pdf) to support females in STEM by Lynda R. Wiest. 
 
 ### Join the Discussion
 
