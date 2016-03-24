@@ -1,4 +1,4 @@
-#Mozilla Club Guide: Public Speaking: Becoming comfortable with speaking in front of your Mozilla Club and Club partners
+#Public Speaking: Becoming comfortable with speaking in front of your Mozilla Club and Club partners
 Developed by: Kristina Gorr and the Mozilla Clubs team
 
 “It's much easier to be convincing if you care about your topic. Figure out what's important to you about your message and speak from the heart.”
@@ -23,14 +23,23 @@ Public speaking is scary for a lot of people, but it doesn’t have to be! If yo
 2. Look professional. This means that you need to be well-groomed, smell nice, and wear appropriate clothing.
 3. Act professional. This means that before (and after) the event, you need to be courteous, kind, and friendly. What you have to say will lose credibility if your audience doesn’t have a good first (or last) impression of you.
 4. Watch others who are master public speakers, take notes, and learn from the best. Just make sure they really are great at public speaking so you don’t pick up bad habits!
+
   a. Mitchell Baker, Mozilla Executive Chairwoman, and Mark Surman, Mozilla Foundation Executive Director, are great speakers to watch.
+  
   b. TED Talks is a great place to find great public speakers to watch.
+  
 5. Figure out how to calm your nerves. What makes public speaking scary for you? Once you figure it out, learn how to control it. Taking deep breaths, using positive visualization (whatever makes you happy), and smiling are all exercises that work for many people.
-  a. Need more ideas to help conquer your fear? This article provides 7 science-backed strategies you can utilize to overcome your struggle.
+  
+  a. Need more ideas to help conquer your fear? This article provides 7 science-backed strategies you can utilize to overcome your            struggle.
+
 6. Figure out if you have a “whisker word” and work to stop using it, even in everyday conversations. 
-  a. A whisker word is a word that you use to fill silence while you are thinking of what to say next. For many people, it is “um” or “uh,” but can also be “so,” “therefore,” “and,” or even a phrase such as “you know.”
-  b. To figure out if you have a whisker word, ask your friends if there is a particular word that you say often, especially when speaking in front of a crowd. The word shows up more when you are nervous. Or, record yourself and listen for the word that keeps popping up
-  c. One method to stop whisker words: Put a rubberband around your wrist. Every time you catch yourself saying the word, give the rubber band a light snap! You’ll notice the word and try to stop yourself from saying it rather quickly.
+
+  a. A whisker word is a word that you use to fill silence while you are thinking of what to say next. For many people, it is “um” or        “uh,” but can also be “so,” “therefore,” “and,” or even a phrase such as “you know.”
+
+  b. To figure out if you have a whisker word, ask your friends if there is a particular word that you say often, especially when             speaking in front of a crowd. The word shows up more when you are nervous. Or, record yourself and listen for the word that keeps        popping up
+  
+  c. One method to stop whisker words: Put a rubberband around your wrist. Every time you catch yourself saying the word, give the rubber      band a light snap! You’ll notice the word and try to stop yourself from saying it rather quickly.
+  
 7. **Practice, practice, practice!** Practice makes perfect so the more opportunities you have to speak in front of a crowd, the better you will get. 
 
 ###Introductions
