@@ -13,7 +13,7 @@ Public speaking is a great skill to develop and one that doesn’t come naturall
 
 Public speaking is scary for a lot of people, but it doesn’t have to be! If you practice and address the specific reasons why public speaking is scary for you, you can and will develop a highly valued and esteemed skill.
 
-![Mark Surman and Michelle Thorne, MozFest 2015 Public Speaking](https://www.flickr.com/photos/mozfest/22882878855/)
+![Mark Surman and Michelle Thorne, MozFest 2015 Public Speaking](http://i.imgur.com/eyfBD8z.jpg)
 
 ##Public Speaking Best Practices
 
@@ -52,7 +52,7 @@ Public speaking is scary for a lot of people, but it doesn’t have to be! If yo
 
   e.g. “Mozilla Barcelona is dedicated to helping people learn the most important skills of our age: the ability to read, write and participate in the digital world. One way we’re doing that is by bringing together the community to learn and collaborate about various open web topics. Today we’re diving into privacy on the web.” 
 
-![MozFest 2015 speaker](http://imgur.com/q6D5Qni)
+![MozFest 2015 speaker](http://i.imgur.com/q6D5Qni.jpg)
 
 ###Body of your message
 
@@ -76,7 +76,7 @@ Here are a few great tips from Mozilla’s TechSpeakers Curriculum:
   * In light of feedback, re-record and resubmit to the same mentor/peers with the following question: Was that better?
 * Step 3: Repeat until satisfied with the results!
 
-![Mehul Patel Speaking](https://www.flickr.com/photos/rowdymehul/22490651226/in/album-72157659982111959/) Photo provided by Mehul Patel
+![Mehul Patel Speaking](http://i.imgur.com/QH892NP.png) Photo provided by Mehul Patel
 
 ##Choosing a Mentor
 Because public speaking is a very public skill, it’s important to get feedback from someone you respect and trust regarding how you are doing with your public speaking progress. You want to choose someone that will give you constructive feedback that isn’t mean or belittling, but rather builds you up and encourages you to keep improving. Some people choose family members, close friends, or trusted work colleagues. It doesn’t matter who you choose, as long as you trust them to be honest, motivating, and will check in with your about your progress often.  
