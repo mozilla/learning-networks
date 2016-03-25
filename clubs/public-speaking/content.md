@@ -24,13 +24,13 @@ Public speaking is scary for a lot of people, but it doesn’t have to be! If yo
 3. Act professional. This means that before (and after) the event, you need to be courteous, kind, and friendly. What you have to say will lose credibility if your audience doesn’t have a good first (or last) impression of you.
 4. Watch others who are master public speakers, take notes, and learn from the best. Just make sure they really are great at public speaking so you don’t pick up bad habits!
 
-  a. Mitchell Baker, Mozilla Executive Chairwoman, and Mark Surman, Mozilla Foundation Executive Director, are great speakers to watch.
+  a. [Mitchell Baker](https://air.mozilla.org/search/?q=mitchell+baker), Mozilla Executive Chairwoman, and [Mark Surman](https://marksurman.commons.ca/speaking-engagements/), Mozilla Foundation Executive Director, are great speakers to watch.
   
-  b. TED Talks is a great place to find great public speakers to watch.
+  b. [TED Talks](https://www.ted.com/talks) is a great place to find great public speakers to watch.
   
 5. Figure out how to calm your nerves. What makes public speaking scary for you? Once you figure it out, learn how to control it. Taking deep breaths, using positive visualization (whatever makes you happy), and smiling are all exercises that work for many people.
   
-  a. Need more ideas to help conquer your fear? This article provides 7 science-backed strategies you can utilize to overcome your            struggle.
+  a. Need more ideas to help conquer your fear? [This article](http://www.businessinsider.com.au/tips-to-conquer-fear-of-public-speaking-2015-7) provides 7 science-backed strategies you can utilize to overcome your            struggle.
 
 6. Figure out if you have a “whisker word” and work to stop using it, even in everyday conversations. 
 
@@ -59,14 +59,14 @@ Public speaking is scary for a lot of people, but it doesn’t have to be! If yo
 1. Only use slides if you have powerful images. Action shots of people, or screenshots of your creation/web page in action are great. Do not use slides to host large bodies of text. 
 2. Keep it short and simple. A great message is one that is concise, to-the-point, and doesn’t bore the audience. In fact:
 
-  “You remember approximately 20 percent of what you hear. You remember approximately 30 percent of what you see. You remember approximately 50 percent of what you hear and see together. You remember approximately 70 percent of what you say (if you think as you are saying it).” - Darmouth Active Study
+  “You remember approximately 20 percent of what you hear. You remember approximately 30 percent of what you see. You remember approximately 50 percent of what you hear and see together. You remember approximately 70 percent of what you say (if you think as you are saying it).” - [Darmouth Active Study](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiYr9-Z99HLAhVNxWMKHYJ0BZoQFggeMAE&url=http%3A%2F%2Fwww.dartmouth.edu%2F~acskills%2Fdocs%2Fstudy_actively.doc&usg=AFQjCNGSXkIpWCMr03ik3EHMdHmjAUlFlQ)
 
  In other words, say what you need to say, using powerful visuals, then let your audience discuss or conduct an activity that solidifies the points you are trying to make for themselves. They will remember more of what they say and do on their own.
 
 3. Don’t use your whisker word! (See #6 from “things to keep in mind…”)
 
 ###How to practice
-Here are a few great tips from Mozilla’s TechSpeakers Curriculum:
+Here are a few great tips from Mozilla’s [TechSpeakers Curriculum](https://wiki.mozilla.org/TechSpeakers/Curriculum):
 
 * Step 1: Record Yourself.
   * Record 3-5 minutes of yourself presenting. Get feedback from your mentor/peers:
