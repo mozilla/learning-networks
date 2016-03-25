@@ -76,7 +76,8 @@ Here are a few great tips from Mozilla’s [TechSpeakers Curriculum](https://wik
   * In light of feedback, re-record and resubmit to the same mentor/peers with the following question: Was that better?
 * Step 3: Repeat until satisfied with the results!
 
-![Mehul Patel Speaking](http://i.imgur.com/QH892NP.png) Photo provided by Mehul Patel
+![Mehul Patel Speaking](http://i.imgur.com/QH892NP.png) 
+Photo provided by Mehul Patel
 
 ##Choosing a Mentor
 Because public speaking is a very public skill, it’s important to get feedback from someone you respect and trust regarding how you are doing with your public speaking progress. You want to choose someone that will give you constructive feedback that isn’t mean or belittling, but rather builds you up and encourages you to keep improving. Some people choose family members, close friends, or trusted work colleagues. It doesn’t matter who you choose, as long as you trust them to be honest, motivating, and will check in with your about your progress often.  
