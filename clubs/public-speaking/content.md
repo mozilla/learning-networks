@@ -52,7 +52,7 @@ Public speaking is scary for a lot of people, but it doesn’t have to be! If yo
 
   e.g. “Mozilla Barcelona is dedicated to helping people learn the most important skills of our age: the ability to read, write and participate in the digital world. One way we’re doing that is by bringing together the community to learn and collaborate about various open web topics. Today we’re diving into privacy on the web.” 
 
-![MozFest 2015 speaker](https://www.flickr.com/photos/mozfest/22455740788/)
+![MozFest 2015 speaker](http://imgur.com/q6D5Qni)
 
 ###Body of your message
 
