@@ -1,4 +1,4 @@
-#Web Literacy Education Kit for Partners and Teachers
+#Mozilla Web Literacy Education Kit for Partners and Teachers
 
 ##Introduction
 
