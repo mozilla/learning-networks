@@ -49,6 +49,7 @@ Here are a few of the teaching kits available. For a full list and access, pleas
 ![Teaching Activities Page](http://i.imgur.com/QAZbKmJ.png)
 
 Here are some great examples of how these teaching kits are being used across the globe: 
+
 * Learn how a **Mozilla Club in Switzerland** used [Kraken the Code](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html) in their kick-off event [here](https://learningfreewheel.wordpress.com/2016/01/25/mozilla-club-lift-off/). And here’s a bit about what they did remixing with Thimble:
     Using [Thimble](https://thimble.mozilla.org/) we remixed a meme to explain our understanding. In [X-ray Goggles](https://webmaker.org/en-US/goggles) we explored remixing further by redesigning the [Science Museum, London](http://www.sciencemuseum.org.uk/) website to be all about the Kraken. This idea evolved from one of the many inspirations from Mozfest, London and a collaboration with Tate Gallery.
 * A variety of Mozilla free resources were used for a **Maker Party in India**. [Read the details and view photos here](https://rowdymehul.wordpress.com/2015/08/05/maker-party-mega-nashik/).
