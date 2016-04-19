@@ -30,10 +30,10 @@ Best Practices for approaching a university, college, or high school:
 ##Partnering with local businesses
 Local businesses have high partnership potential because the benefit can be strong to both their business and your Club. For the local business, donating goods, services, or meeting space to your Club in return for free marketing and publicity is an excellent value. For example:
 
-    It is common for Clubs to use office supplies, such as markers, sticky notes, and flipcharts during activities. The costs of these materials add up as events become more popular and more frequent. Establishing a partnership with a local office supplier can be mutually beneficial for the club (donated or discounted materials) and the business (exposure of their products and possibly marketing).
+  It is common for Clubs to use office supplies, such as markers, sticky notes, and flipcharts during activities. The costs of these materials add up as events become more popular and more frequent. Establishing a partnership with a local office supplier can be mutually beneficial for the club (donated or discounted materials) and the business (exposure of their products and possibly marketing).
 
 Here is a real-life Case Study example: 
-   [Rio Mozilla Club](http://riomozillaclub.org/) has a partnership with a popular local stationary shop. The owner of this shop is engaged in social activism and very keen to help projects that can have social impact. Thanks to their support, the Club has 20% discount on supplies at the shop which is a tremendous savings with 8+ events per month. 
+  [Rio Mozilla Club](http://riomozillaclub.org/) has a partnership with a popular local stationary shop. The owner of this shop is engaged in social activism and very keen to help projects that can have social impact. Thanks to their support, the Club has 20% discount on supplies at the shop which is a tremendous savings with 8+ events per month. 
 
 The same approach can be used with delis, restaurants and other places to get snacks for Club members!
 
