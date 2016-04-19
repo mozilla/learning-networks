@@ -72,10 +72,11 @@ Mozilla also offers free tools to help you teach the web! Thimble is our fun, ed
 * A fun “selfie” tool to add your photo to your remix and published project
 
 Thimble is a powerful curriculum aid: educators can build and share projects and activities, and remix other educators’ ideas - the options are endless! Here are some examples of how our community is using Thimble:
+
 * [Here is a great example](https://d157rqmxrxj6ey.cloudfront.net/sa501428/24680/) of a website built inside Thimble by a **middle school student in Houston, Texas**.
 * [This roundup](https://blog.webmaker.org/our-creative-community-thimble-remixes) includes several **fun and educational Thimble remixes from community members around the globe**. 
 
-##Sample social media and graphics
+##Sample Social Media & Graphics
 
 The #teachtheweb resources introduced in this kit are open to all. Please help us spread the word for others to learn, and remix. Here are a few social media posts and images that you can copy, paste, and share.
 
