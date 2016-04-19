@@ -1,21 +1,14 @@
 #Mozilla Web Literacy Education Kit
 
-Hello fellow Educator,
-
 You may not know it, but Mozilla, whose mission is to maintain the Internet as a global, public resource for all, offers free and open educational resources to help you teach important digital skills to your learners. Our focus is on web literacy, which is to read, write, and participate on the open web, while also building 21st Century skills in creativity, problem-solving and collaboration.
 
 If you're looking for fun, hands-on activities (optimized for ages 13 and up but easily adaptable for the younger set too) with step-by-step tutorials, you will love our resources! The curriculum is tested among educators and volunteers around the world, and can be remixed to suit a variety of  learning environments. You can try some standalone activities in your classroom or afterschool program, or follow a complete module comprised of a scaffolded set of activities. 
 
 Mozilla also created Thimble, an online, educational code editor and remixing tool for teaching HTML, CSS and other web skills.
 
-In the following pages, we provide more details about these **free and easy-to-use resources for your immediate use to teach the web**. 
+As you scroll through this kit, we provide more details about these **free and easy-to-use resources for your immediate use to teach the web**. 
 
-We also welcome your feedback! If you have any ideas or questions about these resources, please email us anytime at [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org), tweet us [@MozTeach](https://twitter.com/mozteach), or post on our [community forum](https://discourse.webmaker.org/). 
-
-We would love to hear from you!
-
-Sincerely,
-The Mozilla Learning Team
+If you have any ideas or questions about these resources, please email us anytime at [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org), tweet us [@MozTeach](https://twitter.com/mozteach), or post on our [community forum](https://discourse.webmaker.org/). 
 
 ##Web Literacy Map Overview
 
