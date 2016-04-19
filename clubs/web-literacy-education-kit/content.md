@@ -1,5 +1,5 @@
 #Mozilla Web Literacy Education Kit 
-###for Partners and Teachers
+for Partners and Teachers
 
 ##Introduction
 
