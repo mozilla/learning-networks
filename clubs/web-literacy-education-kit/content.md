@@ -1,7 +1,5 @@
 #Mozilla Web Literacy Education Kit
 
-##Introduction
-
 Hello fellow Educator,
 
 You may not know it, but Mozilla, whose mission is to maintain the Internet as a global, public resource for all, offers free and open educational resources to help you teach important digital skills to your learners. Our focus is on web literacy, which is to read, write, and participate on the open web, while also building 21st Century skills in creativity, problem-solving and collaboration.
