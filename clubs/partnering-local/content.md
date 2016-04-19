@@ -76,7 +76,7 @@ The most important thing for you to do when approaching a potential partner is t
 
 * [5 Ways to Make a Killer First Impression from Forbes](http://www.forbes.com/sites/yec/2011/11/02/5-ways-to-make-a-killer-first-impression/#3095bf3d10ce)
 
-!![560x315](https://www.youtube.com/watch?v=H9o22lNYNLQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H9o22lNYNLQ" frameborder="0" allowfullscreen></iframe>
 
 ##Following Up
 Follow up to help your name and Club stand out among the recipient’s busy schedule and to do list. You want to show that you are serious about pursuing a partnership, and following up provides another opportunity for your professionalism to shine.
