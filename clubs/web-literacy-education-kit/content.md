@@ -53,7 +53,7 @@ Here are some great examples of how these teaching kits are being used across th
 
 ![Thimble](http://i.imgur.com/URkKz63.jpg)
 
-Mozilla also offers free tools to help you teach the web! Thimble is our fun, educational code editor and remixing tool for teaching HTML, CSS and other web skills. You can [start a project from scratch](https://thimble.mozilla.org/anonymous/992a2059-a1e4-43e1-83f6-33323d0ab6a6) or [remix a featured activity](https://thimble.mozilla.org/anonymous/992a2059-a1e4-43e1-83f6-33323d0ab6a6). Features include:
+Mozilla also offers free tools to help you teach the web! Thimble is our fun, educational code editor and remixing tool for teaching HTML, CSS and other web skills. You can [start a project from scratch](https://thimble.mozilla.org/anonymous/992a2059-a1e4-43e1-83f6-33323d0ab6a6) or [remix a featured activity](https://thimble.mozilla.org/en-US/). Features include:
 
 * Multiple panes to see and remix the code while also previewing the finished pages
 * Step-by-step tutorials, auto-closing tags, autocomplete, and autosave
