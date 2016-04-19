@@ -60,11 +60,9 @@ For more information on hosting your Mozilla Club in informal learning spaces, r
 You may be nervous about approaching a potential Club partner. Here are a few common concerns that you may be considering, and best practices for overcoming them:
 
 **Concern #1: I dislike speaking to strangers, especially if it is in front of a group of people. How can I overcome this?**
-
 [Consult the Mozilla Club guide on public speaking](http://mozilla.github.io/learning-networks/clubs/public-speaking/). It has tips, tricks, and best practices to help you become comfortable with public speaking. 
 
 **Concern #2: What if I say the wrong thing?**
-
 We are here to help you prepare so that can meet your potential partner with confidence. Feel free to use and remix these resources:
 
 * Represent Mozilla Clubs well with this [PowerPoint deck](https://docs.google.com/presentation/d/18TvYogZefxmybDmAPxXVyqj9r4NEoH7ngS3V5hwuYBE/edit#slide=id.g1191d7057f_0_6) with vivid imagery and clear explanations of the program. Add your specific requests and partnership benefits to enhance your presentation.
@@ -72,7 +70,6 @@ We are here to help you prepare so that can meet your potential partner with con
 * Brush up on your public speaking skills (or build up or confidence) with this [Mozilla Club Guide on Public Speaking](http://mozilla.github.io/learning-networks/clubs/public-speaking/).
 
 **Concern #3: What if they say no?** 
-
 Understand that not every potential partner is a good fit for your Club. If they say no, it likely wouldn’t have been a successful relationship anyway. Hold your head up high and move to the next potential partner on your list.
 
 The most important thing for you to do when approaching a potential partner is to be prepared and confident. These two resources for making a great first impression can help:
@@ -84,7 +81,7 @@ The most important thing for you to do when approaching a potential partner is t
 ##Following Up
 Follow up to help your name and Club stand out among the recipient’s busy schedule and to do list. You want to show that you are serious about pursuing a partnership, and following up provides another opportunity for your professionalism to shine.
 
-How and when to follow up
+**How and when to follow up**
 
 * After initial contact via email or voice message, if you do not receive a response after one week, send a follow up email or voice message. 
   * If you originally sent an email, calling by phone and vice versa. Just keep your follow up brief and to the point. 
@@ -107,6 +104,7 @@ From the very beginning, you should approach potential partners like they can be
 Many benefits you may not realize/understand until the relationship has matured!
 
 [Forbes](http://www.forbes.com/sites/thesba/2013/04/25/tips-for-building-long-term-client-relationships/#7c074ca544d0) offers a great list of ways to foster ongoing and healthy long-term partnerships. We’ve condensed it and written a few helpful notes just for you:
+
 * There is no such thing as over-communicating, so communicate to your new partner more often than you think is necessary! They will let you know if it is too much.
 * Be a useful resource to your partner. Don’t just “take” from them, give back.
 * Be honest AT ALL TIMES.
