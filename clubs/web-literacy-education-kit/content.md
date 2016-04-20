@@ -1,6 +1,6 @@
 #Mozilla Web Literacy Education Kit
 
-You may not know it, but Mozilla, whose mission is to maintain the Internet as a global, public resource for all, offers free and open educational resources to help you teach important digital skills to your learners. Our focus is on web literacy, which is to read, write, and participate on the open web, while also building 21st Century skills in creativity, problem-solving and collaboration.
+You may not know it, but Mozilla, whose mission is to maintain the Internet as a global, public resource for all, offers free and open educational resources to help you teach important digital skills to your learners. Our focus is on web literacy, which is to read, write, and participate on the open web, while also building 21st Century skills in communication, creativity, problem-solving and collaboration.
 
 If you're looking for fun, hands-on activities (optimized for ages 13 and up but easily adaptable for the younger set too) with step-by-step tutorials, you will love our resources! The curriculum is tested among educators and volunteers around the world, and can be remixed to suit a variety of  learning environments. You can try some standalone activities in your classroom or afterschool program, or follow a complete module comprised of a scaffolded set of activities. 
 
