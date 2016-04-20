@@ -1,4 +1,4 @@
-#Mozilla Club Guide: Partnering with local businesses & organizations
+#Mozilla Club Guide: Developing local partnerships
 Developed by: Andre Garzia, Kristina Gorr and the Mozilla Clubs team
 
 ![Mozilla Club Rio](http://i.imgur.com/3gkTQZu.png) 
