@@ -14,7 +14,7 @@ If you have any ideas or questions about these resources, please email us anytim
 
 ![Web Literacy Map](http://i.imgur.com/HHaOGub.png)
 
-The interactive framework consists of the skills and competencies needed to be web literate, while also building 21st Century skills in creativity, problem-solving and collaboration. **Read** is about how we explore and evaluate web content. **Write** outlines the skills needed to build and contribute to the Web. **Participate** refers to how we connect with others online. Each skill links to related activities and curriculum and will eventually be linked to credentials that individuals can earn for mastering these skills. 
+The interactive framework consists of the skills and competencies needed to be web literate, while also building 21st Century skills in communication, creativity, problem-solving and collaboration. **Read** is about how we explore and evaluate web content. **Write** outlines the skills needed to build and contribute to the Web. **Participate** refers to how we connect with others online. Each skill links to related activities and curriculum and will eventually be linked to credentials that individuals can earn for mastering these skills. 
 
 We encourage you to sharpen your own skills and become a mentor in the community. Use the Web Literacy Map to plan learning activities for others. Reflect on this work in your own online spaces by blogging about it. Include the #teachtheweb and/or #webliteracy hashtags in your posts across social media to contribute to the dialogue. And join the Mozilla Learning [community calls](https://teach.mozilla.org/community/community-call) each month to engage and participate in practical discussions about web literacy.
 
