@@ -111,7 +111,6 @@ Here are some examples to get your creativity flowing in specific education area
 
 > **Advice from #teachtheweb advocate & educator Gina Tesoriero**
 “When students need help:
-
 * Identify mentor students that can help other students as they encounter obstacles. 
 * Have a fun way for students to ask for help without raising their hand so they can be productive while they are waiting. Flipping a cup over or wearing a silly hat, for example. And make sure they have something to do while they are waiting. 
 * Try the "[ask 3 before me](https://www.teachingchannel.org/videos/ask-3-then-me)" technique to encourage collaboration and discovery learning.”
