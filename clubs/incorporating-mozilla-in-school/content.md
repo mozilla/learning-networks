@@ -62,6 +62,7 @@ Mozilla also offers free tools to help you teach the web! Thimble is our fun, ed
 Here are some great examples of how Mozilla teaching kits are being used across the globe:
 
 * Learn how a Mozilla Club in Switzerland (MakerJam) used [Kraken the Code](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html) in their kick-off event [here](https://learningfreewheel.wordpress.com/2016/01/25/mozilla-club-lift-off/). And here’s a bit about what they did remixing with Thimble:
+
     *Using [Thimble](https://thimble.mozilla.org/) we remixed a meme to explain our understanding. In [X-ray Goggles](https://webmaker.org/en-US/goggles) we explored remixing further by redesigning the [Science Museum](http://www.sciencemuseum.org.uk/), London website to be all about the Kraken. This idea evolved from one of the many inspirations from Mozfest, London and a collaboration with Tate Gallery... Using the PingKong resources from Mozilla Learning we discovered how the internet works. Check out how students explained their understanding below:*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BaUhep3nsvE" frameborder="0" allowfullscreen></iframe>
