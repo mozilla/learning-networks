@@ -64,7 +64,7 @@ Here are some great examples of how Mozilla teaching kits are being used across 
 * Learn how a Mozilla Club in Switzerland (MakerJam) used [Kraken the Code](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html) in their kick-off event [here](https://learningfreewheel.wordpress.com/2016/01/25/mozilla-club-lift-off/). And here’s a bit about what they did remixing with Thimble:
     *Using [Thimble](https://thimble.mozilla.org/) we remixed a meme to explain our understanding. In [X-ray Goggles](https://webmaker.org/en-US/goggles) we explored remixing further by redesigning the [Science Museum](http://www.sciencemuseum.org.uk/), London website to be all about the Kraken. This idea evolved from one of the many inspirations from Mozfest, London and a collaboration with Tate Gallery... Using the PingKong resources from Mozilla Learning we discovered how the internet works. Check out how students explained their understanding below:*
 
-!![560x315](https://www.youtube.com/watch?v=BaUhep3nsvE)
+!![560x315](https://youtu.be/BaUhep3nsvE)
 
 * Active community member [Greg McVerry](https://twitter.com/jgmac1106  ) uses Thimble in his University classroom for his [student’s final projects](http://edu106.networkedlearningcollaborative.com/pages/fall15-portfolios).
 * In the U.S.A., the [National Writing Project](http://letters2president.org/resource/letters-to-the-next-president-2-0-letter-remix/) is featuring a [Letters to the Next President](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/24389/) Thimble template to use in a national campaign for youth to write a letter to the next President. In the classroom, students across the nation are remixing this letter to learn about civic engagement.
