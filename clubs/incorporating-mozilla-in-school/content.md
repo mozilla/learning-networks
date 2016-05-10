@@ -35,7 +35,7 @@ Here are a few of the teaching kits available. For a full list and access, pleas
 
 Mozilla also offers free tools to help you teach the web! Thimble is our fun, educational code editor and remixing tool for teaching HTML, CSS and other web skills. You can [start a project from scratch or remix a featured activity](https://thimble.mozilla.org/en-US/). Thimble is a powerful curriculum aid: educators can build and share projects and activities, and remix other educators’ ideas - the options are endless!
 
-##Principles for Successful Curriculum Integration
+##Principles for Successful Integration
 
 * Fail forward, fail fast, and fail often. Web literacy is often a new topic for teachers and students alike. It can be challenging to learn the concepts behind the web, as well as the technical skills needed to read, write, and participate there all. Don’t be afraid to to say, “I don’t know,” or to fix a “bug” in your understanding openly with your class. Model failure as an opportunity to learn and improve your work. That attitude will come in handy when it’s time to test and tweak web pages!
 * Take your best guess at what will hook your students - then edit and adapt based on what you learn. Try adjusting the curriculum to deal with issues and topics that are relevant to your group. 
