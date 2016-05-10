@@ -2,7 +2,7 @@
 
 *Created by Kristina Gorr, Chad Sansing, Kim Wilkens, Greg McVerry, Gina Tesoriero and the Mozilla Clubs team*
 
-“Integrating technology into classroom instruction means more than teaching basic computer skills and software programs in a separate computer class. Effective tech integration must happen across the curriculum in ways that...deepen and enhance the learning process... active engagement, participation in groups, frequent interaction and feedback, and connection to real-world experts.” - [Edutopia](http://www.edutopia.org/technology-integration-introduction)
+*“Integrating technology into classroom instruction means more than teaching basic computer skills and software programs in a separate computer class. Effective tech integration must happen across the curriculum in ways that...deepen and enhance the learning process... active engagement, participation in groups, frequent interaction and feedback, and connection to real-world experts.”* -[Edutopia](http://www.edutopia.org/technology-integration-introduction)
 
 It can be challenging to incorporate third party content in your existing school curriculum, but it doesn’t have to be! If you're looking for fun, hands-on activities (optimized for ages 13 and up but easily adaptable for the younger set too) with step-by-step tutorials, you will love Mozilla resources! The curriculum is tested among educators and volunteers around the world, and can be remixed to suit a variety of  learning environments. You can try some standalone activities in your classroom or afterschool program, or follow a complete module comprised of a scaffolded set of activities.
 
@@ -46,7 +46,7 @@ Mozilla also offers free tools to help you teach the web! Thimble is our fun, ed
 * Success looks like spending 30 minutes to find an extra (or missing) angle bracket - expect to move slowly, in small ways.
 
 
-> **Advice from #teachtheweb advocate & educator Kim Wilkens**
+> **Advice from #teachtheweb advocate & educator [Kim Wilkens](https://twitter.com/kimxtom)**
 * You often don't have to start from scratch. For me, my goal has been to integrate Computer Science/web literacy concepts into the curriculum and classroom. That means working with subject/homeroom teachers and they don't have time for new content.
 * Find out what kind of lessons/projects have been done with students in the past. Then, start with one lesson/project to “enhance”. 
 * Brainstorm with other teachers about how your lessons/projects can be “enhanced”? For example: 
@@ -63,7 +63,7 @@ Here are some great examples of how Mozilla teaching kits are being used across 
 
 * Learn how a Mozilla Club in Switzerland (MakerJam) used [Kraken the Code](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html) in their kick-off event [here](https://learningfreewheel.wordpress.com/2016/01/25/mozilla-club-lift-off/). And here’s a bit about what they did remixing with Thimble:
 
-    *Using [Thimble](https://thimble.mozilla.org/) we remixed a meme to explain our understanding. In [X-ray Goggles](https://webmaker.org/en-US/goggles) we explored remixing further by redesigning the [Science Museum](http://www.sciencemuseum.org.uk/), London website to be all about the Kraken. This idea evolved from one of the many inspirations from Mozfest, London and a collaboration with Tate Gallery... Using the PingKong resources from Mozilla Learning we discovered how the internet works. Check out how students explained their understanding below:*
+    *Using [Thimble](https://thimble.mozilla.org/) we remixed a meme to explain our understanding. In [X-ray Goggles](https://goggles.mozilla.org/) we explored remixing further by redesigning the [Science Museum](http://www.sciencemuseum.org.uk/), London website to be all about the Kraken. This idea evolved from one of the many inspirations from Mozfest, London and a collaboration with Tate Gallery... Using the PingKong resources from Mozilla Learning we discovered how the internet works. Check out how students explained their understanding below:*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BaUhep3nsvE" frameborder="0" allowfullscreen></iframe>
 
@@ -76,7 +76,7 @@ Here are some great examples of how Mozilla teaching kits are being used across 
 * New York City teacher [Gina Tesoriero](https://twitter.com/MsTesoriero) personalized Mozilla’s [Kraken the Code](https://mozilla.github.io/mozilla-club-activity-kraken-the-code/#en) activity for her classroom. [See her remix here](https://docs.google.com/presentation/d/1c6IUnu1BQ0f1NN_Z7ih_MtTAvtgbUJjU9zFvFOjHSfQ/edit#slide=id.g6d6bb3d72_09).
   * Gina also made this Thimble [starter sheet](https://drive.google.com/a/mozillafoundation.org/file/d/0B3GjBVDdZ46_dmNYaHpjUTA4RTQ/view) for her students to help get them started with coding their own [comic strip remix](https://thimble.mozilla.org/en-US/anonymous/56f7a64b-7210-44b6-9f39-680fb6b7f302/74).
 
-> **Advice from #teachtheweb advocate & educator Greg McVerry**
+> **Advice from #teachtheweb advocate & educator [Greg McVerry](https://twitter.com/jgmac1106)**
 *“My class had to meet strict objectives for our tech fluency requirements. I wanted to focus on the Web Literacy Map. So I looked for correlations. How could I meet my required pedagogical goals while preparing students to read, write and participate on the web? That was the pedagogical choice that informed all iterations.”*
 
 ##More remix ideas (by subject)
@@ -110,7 +110,7 @@ Here are some examples to get your creativity flowing in specific education area
 * Create an [art gallery using Thimble](https://d157rqmxrxj6ey.cloudfront.net/techkim/41376/index.html) to showcase student’s work.
 * Animation is art too! Try out this [teaching kit](https://teach.mozilla.org/activities/parapara/) where students learn to use Mozilla Factory’s Parapara and Fabble, open web tools for animation and sharing work online. Create 2D animations, 3D projection-mapped animations, and ‘recipes’ that others can fork for remix on Fabble.
 
-> **Advice from #teachtheweb advocate & educator Gina Tesoriero**
+> **Advice from #teachtheweb advocate & educator [Gina Tesoriero](https://twitter.com/MsTesoriero)**
 “When students need help:
 * Identify mentor students that can help other students as they encounter obstacles. 
 * Have a fun way for students to ask for help without raising their hand so they can be productive while they are waiting. Flipping a cup over or wearing a silly hat, for example. And make sure they have something to do while they are waiting. 
