@@ -47,16 +47,16 @@ Mozilla also offers free tools to help you teach the web! Thimble is our fun, ed
 
 
 > **Advice from #teachtheweb advocate & educator [Kim Wilkens](https://twitter.com/kimxtom)**
-* You often don't have to start from scratch. For me, my goal has been to integrate Computer Science/web literacy concepts into the curriculum and classroom. That means working with subject/homeroom teachers and they don't have time for new content.
-* Find out what kind of lessons/projects have been done with students in the past. Then, start with one lesson/project to “enhance”. 
-* Brainstorm with other teachers about how your lessons/projects can be “enhanced”? For example: 
-  * Could the lesson be more interactive? 
-  * Could student creations offer an alternative vehicle for assessment? 
-  * Could exploring more of the technology functionality give students more context and deeper understanding the subject?
-* Create a framework for student work, while giving them creative freedom within it. 
-* Create a rubric to guide students.
-* Creating quick screencasts to go along with the lesson is super helpful for students and teachers new to web literacy.
-* If you get stuck, ask the #teachtheweb community for ideas & suggestions.
+- You often don't have to start from scratch. For me, my goal has been to integrate Computer Science/web literacy concepts into the curriculum and classroom. That means working with subject/homeroom teachers and they don't have time for new content.
+- Find out what kind of lessons/projects have been done with students in the past. Then, start with one lesson/project to “enhance”. 
+- Brainstorm with other teachers about how your lessons/projects can be “enhanced”? For example: 
+  - Could the lesson be more interactive? 
+  - Could student creations offer an alternative vehicle for assessment? 
+  - Could exploring more of the technology functionality give students more context and deeper understanding the subject?
+- Create a framework for student work, while giving them creative freedom within it. 
+- Create a rubric to guide students.
+- Creating quick screencasts to go along with the lesson is super helpful for students and teachers new to web literacy.
+- If you get stuck, ask the #teachtheweb community for ideas & suggestions.
 
 ##Real Life Examples from Across the Globe
 Here are some great examples of how Mozilla teaching kits are being used across the globe:
@@ -112,9 +112,9 @@ Here are some examples to get your creativity flowing in specific education area
 
 > **Advice from #teachtheweb advocate & educator [Gina Tesoriero](https://twitter.com/MsTesoriero)**
 “When students need help:
-* Identify mentor students that can help other students as they encounter obstacles. 
-* Have a fun way for students to ask for help without raising their hand so they can be productive while they are waiting. Flipping a cup over or wearing a silly hat, for example. And make sure they have something to do while they are waiting. 
-* Try the "[ask 3 before me](https://www.teachingchannel.org/videos/ask-3-then-me)" technique to encourage collaboration and discovery learning.”
+- Identify mentor students that can help other students as they encounter obstacles. 
+- Have a fun way for students to ask for help without raising their hand so they can be productive while they are waiting. Flipping a cup over or wearing a silly hat, for example. And make sure they have something to do while they are waiting. 
+- Try the "[ask 3 before me](https://www.teachingchannel.org/videos/ask-3-then-me)" technique to encourage collaboration and discovery learning.”
 
 ##Resources
 
