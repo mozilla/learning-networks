@@ -1,10 +1,10 @@
 #Ya tienes un Club? Intégralo con Mozilla
 
 [Guía](http://mozilla.github.io/mozilla-club-guides/existing-program) adaptada al Español por [Mozilla Clubs](https://learning.mozilla.org/clubs)   
-*Tiempo estimado de lectura:* 5 minutos
+**Tiempo estimado de lectura:** 5 minutos
 ***
 
-Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está diseñado para ser integrado fácilmente con otros grupos de interés.  
+>Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está diseñado para ser integrado fácilmente con otros grupos de interés.  
 
 ![club](https://farm8.staticflickr.com/7471/26972336845_0cbfd3ae48_z.jpg)
 
