@@ -2,7 +2,7 @@
 
 Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está diseñado para ser integrado fácilmente con otros grupos de interés.  
 
-![Cat](https://flic.kr/p/H6sh3r)
+![club](https://farm8.staticflickr.com/7471/26972336845_0cbfd3ae48_z.jpg)
 
 ##Qué valor agrega Mozilla a tu Club?
 
