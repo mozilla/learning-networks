@@ -11,13 +11,13 @@ Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está
 
 ##Qué valor agrega Mozilla a tu Club?
 
-* **[Currículo libre y gratuito, listo para usar.] (https://learning.mozilla.org/activities)** Nuestras actividades están diseñadas con base en proyectos básicos que permiten a los participantes “aprender mientras hacen”.  
+* **[Currículo libre y gratuito, listo para usar.](https://learning.mozilla.org/activities)** Nuestras actividades están diseñadas con base en proyectos básicos que permiten a los participantes “aprender mientras hacen”.  
 
 * **[Herramientas de código abierto.](https://learning.mozilla.org/tools)** Creadas para desarrollar habilidades técnicas específicas, que permiten poner en práctica conceptos teóricos abstractos. 
 
-* **[Conexión con la red mundial de líderes dedicados a la alfabetización digital en comunidades locales.] (https://learning.mozilla.org/community)** Aprende de la experiencia de cada miembro en los espacios de  interacción abiertos como foros, videollamadas, talleres, y otros eventos.
+* **[Conexión con la red mundial de líderes dedicados a la alfabetización digital en comunidades locales.](https://learning.mozilla.org/community)** Aprende de la experiencia de cada miembro en los espacios de  interacción abiertos como foros, videollamadas, talleres, y otros eventos.
 
-* **[Actualización en “mejores prácticas” de educación.] (https://learning.mozilla.org/web-literacy)** Nuestra red humana está integrada por educadores, activistas tecnológicos y artistas, que están constantemente reflexionando alrededor de metodologías educativas de vanguardia. 
+* **[Actualización en “mejores prácticas” de educación.](https://learning.mozilla.org/web-literacy)** Nuestra red humana está integrada por educadores, activistas tecnológicos y artistas, que están constantemente reflexionando alrededor de metodologías educativas de vanguardia. 
 
 * **Apoyo uno a uno.** Algunos países cuentan con Coordinadores Regionales, los cuales están en contacto permanente con los capitanes de la región para resolver inquietudes, generar nuevas ideas y ayudarles a crear el plan de trabajo. 
 
