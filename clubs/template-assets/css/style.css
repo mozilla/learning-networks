@@ -203,7 +203,7 @@ nav a {
   display: block;
   position: relative;
   text-decoration: none;
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.6);
   padding: 18px 34px;
   transition: background 0.05s ease-out;
 }
@@ -211,7 +211,6 @@ nav a.selected,
 nav a.selected:hover {
   background: #1f3467;
   color: white;
-  font-weight: 500;
 }
 nav a:hover {
   background: #253e7a;
@@ -219,11 +218,11 @@ nav a:hover {
 }
 nav a:after {
   content: "";
-  background-color: #1f3467;
-  background-image: url(../images/nav-selected-indicator-mask.svg);
-  background-position: right;
+  background-color: white;
+  background-image: url(../images/nav-selected-indicator.svg);
+  background-position: left;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   height: 100%;
   width: 15px;
   position: absolute;
