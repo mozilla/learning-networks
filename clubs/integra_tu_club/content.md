@@ -2,7 +2,6 @@
 
 [Guía](http://mozilla.github.io/mozilla-club-guides/existing-program) adaptada al Español por [Mozilla Clubs](https://learning.mozilla.org/clubs)   
 **Tiempo estimado de lectura:** 5 minutos
-***
 
 > Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está diseñado para ser integrado fácilmente con otros grupos de interés.  
 
