@@ -1,6 +1,6 @@
 #Ya tienes un Club? Intégralo con Mozilla
 
-[Guía] (http://mozilla.github.io/mozilla-club-guides/existing-program) adaptada al Español por [Mozilla Clubs] (https://learning.mozilla.org/clubs)   
+[Guía](http://mozilla.github.io/mozilla-club-guides/existing-program) adaptada al Español por [Mozilla Clubs](https://learning.mozilla.org/clubs)   
 :clock230: Tiempo estimado de lectura: 5 minutos
 
 ***
