@@ -3,6 +3,17 @@
 [Guía] (http://mozilla.github.io/mozilla-club-guides/existing-program) adaptada al Español por [Mozilla Clubs] (https://learning.mozilla.org/clubs)   
 :clock230: Tiempo estimado de lectura: 5 minutos
 
+<a class="icon-twitter" rel="nofollow"
+    href="http://twitter.com/"
+    onclick="popUp=window.open(
+        'http://twitter.com/intent/tweet?text=\'[Page Title]\' via @[handle] - [url]',
+        'popupwindow',
+        'scrollbars=yes,width=800,height=400');
+    popUp.focus();
+    return false">
+    <i class="visuallyhidden">share on twitter</i>
+</a>
+
 ***
 
 Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está diseñado para ser integrado fácilmente con otros grupos de interés.  
@@ -33,7 +44,7 @@ Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está
 ***
 
 ##Esta es la historia de Sarah
-Sarah lidera un Coder Dojo Club en Londres y cuando conoció sobre el programa de Mozilla, decidió integrarlos. Este es su experiencia:
+Sarah lidera un Coder Dojo Club en Londres y cuando conoció sobre el programa de Mozilla, decidió integrarlos. Esta es su experiencia:
 
 >
 *Yo lidero un grupo local que se reúne todos los fines de semana. Está integrado por jóvenes entre los 10 y los 15 años de edad.*
