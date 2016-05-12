@@ -4,7 +4,7 @@
 **Tiempo estimado de lectura:** 5 minutos
 ***
 
->Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está diseñado para ser integrado fácilmente con otros grupos de interés.  
+> Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está diseñado para ser integrado fácilmente con otros grupos de interés.  
 
 ![club](https://farm8.staticflickr.com/7471/26972336845_0cbfd3ae48_z.jpg)
 
@@ -32,19 +32,19 @@
 ***
 
 ##Esta es la historia de Sarah
+
 Sarah lidera un Coder Dojo Club en Londres y cuando conoció sobre el programa de Mozilla, decidió integrarlos. Esta es su experiencia:
 
->
 *Yo lidero un grupo local que se reúne todos los fines de semana. Está integrado por jóvenes entre los 10 y los 15 años de edad.*
->
+
 *A pesar de que ya contaba con un programa establecido, mi club atiende un amplio rango de edades, y por tanto, diversos niveles de competencias. Por esta razón me interesé en ampliar  el currículo a través de lo que Mozilla Clubs ofrece.* 
->
+
 *El valor que agregó Mozilla Clubs a mi programa fue la posibilidad de incluir nuevas actividades  para aquellos estudiantes que querían aprender más  sobre cómo aplicar las competencias adquiridas con Scratch y HTML, en otras áreas de la web.*
->
+
 *Al comienzo sólo tomaba al azhar las actividades compartidas en el [sitio web] (https://learning.mozilla.org/activities) pero pronto me di cuenta de que siguiendo el plan curricular que alli peoponen, podia tambien seguir las métricas en cada lección, lo cual me permite identificar el avance de cada estudiante a lo largo de 6 semanas.*
->
+
 *Finalmente, el apoyo que encontré en Mozilla Clubs es excelente. Yo no me considero “altamente técnica” o con altas competencias digitales, pero he estado en capacidad de entender e implementar las lecciones, pues están diseñadas bajo una estructura clara y fácil de  entender.* 
->
+
 *Asimismo, he encontrado apoyo en los foros de discusión abierta. Estos son espacios buenísimos para compartir y aprender de las experiencias de otros educadores.*  
->
+
 *Al finalizar las 6 semanas que dura el programa de formación en mi Club, tanto los jóvenes como yo, hemos aprendido nuevas competencias y habilidades técnicas que pueden ser aplicadas en otros momentos a lo largo del programa de nuestro club.* 
