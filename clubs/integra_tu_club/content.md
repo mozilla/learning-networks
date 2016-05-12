@@ -14,17 +14,15 @@ Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está
 
 * **Apoyo uno a uno.** Algunos países cuentan con Coordinadores Regionales, los cuales están en contacto permanente con los capitanes de la región para resolver inquietudes, generar nuevas ideas y ayudarles a crear el plan de trabajo. 
 
-##This is a heading
+##Cómo integrar Mozilla Clubs a tu programa actual?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis. In hac habitasse platea dictumst. Etiam sit amet lacus metus. Praesent sit amet velit nisl. Quisque mattis, ex non consequat scelerisque, lacus mauris pharetra nunc, nec consequat magna felis eu elit. Integer a consequat leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+1. Ingresa a https://learning.mozilla.org/clubs y aplica para ser Capitán. 
+2. Sigue las instrucciones de la aplicación y completa el entrenamiento virtual.
+3. Conéctate con la comunidad a través de Discourse, Twitter y Facebook.
+4. Adapta el currículo a las necesidades de tu club. Explora las actividades de nuestro currículo abierto y de acuerdo con el perfil de tu audiencia, determina cuáles de ellas pueden ser útiles.   
+5. Atiende los Workshops virtuales y las videoconferencias que se realizan cada mes.  Estos son espacios colaborativos para la co-creación y reflexión alrededor de la alfabetización digital. Una vez estés inscrito en nuestras listas de correo, te llegarán invitaciones para cada evento.
+6. Únete activamente a las campañas mundiales de Mozilla y recibe orientación, currículo y soporte para llevarlas a cabo en tu comunidad.
 
-###This is sub-heading
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
-
-1. This is a bullet point in a numbered list
-2. This is a bullet point in a numbered list
-3. This is a bullet point in a numbered list
 
 ###This is another sub heading
 
