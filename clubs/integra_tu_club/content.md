@@ -28,7 +28,7 @@ Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está
 ##Esta es la historia de Sarah
 Sarah lidera un Coder Dojo Club en Londres y cuando conoció sobre el programa de Mozilla, decidió integrarlos. Este es su experiencia:
 
-*“Yo lidero un grupo local que se reúne todos los fines de semana. Está integrado por jóvenes entre los 10 y los 15 años de edad.
+“Yo lidero un grupo local que se reúne todos los fines de semana. Está integrado por jóvenes entre los 10 y los 15 años de edad.
 
 A pesar de que ya contaba con un programa establecido, mi club atiende un amplio rango de edades, y por tanto, diversos niveles de competencias. Por esta razón me interesé en ampliar  el currículo a través de lo que Mozilla Clubs ofrece. 
 
@@ -40,4 +40,4 @@ Finalmente, el apoyo que encontré en Mozilla Clubs es excelente. Yo no me consi
 
 Asimismo, he encontrado apoyo en los foros de discusión abierta. Estos son espacios buenísimos para compartir y aprender de las experiencias de otros educadores.  
 
-Al finalizar las 6 semanas que dura el programa de formación en mi Club, tanto los jóvenes como yo, hemos aprendido nuevas competencias y habilidades técnicas que pueden ser aplicadas en otros momentos a lo largo del programa de nuestro club".* 
+Al finalizar las 6 semanas que dura el programa de formación en mi Club, tanto los jóvenes como yo, hemos aprendido nuevas competencias y habilidades técnicas que pueden ser aplicadas en otros momentos a lo largo del programa de nuestro club". 
