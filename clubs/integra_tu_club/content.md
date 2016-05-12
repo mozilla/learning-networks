@@ -2,6 +2,8 @@
 
 Nuestro programa de alfabetización digital en Mozilla Clubs es flexible y está diseñado para ser integrado fácilmente con otros grupos de interés.  
 
+![Cat](https://flic.kr/p/H6sh3r)
+
 ##Qué valor agrega Mozilla a tu Club?
 
 * **[Currículo libre y gratuito, listo para usar.] (https://learning.mozilla.org/activities)** Nuestras actividades están diseñadas con base en proyectos básicos que permiten a los participantes “aprender mientras hacen”.  
