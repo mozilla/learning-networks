@@ -42,7 +42,7 @@ Sarah lidera un Coder Dojo Club en Londres y cuando conoció sobre el programa d
 >
 *El valor que agregó Mozilla Clubs a mi programa fue la posibilidad de incluir nuevas actividades  para aquellos estudiantes que querían aprender más  sobre cómo aplicar las competencias adquiridas con Scratch y HTML, en otras áreas de la web.*
 >
-*Al comienzo sólo tomaba al azhar las actividades compartidas en el sitio web https://learning.mozilla.org/activities pero pronto me di cuenta de que siguiendo el plan curricular que alli peoponen, podia tambien seguir las métricas en cada lección, lo cual me permite identificar el avance de cada estudiante a lo largo de 6 semanas.*
+*Al comienzo sólo tomaba al azhar las actividades compartidas en el [sitio web] (https://learning.mozilla.org/activities) pero pronto me di cuenta de que siguiendo el plan curricular que alli peoponen, podia tambien seguir las métricas en cada lección, lo cual me permite identificar el avance de cada estudiante a lo largo de 6 semanas.*
 >
 *Finalmente, el apoyo que encontré en Mozilla Clubs es excelente. Yo no me considero “altamente técnica” o con altas competencias digitales, pero he estado en capacidad de entender e implementar las lecciones, pues están diseñadas bajo una estructura clara y fácil de  entender.* 
 >
