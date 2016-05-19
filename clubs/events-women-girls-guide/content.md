@@ -98,6 +98,7 @@ Or watch these videos:
 *  [Learn about unconcious bias from ASAP Science](https://www.youtube.com/watch?v=JiTz2i4VHFw)
 *  [Facebook shares how to manage unconcious bias](https://managingbias.fb.com/)
 *  [And this video from Google](https://www.youtube.com/watch?v=nLjFTHTgEVU) 
+*  Learn more about uncovering gender biases in [MTV's Look Different](http://www.lookdifferent.org/) Campaign. 
 
 ## Designing for Participation
 
