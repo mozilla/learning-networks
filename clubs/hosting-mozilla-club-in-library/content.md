@@ -32,7 +32,7 @@ Here are some quick steps to getting your club started at a library:
 3. Circulate information about the club online and within the library space.
 4. Have a designated area where your club takes place in the library and make sure the set-up is designed for group work (and perhaps some noise!). If you can run your club in a highly visible space, you might attract new mentors and participants, as well.
 5. Find co-facilitators or mentors to join you. Consider running a training and event for volunteers before the actual event. [Here’s a guide on how to run a training.](http://mozilla.github.io/learning-networks/clubs/train-the-trainer-guide/) 
-6. Create your agenda or pick some activities to run at [teach.mozilla.org](https://teach.mozilla.org/).
+6. Create your agenda or pick some activities to run at [learning.mozilla.org](https://learning.mozilla.org/).
 
 ###If you’re a library wanting to start a Mozilla Club in your space…..
 Libraries can benefit from running a Mozilla Club meeting in their space, as well.  Hosting local clubs and activities strengthens the resources available to the community, making the library a healthy, vibrant place for gatherings like clubs to promote web literacy. It’s essential for libraries to remain a positive place for youth and adults alike, especially as the digital age changes the environment of libraries across the world. Moreover, beginning a club can help spotlight your library’s digital programming for patrons, as well as attract local technology mentors to library-hosted events. Running a club is a way to connect learners and leaders in your library on a regular basis, establishing a strong mentorship offering with your library at the center.
@@ -45,7 +45,7 @@ Here are some quick steps to getting a club started at your library:
 3. Plan and conduct a preview night to build up interest and finalize plans for an ongoing club meeting.
 4. If you decide to move forward with the club, pick a recurring date and time that works for the library schedule.
 5. Circulate information about the club online and within the library space.
-6. Create your agenda or pick some activities to run at [teach.mozilla.org](https://teach.mozilla.org/).
+6. Create your agenda or pick some activities to run at [learning.mozilla.org](https://learning.mozilla.org/).
 
 ##Facilitation Tips
 Because you are hosting your Club in a public space, there are some best practice guidelines that you should abide by:
@@ -67,9 +67,9 @@ The following activities are easy to implement with any size group and are perfe
 ####Beginner
 
 * [Making a MakerSpace](https://d157rqmxrxj6ey.cloudfront.net/mrskapp/9795/): A guide for creating a makerspace in your library.
-* [Web Literacy Basics](https://teach.mozilla.org/activities/web-lit-basics/): This six-part (available in 11 languages) series helps learners become familiar with reading, writing and participating on the web. They'll discover the foundations of the web through production and collaboration. This is an ideal kit for Mozilla Clubs.
-* [Web Literacy Basics II](https://teach.mozilla.org/activities/web-lit-basics-two/): Dive deeper into the basics of composing web pages, designing for accessibility, sharing resources, using online media, and working open.
-* [Privacy Basics: Passwords, Tracking, and Data Retention](https://teach.mozilla.org/activities/privacy-basics/): Learn how to safeguard your privacy online and develop an awareness of how companies and governments track and collect your data online.
+* [Web Literacy Basics](https://learning.mozilla.org/activities/web-lit-basics/): This six-part (available in 11 languages) series helps learners become familiar with reading, writing and participating on the web. They'll discover the foundations of the web through production and collaboration. This is an ideal kit for Mozilla Clubs.
+* [Web Literacy Basics II](https://learning.mozilla.org/activities/web-lit-basics-two/): Dive deeper into the basics of composing web pages, designing for accessibility, sharing resources, using online media, and working open.
+* [Privacy Basics: Passwords, Tracking, and Data Retention](https://learning.mozilla.org/activities/privacy-basics/): Learn how to safeguard your privacy online and develop an awareness of how companies and governments track and collect your data online.
 * [Lo-fi, no-fi Teaching Kit](https://laura.makes.org/thimble/MTUyODMwNDY0/lofi-nofi-teaching-kit): This series of activities help teach web literacy concepts offline, or where access to technology is limited. Includes printable templates and games to teach coding, game design and app development.
 * [Homework Excuse Generator Thimble Tutorial](https://thimble.mozilla.org/anonymous/721d1185-eb53-4fdc-8078-b14a15646832/2498): Remix a random Homework Excuse Generator to have some fun at the start of a new school year.
 
@@ -107,14 +107,14 @@ Mozilla has supported numerous web literacy events affiliated with libraries, pr
 ##Other Resources
 Want even more ideas and tools for making your Club a success in your library? Here are a few resources to help you dig further.
 
-* [If You Build It, Will They Come? The story of a MakerSpace [Library] miracle.](http://www.teenlibrariantoolbox.com/2016/01/sunday-reflections-if-you-build-it-will-they-come-the-story-of-a-makerspace-miracle/)
+* [If You Build It, Will They Come? The story of a MakerSpace Library miracle.](http://www.teenlibrariantoolbox.com/2016/01/sunday-reflections-if-you-build-it-will-they-come-the-story-of-a-makerspace-miracle/)
 * [Digital Literacy, "Maker" Librarians and the Mozilla Learning Network](http://www.cilip.org.uk/blog/digital-literacy-maker-librarians-mozilla-learning-network)
 * [YOUMedia Learning Labs Network](http://youmedia.org/)
 * [What Libraries Offer the Maker Movement](http://youmedia.org/news/what-libraries-offer-the-maker-movement/)
 * [Libraries that Matter](http://www.pps.org/reference/librariesthatmatter-2/) 
 * [Teaching Web Literacy in Libraries with Mozilla Learning presentation](http://www.slideshare.net/Amirad/teaching-web-litear)
 * [Discourse Community Forum](https://discourse.webmaker.org/)
-* [Web Literacy Map](https://teach.mozilla.org/activities/web-literacy)
+* [Web Literacy Map](https://learning.mozilla.org/web-literacy)
 * [Creating equal gender team dynamics](https://drive.google.com/a/mozillafoundation.org/file/d/0B1HI_LlmJ9BlU2htdTFQRE1WR00/view)
 * [Exploring unconscious bias](http://www.cookross.com/docs/UnconsciousBias.pdf)
 * [Club Guide: Mixing Your Community Meet-up & Mozilla Club](http://mozilla.github.io/mozilla-club-guides/existing-program/#why-merge-an-existing-club-with-a-mozilla-club-)
