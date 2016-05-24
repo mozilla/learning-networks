@@ -35,7 +35,7 @@ As a Mozilla Club Captain in a low-connectivity neighborhood, you can:
 * Join a global network and connect with other Mozilla Club Captains to share best practices and contribute new/adapted content.
 
 ## Activity Ideas
-There are tons of great activities that encourage community building, both online and offline at learning.mozilla.org/activities. Here are a few suggestions to host Mozilla Club with limited connectivity:
+There are tons of great activities that encourage community building, both online and offline at [learning.mozilla.org/activities](https://learning.mozilla.org/). Here are a few suggestions to host Mozilla Club with limited connectivity:
 
 * Personal Presentation Icebreakers: Sit in a circle and...
     * Share your name & fun fact about you.
