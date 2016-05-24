@@ -25,7 +25,7 @@ Moving your Club from participation-centric to collaboration-centric, if done su
 
 ##Activity Ideas
 
-There are tons of great activities that encourage collaboration at teach.mozilla.org/activities. Here are a quick list of suggested activities to help your Mozilla Club move from participation to collaboration:
+There are tons of great activities that encourage collaboration at [learning.mozilla.org/activities](https://learning.mozilla.org/activities). Here are a quick list of suggested activities to help your Mozilla Club move from participation to collaboration:
 
 * Personal Presentation Icebreakers: Sit in a circle and...
         * Tell us about a time when you felt motivated to be a leader?
@@ -42,7 +42,7 @@ There are tons of great activities that encourage collaboration at teach.mozilla
 Want even more ideas and tools for moving your Club from participation to collaboration? Here are a few resources to help you dig further.
 
 * [Discourse Community Forum](https://discourse.webmaker.org/)
-* [Web Literacy Map](https://teach.mozilla.org/activities/web-literacy)
+* [Web Literacy Map](https://learning.mozilla.org/web-literacy)
 * [Github](https://github.com/)
 * [Google Docs](https://www.google.com/docs/about/)
 * [Etherpad](http://etherpad.org/)
