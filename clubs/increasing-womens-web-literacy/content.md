@@ -24,7 +24,7 @@ BUT, invite women of all ages! Just be mindful that they will have different web
 ![Women & Web Literacy](http://i.imgur.com/LtZa3xF.jpg)
 
 ##Activity Ideas
-There are tons of great activities that encourage learning on [teach.mozilla.org/activities](https://teach.mozilla.org/activities/). This list highlights a few to get you started. 
+There are tons of great activities that encourage learning on [learning.mozilla.org/activities](https://learning.mozilla.org/activities/). This list highlights a few to get you started. 
 
 * Personal Presentation Icebreakers: Sit in a circle and...
     * Share your name & fun fact about you.
@@ -45,13 +45,13 @@ There are tons of great activities that encourage learning on [teach.mozilla.org
     * [Create a WebMaker Project](http://mozilla.github.io/webmaker-curriculum/MobileWeb/create-webmaker-project.html)
 * Women-Focused Coding Activities:
     * [Gender in Tech - Hacking My Media](https://stephguthrie.makes.org/thimble/ODU3ODAxMjE2/hacking-my-media-with-x-ray-goggles): In this activity, learners create a remix of a Wikimedia page as they think critically about the intersection of gender, culture, technology and identity.
-    * [Made With Code](https://teach.mozilla.org/activities/madewithcode/): Mozilla is happy to partner with Google's Made with Code initiative to inspire girls to get creative with code. There are three fun activities to help you create your own webpages by writing and remixing HTML.
+    * [Made With Code](https://learning.mozilla.org/activities/madewithcode/): Mozilla is happy to partner with Google's Made with Code initiative to inspire girls to get creative with code. There are three fun activities to help you create your own webpages by writing and remixing HTML.
 
 ##Resources
 Want even more ideas and tools for globally increasing Women’s Web Literacy? Here are a few resources to help you dig further.
 
 * [Discourse Community Forum](https://discourse.webmaker.org/)
-* [Web Literacy Map](https://teach.mozilla.org/activities/web-literacy)
+* [Web Literacy Map](https://learning.mozilla.org/web-literacy)
 * [Creating equal gender team dynamics](https://drive.google.com/a/mozillafoundation.org/file/d/0B1HI_LlmJ9BlU2htdTFQRE1WR00/view)
 * [Exploring unconscious bias](http://www.cookross.com/docs/UnconsciousBias.pdf)
 * Inspiration: [How I Got on Board with RideW/Me](https://blog.webmaker.org/how-i-got-onboard-with-ridewme)
