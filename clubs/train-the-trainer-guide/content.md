@@ -120,7 +120,7 @@ Dig into the skills and competencies [here.](https://learning.mozilla.org/activi
 
 ##Activities
 
-This is the meat of your training! You want to run activities that show your learners how to teach web literacy skills through various tools and curriculum. You can use those available at teach.mozilla.org/activities or integrate others as well. This section is curated and decided by you. In the past, we have found these activities provide a fun and fundamental framework:
+This is the meat of your training! You want to run activities that show your learners how to teach web literacy skills through various tools and curriculum. You can use those available at [learning.mozilla.org/activities](https://learning.mozilla.org/activities) or integrate others as well. This section is curated and decided by you. In the past, we have found these activities provide a fun and fundamental framework:
 
 When teaching X-Ray Goggles,
 
