@@ -30,7 +30,7 @@ Keep participants on their feet or moving throughout the event. This will help t
 ![Mozilla Club Guide - Playful Learning](http://i.imgur.com/b04ToHA.jpg)
 
 ##Activity Ideas
-There are tons of great activities that encourage participatory and playful learning on [teach.mozilla.org/activities](https://teach.mozilla.org/activities/). This list highlights a few to get you started. 
+There are tons of great activities that encourage participatory and playful learning on [learning.mozilla.org/activities](https://learning.mozilla.org/activities/). This list highlights a few to get you started. 
 
 * **Personal Presentation Icebreakers:** Sit in a circle and...
     * Share your name & fun fact about yourself.
@@ -45,7 +45,7 @@ There are tons of great activities that encourage participatory and playful lear
         * What fun ideas/activities do you have for our Club?
 * **Lo-Fi, No-Fi Activities:** Learn to code with limited or no connectivity. It encourages teamwork and provides opportunity for great discussion.
     * [Studio.code.org](https://studio.code.org/s/course2) offers many “unplugged” activities for those with no prior programming experience.
-    * [Teach.mozilla.org](https://teach.mozilla.org/activities/) offers 19 activities in this [lo-fi, no-fi teaching kit](https://laura.makes.org/thimble/MTUyODMwNDY0/lofi-nofi-teaching-kit).
+    * [Learning.mozilla.org](https://learning.mozilla.org/activities/) offers 19 activities in this [lo-fi, no-fi teaching kit](https://laura.makes.org/thimble/MTUyODMwNDY0/lofi-nofi-teaching-kit).
 * **Gaming Activities:** This can be online or offline games, as both encourage playful participation. Just make sure that participants share with the group!
     * [E.A.K. (Erase All Kittens!) Code Game](https://laura.makes.org/thimble/LTEzNDYxMDY4OA==/eak-activity-guide): E.A.K. (Erase All Kittens) is an open source platform game that teaches kids to code and create on the web, using HTML and CSS.
     * [Minecraft A Flavor of JAVA](https://epik.makes.org/thimble/NjU2MTQ2OTQ0/minecraft-a-flavor-of-java-epik): Explore how you can alter and remix the Java game code
@@ -62,7 +62,7 @@ Want even more ideas and tools for creating a participatory and playful Mozilla 
 *  [[MozFest]Playful & Participatory learning at Mozilla Clubs](https://dunebuggie.wordpress.com/2015/11/08/mozfestplayful-participatory-learning-at-mozilla-clubs/)
 *  [Using Thimble with Limited Connectivity](https://blog.webmaker.org/using-thimble-with-limited-internet-connectivity)
 *  [Discourse Community Forum](https://discourse.webmaker.org/)
-*  [Web Literacy Map](https://teach.mozilla.org/activities/web-literacy)
+*  [Web Literacy Map](https://learning.mozilla.org/web-literacy)
 
 
 Is your Mozilla Club doing an awesome job of participatory and playful learning? [Share your story with us!](https://docs.google.com/a/mozillafoundation.org/forms/d/1bOXV1OiF2EKS5KprlnzfFpwaoVNwxLAwN_UEq6hGKqU/viewform)
