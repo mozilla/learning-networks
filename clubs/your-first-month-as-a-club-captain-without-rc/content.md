@@ -229,7 +229,7 @@ Here are some ways we recommend adapting our teaching activities to fit your nee
 
 * Try the activities. Mentors should be aware of the activities being used and what they need to prepare ahead of time. Have the team go through the activities together, and discuss any questions. Know who has which skills and make sure everyone is comfortable with the material. You don’t have to know all the answers -- just be confident in helping your learners find out themselves!
 
-* Give each other feedback on being a facilitative leader. Review what it means to [teach like Mozilla](https://learning.mozilla.org/teach-like-mozilla/). We encourage learning through making, using participatory methods to teach, using open practices and much more. This is an important step and part of the magic of being a club leader. Support your team members in being facilitative leaders and in giving each other constructive feedback on how to do that better.
+* Give each other feedback on being a facilitative leader. We encourage learning through making, using participatory methods to teach, using open practices and much more. This is an important step and part of the magic of being a club leader. Support your team members in being facilitative leaders and in giving each other constructive feedback on how to do that better.
 
 * Learners mentor each other. Successful clubs often invite learners to be peer mentors and teachers. Identify when and how you can include this practice in your upcoming session.
 
