@@ -4,7 +4,7 @@ Do you already run a weekly or monthly meetup in a club-like setting? Mozilla Cl
 
 ## Why merge an existing club with a Mozilla Club?
 
-Mozilla’s [curriculum](https://teach.mozilla.org/activities/) offers great educational benefits that can complement your existing club agenda. Open Source [web literacy tools and resources](https://teach.mozilla.org/) are also available which can be used to further skills in reading, writing and participation on the web.
+Mozilla’s [curriculum](https://learning.mozilla.org/activities/) offers great educational benefits that can complement your existing club agenda. Open Source [web literacy tools and resources](https://learning.mozilla.org/) are also available which can be used to further skills in reading, writing and participation on the web.
 
 As an established club, you already have a classroom of learners whether you meet in the local library, community centre or around the kitchen table. Mozilla clubs can be an added dynamic to your meetup, providing activities with a clear goal and outcome around digital education. We want to help facilitate your club members learning by showing you how to teach with open practices and learning through making. Mozilla clubs are formed at a local level but to are a part of a global community (and all of the support and resources that come with it).
 
@@ -14,7 +14,7 @@ Getting started is easy.  We have the curriculum laid out and ready for you to t
 
 As a part of that global community we mentioned earlier, your Mozilla Club will have access to:
 
-* Training Materials: We have teaching kits available online at teach.mozilla.org that will walk you through everything you need to know about the activities: what to say, how to facilitate discussion, timing, and much more.
+* Training Materials: We have teaching kits available online at [learning.mozilla.org](https://learning.mozilla.org/) that will walk you through everything you need to know about the activities: what to say, how to facilitate discussion, timing, and much more.
 * Peer support: Ask questions, share challenges or successes, or connect with others who are running similar programs at their community meetups in our online forum Discourse.
 * Individual support: When you start a Mozilla Club, you may be assigned to a * Regional Coordinator to help you get set up and find the most relevant resources in your local and global community.
 * Campaign support: Be apart of Mozilla-led or global campaigns and receive material, curriculum and support when participating.
@@ -38,6 +38,6 @@ Sarah, from London, runs a MozLdN event in her work place once a month; she hold
 ## Contact
 Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs
 
-Tweet us anytime [@MozTeach](https://twitter.com/mozteach) or using [#teachtheweb or #MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
+Tweet us anytime [@MozLearn](https://twitter.com/mozlearn) or using [#teachtheweb or #MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
 
 Is your Mozilla Club doing an awesome job of retaining and growing the community? [Share your story with us!](https://docs.google.com/a/mozillafoundation.org/forms/d/1bOXV1OiF2EKS5KprlnzfFpwaoVNwxLAwN_UEq6hGKqU/viewform)
