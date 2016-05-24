@@ -36,9 +36,9 @@ Adept at creating social content, promoting an event or group, and reaching the 
 
 ##Examples
 
-[Twitter] I'm starting a @Mozilla Club in Rio to #TeachTheWeb. Want to join? Read my blog for details: example.com @MozTeach
+[Twitter] I'm starting a @Mozilla Club in Rio to #TeachTheWeb. Want to join? Read my blog for details: example.com @MozLearn
 
-[Twitter] We're teaching and learning HTML in Rio. Want to join our Mozilla Club? you're invited: example.com #teachtheweb @MozTeach
+[Twitter] We're teaching and learning HTML in Rio. Want to join our Mozilla Club? you're invited: example.com #teachtheweb @MozLearn
 
 [Twitter] Mozilla Club Rio is meeting right now! Join us digitally — tweet links to your Thimble project to us, and we'll share them with the group. 
 
@@ -47,9 +47,9 @@ Adept at creating social content, promoting an event or group, and reaching the 
 [Facebook] This Wednesday at 7 p.m., the Rio Mozilla Club will be meeting and holding a session on privacy. Join us to teach and learn the importance of privacy on the Web, and how to protect yourself. Bring friends! Read our blog for more information: example.com
 
 ##Connect
-Connect with other Clubs and Club Captains to find out what Mozilla Clubs are doing around the world. On Twitter, [@MozTeach](https://twitter.com/MozTeach) has set up a [public Twitter list](https://twitter.com/MozTeach/lists/club-captains) ( a Club Captain directory, of sorts), that makes it easy to connect and follow. You can also [find Clubs near you](https://teach.mozilla.org/clubs/list/) and search the Club name to find them on social media.
+Connect with other Clubs and Club Captains to find out what Mozilla Clubs are doing around the world. On Twitter, [@MozLearn](https://twitter.com/MozLearn) has set up a [public Twitter list](https://twitter.com/MozLearn/lists/club-captains) ( a Club Captain directory, of sorts), that makes it easy to connect and follow. You can also [find Clubs near you](https://learning.mozilla.org/clubs/list/) and search the Club name to find them on social media.
 
 ##Contact
 * Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with questions about Clubs
 * Email Mozilla’s communications manager Kevin Zawacki (kevin@mozillafoundation.org) for help or guidance with social media
-* Tweet us anytime [@MozTeach](https://twitter.com/MozTeach)
+* Tweet us anytime [@MozLearn](https://twitter.com/MozLearn)
