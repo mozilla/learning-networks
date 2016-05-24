@@ -27,7 +27,7 @@ Retaining and growing community is vital to the health and longevity of a succes
 ![retaining, growing community](http://i.imgur.com/NsIGicD.png)
 
 ##Activity Ideas
-There are tons of great activities that encourage community building, both online and offline at [teach.mozilla.org/activities](https://teach.mozilla.org/activities). Here are a few suggestions to collaborate with, retain and grow your Mozilla Club:
+There are tons of great activities that encourage community building, both online and offline at [learning.mozilla.org/activities](https://learning.mozilla.org/activities). Here are a few suggestions to collaborate with, retain and grow your Mozilla Club:
 
 * Personal Presentation Icebreakers: Sit in a circle and...
   * Share your name & fun fact about you.
@@ -42,7 +42,7 @@ There are tons of great activities that encourage community building, both onlin
     * What ideas do you have to invite more people to our Club?
 * Lo-Fi, No-Fi Activities: Learn to code with limited or no connectivity. It encourages teamwork, provides opportunity for great discussion, and can surface opportunities to build a stronger sense of community within your group dynamic. These can be especially fun when hosting a larger event that includes outside community members.
   * [Studio.code.org](https://studio.code.org/s/course2) offers many “unplugged” activities for those with no prior programming experience.
-  * [Teach.mozilla.org](https://teach.mozilla.org/activities) offers 19 activities in this [lo-fi, no-fi teaching kit](https://laura.makes.org/thimble/MTUyODMwNDY0/lofi-nofi-teaching-kit).
+  * [Learning.mozilla.org](https://learning.mozilla.org/activities) offers 19 activities in this [lo-fi, no-fi teaching kit](https://laura.makes.org/thimble/MTUyODMwNDY0/lofi-nofi-teaching-kit).
 * Group Hack/Remix Challenges: Whatever tool or challenge you decide to use, pair your participants into teams to work together to achieve a goal. Add a bit of playful competition between teams by adding time restrictions, small prizes, or bragging rights.
   * [Thimble](https://thimble.mozilla.org/) - [Interactive Postcard Remix](https://thimble.mozilla.org/anonymous/168ddc95-94a9-4680-b5cc-0727f62e1e84/75)
   * [Create a WebMaker Project](http://mozilla.github.io/webmaker-curriculum/MobileWeb/create-webmaker-project.html)
