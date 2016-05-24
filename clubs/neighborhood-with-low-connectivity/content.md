@@ -35,7 +35,7 @@ As a Mozilla Club Captain in a low-connectivity neighborhood, you can:
 * Join a global network and connect with other Mozilla Club Captains to share best practices and contribute new/adapted content.
 
 ## Activity Ideas
-There are tons of great activities that encourage community building, both online and offline at teach.mozilla.org/activities. Here are a few suggestions to host Mozilla Club with limited connectivity:
+There are tons of great activities that encourage community building, both online and offline at learning.mozilla.org/activities. Here are a few suggestions to host Mozilla Club with limited connectivity:
 
 * Personal Presentation Icebreakers: Sit in a circle and...
     * Share your name & fun fact about you.
@@ -47,7 +47,7 @@ There are tons of great activities that encourage community building, both onlin
         * If you were to connect the web with something you are passionate about, what would it be? (Then discuss as a group how you can do this.)
 * Lo-Fi, No-Fi Activities: These are key in a limited or no connectivity environment! It encourages teamwork, provides opportunity for great discussion, and can surface opportunities to build a stronger sense of community within your group dynamic. These can be especially fun when hosting a larger event that includes outside community members.
     * [Studio.code.org](https://studio.code.org) offers many “unplugged” activities for those with no prior programming experience.
-    * [Teach.mozilla.org](https://teach.mozilla.org) offers 19 activities in this lo-fi, no-fi teaching kit.
+    * [Learning.mozilla.org](https://learning.mozilla.org) offers 19 activities in this lo-fi, no-fi teaching kit.
 * Group Hack/Remix Challenges: When you do have connectivity, give these a try. Whatever tool or challenge you decide to use, pair your participants into teams to work together to achieve a goal. Add a bit of playful competition between teams by adding time restrictions, small prizes, or bragging rights. If unable to use online tools, simple print out a copy of the site or page and have learners go through the steps as if they were following online. If they are able to afterwards, they can complete the activity at home, school or another place they can access a computer/internet.
     * [Thimble](https://thimble.mozilla.org) - [Interactive Postcard Remix](https://docs.google.com/document/d/1gzbC5Q_XeHeii66v_Z4py6QrqYin5j1ozNhdeKJ-Ssg/edit)
     * [Create a WebMaker Project](http://mozilla.github.io/webmaker-curriculum/MobileWeb/create-webmaker-project.html)
@@ -57,7 +57,6 @@ There are tons of great activities that encourage community building, both onlin
 ## Resources
 Want even more ideas and tools for hosting a club in a low-connectivity environment? Here are a few resources to help you dig further.
 
-* [Teach Like Mozilla - Our Values](https://teach.mozilla.org/teach-like-mozilla/)
 * [Discourse Community Forum](https://discourse.webmaker.org/)
 * [Latest Thimble Developments in low-fi, no-fi environments](https://blog.webmaker.org/colour-palettes-code-folding-and-new-thimble-projects-oh-my)
 * [Teaching the web offline](https://blog.webmaker.org/lets-teach-the-web-offline)
@@ -65,7 +64,7 @@ Want even more ideas and tools for hosting a club in a low-connectivity environm
 
 ## Contact
 Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs
-Tweet us anytime [@MozTeach](https://twitter.com/mozteach) or using [#teachtheweb or #MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
+Tweet us anytime [@MozLearn](https://twitter.com/mozlearn) or using [#teachtheweb or #MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
 Is your Mozilla Club doing an awesome job of retaining and growing the community? [Share your story with us!](https://docs.google.com/a/mozillafoundation.org/forms/d/1bOXV1OiF2EKS5KprlnzfFpwaoVNwxLAwN_UEq6hGKqU/viewform)
 
 
