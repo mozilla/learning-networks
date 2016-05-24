@@ -100,7 +100,7 @@ As a representative of Mozilla this would be the time to share your work and wha
 *  Mozilla is made up of a global community of people who believe that openness, innovation, and opportunity are key to the continued  health of the Internet.
 *  Mozilla is dedicated to helping turn consumers of the web into producers of the web who understand the choices they have about authorship, privacy, and security online.
 *  Mozilla is also cultivating a global network of leaders who are teaching and learning web literacy, broadly defined as the ability to read, write and participate in the digital world.
-*  Encourage attendees to visit and use the free curriculum, tools and resources at https://teach.mozilla.org 
+*  Encourage attendees to visit and use the free curriculum, tools and resources at [learning.mozilla.org](https://learning.mozilla.org) 
 *  Teach in a way that is engaging, participatory, fun and user centric. With the principle that doing and making is at the core of how an individual learns. It also follows the principles of the Web Literacy Map. 
 
 Are there other organizations present or being represented in a formal manner? Similar to above, share why their work is relevant to the training and give a brief overview.  
@@ -116,7 +116,7 @@ Core to this work is the Web Literacy Map 2.0:
 
 For more information [read the whitepaper on why Mozilla cares about Web Literacy.](http://mozilla.github.io/webmaker-whitepaper/)
 
-Dig into the skills and competencies [here.](https://teach.mozilla.org/activities/web-literacy/) When you use our curriculum you will notice in the top corner that each activity indicates which skills and competencies of the Web Literacy Map you are teaching while using that activity. 
+Dig into the skills and competencies [here.](https://learning.mozilla.org/activities/web-literacy/) When you use our curriculum you will notice in the top corner that each activity indicates which skills and competencies of the Web Literacy Map you are teaching while using that activity. 
 
 ##Activities
 
