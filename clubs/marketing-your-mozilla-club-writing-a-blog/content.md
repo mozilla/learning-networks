@@ -16,7 +16,7 @@ Have a compelling story to share and experience publishing online via blogs or o
 
 ##Your Goals
 * Post at least one blog about your Mozilla Club in the next month
-* Share your blog with others who might be interested in participating. You can do this through [social media](http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-social-media/). On Twitter, include [@MozTeach](https://twitter.com/mozteach), #teachtheweb, or #MozillaClubs in your posts so we can keep up-to-date with your Clubs happenings.
+* Share your blog with others who might be interested in participating. You can do this through [social media](http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-social-media/). On Twitter, include [@MozLearn](https://twitter.com/mozlearn), #teachtheweb, or #MozillaClubs in your posts so we can keep up-to-date with your Clubs happenings.
 * Encourage learners in your club to submit their own blogs or written submissions to share. 
 * Provide timely responses to any commenters’ questions
 
@@ -36,4 +36,4 @@ Have a compelling story to share and experience publishing online via blogs or o
 ##Contact
 * Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs 
 * Email Mozilla’s communications manager Kevin Zawacki (kevin@mozillafoundation.org) for help or guidance with your blog
-* Tweet us anytime [@MozTeach](https://twitter.com/mozteach) or using [#teachtheweb](https://twitter.com/search?src=typd&q=%23teachtheweb) or [#MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
+* Tweet us anytime [@MozLearn](https://twitter.com/mozlearn) or using [#teachtheweb](https://twitter.com/search?src=typd&q=%23teachtheweb) or [#MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
