@@ -30,6 +30,8 @@ Test as much technology as you can before the event. Have a backup plan ready in
 Look through these outlines and examples of training events that have happened in the past. You can use them as a template for your own!
 
 *  [IPPD Web Literacy Leaders Training](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/31650/)
+*  [Mozilla Club Leadership Training](https://thimbleprojects.org/amira/63662/) 
+*  [Mozilla Web Literacy Leaders Two-Day Training Module](https://thimbleprojects.org/chadsansing/69898/index.html#overview) 
 *  [Teaching how to read, write and participate on the web with NWP](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/14616/) 
 *  [Teach the Web training for NCS Champions](https://laura.makes.org/thimble/teach-the-web-webmaker-and-ncs-teaching-kit) 
 *  [Professional Development workshop by Mouse and Mozilla](https://mousemeredith.makes.org/thimble/LTExOTM0MTA1Ng==/summer-webmaker-institute) 
