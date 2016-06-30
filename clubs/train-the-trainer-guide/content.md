@@ -195,6 +195,8 @@ OPTIONAL: End on a celebratory note. Some trainings allow opportunity to network
 *  [View the Maker Party facilitation training guide](https://mozteach.makes.org/thimble/hackable-facilitation-guide) 
 *  [View this event report of a live training](https://iteachtheweb.wordpress.com/2015/11/23/nwp/)
 *  [View the guide on how to be participatory and playful at your event](https://docs.google.com/document/d/1lKjPm-k3GGtz66Lor_kRpX68HNaPj-T47tmZ540WY_w/edit) 
+*  [View this blog post to see the Web Literacy training with NWP](https://iteachtheweb.wordpress.com/2015/11/23/nwp/) 
+*  [View this blog post to see the NYC Web Literacy leadership training in NYC](https://blog.webmaker.org/web-literacy-leaders-nyc-workshop-recap) 
 
 ###Other tips:
 *  Create a space for learners to introduce each other, engage and converse online. We like to use our community platform, Discourse. Set up a new thread for your event and share it with your learners at the beginning. Make sure you encourage them to participate in the thread either before, during or after the event. [Here’s an example from a past training.](https://discourse.webmaker.org/t/ippd-web-literacy-leaders/294) 
