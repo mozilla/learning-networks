@@ -4,7 +4,7 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
 
 ### Adding new pages via the drag & drop!
 
-1. Download the [Template Folder zip file](https://github.com/mozilla/learning-networks/releases/download/1/clubs-blank-template.zip)
+1. Download the [Template Folder zip file](https://dl.dropboxusercontent.com/u/109902/blank-template.zip)
 2. Unzip it
 3. Edit the ``content.md`` file only
   * Try the [Brackets Editor](http://brackets.io/) - it's cool!
@@ -35,6 +35,16 @@ Here is a handy **[Markdown Guide](http://mozilla.github.io/learning-networks/cl
 ### Changing the name of the folder
 Unfortunately, you can't do this within the Github UI, so you'll have to upload another folder with the correct name.
 * You can delete the original folder by using the Github UI to delete the files within in (see below)
+
+### Adding images
+
+To add an image to a guide, use the following syntax.
+
+``![image alt text](https://example.com/image.jpg "Image Title Text")``
+
+You can also add an image file to the folder that contains your guide, and then use the following syntax to display it...
+
+``![image alt text](image.jpg "Image Title Text")``
 
 ### Deleting Pages
 1. Navigate to the specific file you want to delete
