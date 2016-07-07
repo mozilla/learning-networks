@@ -38,11 +38,11 @@ Unfortunately, you can't do this within the Github UI, so you'll have to upload 
 
 ### Adding images
 
-To add an image to a guide, use the following syntax...
+To display an image in a guide, use the following markdown syntax...
 
 ``![image alt text](https://example.com/image.jpg "Image Title Text")``
 
-You can also add an image file to the folder that contains your guide, and then use the following syntax to display it...
+You can also add an image file to the folder that contains your guide, and then use the following markdown syntax to display it...
 
 ``![image alt text](image.jpg "Image Title Text")``
 
