@@ -2,7 +2,7 @@
 
 This repo is for tracking initiatives of the Mozilla Learning Networks team.
 
-### Adding new pages via the drag & drop!
+### Adding a new guide via drag & drop!
 
 **Note** - Drag & drop does not work in Firefox! Please use Chrome.
 
