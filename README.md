@@ -4,6 +4,8 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
 
 ### Adding new pages via the drag & drop!
 
+**Note** - Drag & drop does not work in Firefox! Please use Chrome.
+
 1. Download the [Template Folder zip file](https://dl.dropboxusercontent.com/u/109902/blank-template.zip)
 2. Unzip it
 3. Edit the ``content.md`` file only
@@ -14,9 +16,13 @@ This repo is for tracking initiatives of the Mozilla Learning Networks team.
   * Don't use special characters
   * Replace spaces with dashes (like-this)
 5. Drag and drop the finished folder into the ``clubs`` folder on the ``gh-pages`` branch - [Right Here](https://github.com/mozilla/learning-networks/tree/gh-pages/clubs).
-6. Your new page will be available at ``http://mozilla.github.io/learning-networks/clubs/name-of-your-folder``
 
-Here is a handy **[Markdown Guide](http://mozilla.github.io/learning-networks/clubs/markdown-guide/)** to help you with formatting your content.
+### Viewing a Published Guide
+
+Your new page will be available at 
+
+``http://mozilla.github.io/learning-networks/clubs/name-of-your-folder``
+
 
 ### Editing existing pages
 
@@ -25,6 +31,9 @@ Here is a handy **[Markdown Guide](http://mozilla.github.io/learning-networks/cl
 2. Drag the folder into the ``clubs`` folder (just like outlined above).
 3. **Warning** - your content will totally override what is in the repo
 4. Basic syntax guide https://guides.github.com/features/mastering-markdown/
+
+Here is a handy **[Markdown Guide](http://mozilla.github.io/learning-networks/clubs/markdown-guide/)** to help you with formatting your content.
+
 
 ##### If it is not
 1. Navigate to the ``content.md`` file you want to edit in the Github UI
