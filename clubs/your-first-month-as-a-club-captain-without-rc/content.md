@@ -18,7 +18,7 @@ We can’t wait to #teachtheweb with you!
 
 1. **Pledge to host your Mozilla Club [Week 1]**
 
-    1. Review the [Mozilla Club fact sheet.](http://mozilla.github.io/learning-networks/clubs/)
+    1. Review the [Mozilla Club fact sheet.](http://mozilla.github.io/learning-networks/clubs/facts)
 
     2. Complete your pledge.
 
