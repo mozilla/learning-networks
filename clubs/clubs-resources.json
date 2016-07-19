@@ -1,0 +1,215 @@
+[
+  {
+    "category":"Starting your Club",
+    "guides":[
+      {
+        "title":"Be inclusive",
+        "url":"http://mozilla.github.io/learning-networks/clubs/events-women-girls-guide/"
+      },
+      {
+        "title":"Teach open practices",
+        "url":"http://mozilla.github.io/learning-networks/clubs/teaching-web-literacy-open/"
+      },
+      {
+        "title":"Encourage participants to collaborate",
+        "url":"http://mozilla.github.io/learning-networks/clubs/encouraging-participatory-playful-learning/"
+      },
+      {
+        "title":"Grow your coummunity",
+        "url":"http://mozilla.github.io/learning-networks/clubs/growing-community/"
+      }
+    ]
+  },
+  {
+    "category":"Customizing Your Club",
+    "guides":[
+      {
+        "title":"For an afterschool Program",
+        "url":"http://mozilla.github.io/learning-networks/clubs/afterschool-program/",
+        "translations":[
+          {
+            "language":"Portugués",
+            "title":"Mozilla Clubs em programa após a aula",
+            "url":"http://leaomozillaclubs.com/mozillaclubsguides/afterschool-program/"
+          }
+        ]
+      },
+      {
+        "title":"At a community gathering",
+        "url":"http://mozilla.github.io/learning-networks/clubs/community-meet-up/",
+        "translations":[
+          {
+            "language":"Portugués",
+            "title":"Mozilla Clubs em encontros na sua comunidade",
+            "url":"http://leaomozillaclubs.com/mozillaclubsguides/community-meet-up/"
+          }
+        ]
+      },
+      {
+        "title":"In a neighborhood with low connectivity",
+        "url":"http://mozilla.github.io/learning-networks/clubs/neighborhood-with-low-connectivity/",
+        "translations":[
+          {
+            "language":"Portugués",
+            "title":"Mozilla Clubs em bairros com baixa conectividade",
+            "url":"http://leaomozillaclubs.com/mozillaclubsguides/neighborhood-with-low-connectivity/"
+          }
+        ]
+      },
+      {
+        "title":"Within an existing program",
+        "url":"http://mozilla.github.io/learning-networks/clubs/existing-program/",
+        "translations":[
+          {
+            "language":"Español",
+            "title":"Ya tienes un programa? Integralo con Mozilla Clubs",
+            "url":"http://mozilla.github.io/learning-networks/clubs/integra_tu_club/"
+          },
+          {
+            "language":"Portugués",
+            "title":"Mozilla Clubs em programa existente",
+            "url":"http://leaomozillaclubs.com/mozillaclubsguides/existing-program/"
+          }
+        ]
+      },
+      {
+        "title":"At a Library",
+        "url":"http://mozilla.github.io/learning-networks/clubs/hosting-mozilla-club-in-library/"
+      }
+    ]
+  },
+  {
+    "category":"Managing Your Club",
+    "guides":[
+      {
+        "title":"Grow and retain your community",
+        "url":"http://mozilla.github.io/learning-networks/clubs/growing-community/"
+      },
+      {
+        "title":"Turn Club learners into leaders",
+        "url":"http://mozilla.github.io/learning-networks/clubs/turning-learners-into-facilitators/"
+      },
+      {
+        "title":"Introduce new topics",
+        "url":"http://mozilla.github.io/learning-networks/clubs/introducing-topics/"
+      }
+    ]
+  },
+  {
+    "category":"Marketing your Club",
+    "guides":[
+      {
+        "title":"Follow brand guidelines",
+        "url":"http://mozilla.github.io/learning-networks/clubs/branding-guidelines/",
+        "translations":[
+          {
+            "language":"Portugués",
+            "title":"Diretrizes de Marca",
+            "url":"http://leaomozillaclubs.com/mozillaclubsguides/branding-guidelines/"
+          }
+        ]
+      },
+      {
+        "title":"Print a flyer",
+        "url":"https://github.com/MakerBox-NZ/makerParty-WGTN/blob/master/mozillaClubs_template.svg"
+      },
+      {
+        "title":"Create a website",
+        "url":"http://leaomozillaclubs.com/mozillaclubsguides/creating-a-website-en-US/",
+        "translations":[
+          {
+            "language":"Portugués",
+            "title":"Como criar um site",
+            "url":"http://leaomozillaclubs.com/mozillaclubsguides/creating-a-website-pt-BR/"
+          }
+        ]
+      },
+      {
+        "title":"Write a blogpost",
+        "url":"http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-writing-a-blog/"
+      },
+      {
+        "title":"Leverage public relations",
+        "url":"http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-pr-guide/"
+      },
+      {
+        "title":"Use social media",
+        "url":"http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-social-media/"
+      },
+      {
+        "title":"Remix a Mozilla Clubs wordmark",
+        "url":"https://d157rqmxrxj6ey.cloudfront.net/mozillalearning/17695/"
+      }
+    ]
+  },
+  {
+    "category":"Throwing Events",
+    "guides":[
+      {
+        "title":"Document a Club event",
+        "url":"http://mozilla.github.io/clubs-events/"
+      },
+      {
+        "title":"Create a safe and inclusive space",
+        "url":"http://mozilla.github.io/learning-networks/clubs/events-women-girls-guide/"
+      },
+      {
+        "title":"Incorporate Design Thinking",
+        "url":"http://mozilla.github.io/learning-networks/clubs/design-thinking/"
+      },
+      {
+        "title":"Be participatory and playful",
+        "url":"http://mozilla.github.io/learning-networks/clubs/encouraging-participatory-playful-learning/"
+      }
+    ]
+  },
+  {
+    "category":"Tips for Club Captains",
+    "guides":[
+      {
+        "title":"Your first month as a Club Captain",
+        "url":"http://mozilla.github.io/learning-networks/clubs/your-first-month-as-a-club-captain/",
+        "translations":[
+          {
+            "language":"Portugués",
+            "title":"Seu primeiro mês como um Capitão de Clube",
+            "url":"http://leaomozillaclubs.com/mozillaclubsguides/your-first-month-as-a-club-captain-without-rc/"
+          }
+        ]
+      },
+      {
+        "title":"Your first month as a Club Captain (without RC)",
+        "url":"http://mozilla.github.io/learning-networks/clubs/your-first-month-as-a-club-captain-without-rc/"
+      },
+      {
+        "title":"Parental consent form for participants under 18",
+        "url":"https://docs.google.com/document/d/1VFPE1N2RcvtdF1FHhl6sRA4-oAkau00hD3akZNicA_w/edit"
+      },
+      {
+        "title":"Getting comfortable with public speaking",
+        "url":"http://mozilla.github.io/learning-networks/clubs/public-speaking/"
+      },
+      {
+        "title":"Running a Web Literacy leaders training",
+        "url":"http://mozilla.github.io/learning-networks/clubs/train-the-trainer-guide/"
+      }
+    ]
+  },
+  {
+    "category":"Tips for Regional Coordinators",
+    "guides":[
+      {
+        "title":"Regional Coordinator description",
+        "url":"http://mozilla.github.io/learning-networks/clubs/regional-coordinator.html"
+      },
+      {
+        "title":"Community calls for Regional Coordinators",
+        "url":"https://learning.mozilla.org/community/community-call"
+      },
+      {
+        "title":"Running a Web Literacy leaders training",
+        "url":"http://mozilla.github.io/learning-networks/clubs/train-the-trainer-guide/"
+      }
+    ]
+  }
+]
