@@ -36,7 +36,7 @@ Sarah, from London, runs a MozLdN event in her work place once a month; she hold
 
 
 ## Contact
-Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs
+Email Mozilla’s Club expert Julia Vallera (julia@mozillafoundation.org) with any questions about Mozilla Clubs
 
 Tweet us anytime [@MozLearn](https://twitter.com/mozlearn) or using [#teachtheweb or #MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
 
