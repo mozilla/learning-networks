@@ -194,7 +194,7 @@ A club should be a place that learners feel welcomed and inspired. Creating a sa
 
 Within our [club curriculum](https://learning.mozilla.org/activities/) you will find activities developed by Mozilla and our communities to help guide you through your regular meetups.
 
-All of our curriculum is available via [teach.mozilla.org/activities](http://learning.mozilla.org/activities). You are free to use any of those pages and tailor the activity to the needs of your club.
+All of our curriculum is available via [learning.mozilla.org/activities](http://learning.mozilla.org/activities). You are free to use any of those pages and tailor the activity to the needs of your club.
 
 If you need any tips, [ask your fellow Club Captains](https://forum.learning.mozilla.org/c/mozilla-clubs).
 
