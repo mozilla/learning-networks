@@ -57,13 +57,13 @@ There are tons of great activities that encourage community building, both onlin
 ## Resources
 Want even more ideas and tools for hosting a club in a low-connectivity environment? Here are a few resources to help you dig further.
 
-* [Discourse Community Forum](https://discourse.webmaker.org/)
+* [Discourse Community Forum](https://forum.learning.mozilla.org/c/mozilla-clubs)
 * [Latest Thimble Developments in low-fi, no-fi environments](https://blog.webmaker.org/colour-palettes-code-folding-and-new-thimble-projects-oh-my)
 * [Teaching the web offline](https://blog.webmaker.org/lets-teach-the-web-offline)
 * [Coder Dojo Erode offline event](http://govindsr.blogspot.in/2015/04/experience-coderdojo-erode-inaugural.html)
 
 ## Contact
-Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs
+Email Mozilla’s Club expert Julia Vallera (julia@mozillafoundation.org) with any questions about Mozilla Clubs
 Tweet us anytime [@MozLearn](https://twitter.com/mozlearn) or using [#teachtheweb or #MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
 Is your Mozilla Club doing an awesome job of retaining and growing the community? [Share your story with us!](https://docs.google.com/a/mozillafoundation.org/forms/d/1bOXV1OiF2EKS5KprlnzfFpwaoVNwxLAwN_UEq6hGKqU/viewform)
 
