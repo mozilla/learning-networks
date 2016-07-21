@@ -50,7 +50,7 @@ There are tons of great activities that encourage learning on [learning.mozilla.
 ##Resources
 Want even more ideas and tools for globally increasing Women’s Web Literacy? Here are a few resources to help you dig further.
 
-* [Discourse Community Forum](https://discourse.webmaker.org/)
+* [Community Forum](https://forum.learning.mozilla.org)
 * [Web Literacy Map](https://learning.mozilla.org/web-literacy)
 * [Creating equal gender team dynamics](https://drive.google.com/a/mozillafoundation.org/file/d/0B1HI_LlmJ9BlU2htdTFQRE1WR00/view)
 * [Exploring unconscious bias](http://www.cookross.com/docs/UnconsciousBias.pdf)
