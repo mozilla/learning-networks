@@ -12,7 +12,7 @@ Have a compelling story to share and experience publishing online via blogs or o
 3. Tell your story: tell your reader why Web Literacy is important to you — and them. This should be in narrative form. Briefly describe the Club or your experience so readers understand the context. 
 4. Include photos/videos or links to relevant content. Provide links to the activities and web pages your Club uses.
 5. Use correct spelling, grammar and punctuation (protip: ask someone to help proofread your work before submitting).
-6. Share your results with Mozilla. Email a link to your blog to amira@mozillafoundation.org or use [#teachtheweb](https://twitter.com/search?src=typd&q=%23teachtheweb) on Twitter.
+6. Share your results with Mozilla. Email a link to your blog to julia@mozillafoundation.org or use [#teachtheweb](https://twitter.com/search?src=typd&q=%23teachtheweb) on Twitter.
 
 ##Your Goals
 * Post at least one blog about your Mozilla Club in the next month
@@ -34,6 +34,6 @@ Have a compelling story to share and experience publishing online via blogs or o
 * Atique, a Mozillian in Bangladesh, wrote [a blog](http://atiqueahmedziad.github.io/2015/Webmaker-app-for-android-ndc/) about his experience hosting a Mozilla Webmaker event. His blog is descriptive and has lots of photos — a good format to follow.
 
 ##Contact
-* Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs 
+* Email Mozilla’s Club expert Julia Vallera (julia@mozillafoundation.org) with any questions about Mozilla Clubs 
 * Email Mozilla’s communications manager Kevin Zawacki (kevin@mozillafoundation.org) for help or guidance with your blog
 * Tweet us anytime [@MozLearn](https://twitter.com/mozlearn) or using [#teachtheweb](https://twitter.com/search?src=typd&q=%23teachtheweb) or [#MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
