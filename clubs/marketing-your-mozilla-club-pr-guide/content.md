@@ -33,6 +33,6 @@ Here are the details:
 **When:** [Date, Time] 
 
 ##Contact
-* Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Clubs
+* Email Mozilla’s Club expert Julia Vallera (julia@mozillafoundation.org) with any questions about Clubs
 * Email Mozilla’s communications manager Kevin Zawacki (kevin@mozillafoundation.org) for PR help or guidance 
 * Tweet us anytime [@MozLearn](https://twitter.com/MozLearn)
