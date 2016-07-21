@@ -41,7 +41,7 @@ There are tons of great activities that encourage collaboration at [learning.moz
 ##Resources
 Want even more ideas and tools for moving your Club from participation to collaboration? Here are a few resources to help you dig further.
 
-* [Discourse Community Forum](https://discourse.webmaker.org/)
+* [Community Forum](https://forum.learning.mozilla.org)
 * [Web Literacy Map](https://learning.mozilla.org/web-literacy)
 * [Github](https://github.com/)
 * [Google Docs](https://www.google.com/docs/about/)
