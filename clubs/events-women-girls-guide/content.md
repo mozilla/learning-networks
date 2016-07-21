@@ -11,7 +11,7 @@ In this guide you will find tips on,
 * Understanding personal biases
 * Designing for optimal participation
 
-Have tips, links or information to share? Send it to teachtheweb@mozillafoundation.org or [add them in Discourse](https://discourse.webmaker.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579).
+Have tips, links or information to share? Send it to teachtheweb@mozillafoundation.org or [add them on our forum](https://forum.learning.mozilla.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579).
 
 
 ##Creating Safe and Convenient Spaces
@@ -141,4 +141,4 @@ View [these instructions](http://andrewfuller.com.au/wp-content/uploads/2014/08/
 
 ### Join the Discussion
 
-Have tips and tricks? [Share them with the community in Discourse.](https://discourse.webmaker.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579)
+Have tips and tricks? [Share them with the community in Discourse.](https://forum.learning.mozilla.org/t/tips-curriculum-and-resources-for-teaching-the-web-to-women-and-girls/579)
