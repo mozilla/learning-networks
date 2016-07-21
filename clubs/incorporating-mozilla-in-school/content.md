@@ -108,7 +108,7 @@ Here are some examples to get your creativity flowing in specific education area
 **Art:**
 
 * Create an [art gallery using Thimble](https://d157rqmxrxj6ey.cloudfront.net/techkim/41376/index.html) to showcase student’s work.
-* Animation is art too! Try out this [teaching kit](https://teach.mozilla.org/activities/parapara/) where students learn to use Mozilla Factory’s Parapara and Fabble, open web tools for animation and sharing work online. Create 2D animations, 3D projection-mapped animations, and ‘recipes’ that others can fork for remix on Fabble.
+* Animation is art too! Try out this [teaching kit](https://learning.mozilla.org/activities/parapara/) where students learn to use Mozilla Factory’s Parapara and Fabble, open web tools for animation and sharing work online. Create 2D animations, 3D projection-mapped animations, and ‘recipes’ that others can fork for remix on Fabble.
 
 > **Advice from #teachtheweb advocate & educator [Gina Tesoriero](https://twitter.com/MsTesoriero)**
 “When students need help:
