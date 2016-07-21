@@ -255,7 +255,7 @@ This is why we encourage you to share your experiences after each session. Also 
 
 * **Local Media.** Reach out to local media outlets and tell them what you’re doing. You can tweet or email media outlets, as well as their local reporters who write about similar topics. Remember, you need a good hook. Make it relevant to your local club and environment, and tell them why what you’re doing matters in your community.
 
-* Join our discussion forum. Ask your team and learners to sign up on our discussion forum, [Discourse](https://forum.learning.mozilla.org/c/mozilla-clubs). Introduce yourselves and publish what you’re learning and making.
+* Join our discussion forum. Ask your team and learners to sign up on our discussion [forum,](https://forum.learning.mozilla.org/c/mozilla-clubs). Introduce yourselves and publish what you’re learning and making.
 
 ### Appendix. More Resources
 
