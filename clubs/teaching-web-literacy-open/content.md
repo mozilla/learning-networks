@@ -57,8 +57,8 @@ Here are a list of suggested activities to help your Mozilla Club participants u
 ##Resources
 Want even more ideas and tools for teaching the web in the open? Here are a few resources to help you dig further.
 
-* [Discourse Community Forum](https://discourse.webmaker.org/)
-* [Web Literacy Map](https://teach.mozilla.org/activities/web-literacy)
+* [Community Forum](https://forum.learning.mozilla.org)
+* [Web Literacy Map](https://learning.mozilla.org/web-literacy)
 * [Github](https://github.com/)
 * [Google Docs](https://www.google.com/docs/about/)
 * [Etherpad](http://etherpad.org/)
