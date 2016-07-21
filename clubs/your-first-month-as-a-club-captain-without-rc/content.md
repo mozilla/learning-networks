@@ -176,7 +176,7 @@ What’s a club with no learners? Now that you have a stellar team ready to teac
 
 * **Word of Mouth.** Your friends and family are a powerful network. If they don’t know someone, they might know someone who knows someone. Spread the word far and wide at the next event, function, office or place you go to.
 
-* **Blog.** Share your experience running a club on your blog, or even write a guest post on other relevant blogs. If you’re looking for somewhere to start, join the community [on Discourse](http://discourse.webmaker.org/category/clubs) where you can publish posts and connect to educators around the world.
+* **Blog.** Share your experience running a club on your blog, or even write a guest post on other relevant blogs. If you’re looking for somewhere to start, join the community [on our forum](https://forum.learning.mozilla.org/c/mozilla-clubs) where you can publish posts and connect to educators around the world.
 
 ### II.C. Ensure a safe, welcoming environment.
 
@@ -201,7 +201,7 @@ Within our [club curriculum](https://learning.mozilla.org/activities/) you will 
 
 All of our curriculum is available via [learning.mozilla.org/activities](http://learning.mozilla.org/activities). You are free to use any of those pages and tailor the activity to the needs of your club.
 
-If you need any tips, [ask your fellow Club Captains](http://discourse.webmaker.org).
+If you need any tips, [ask your fellow Club Captains](https://forum.learning.mozilla.org/c/mozilla-clubs).
 
 **Adapt the activities to your club**
 
@@ -249,13 +249,13 @@ This is why we encourage you to share your experiences after each session. Also 
 
 * **Social Media.** Share your experiences using [#teachtheweb](https://twitter.com/search?f=realtime&q=%23teachtheweb&src=typd) and [@MozLearn](https://twitter.com/mozlearn) on social media, especially Twitter. You might consider creating a new hashtag just for your club so the learners can keep track of all that happens in one place. Write a few sample tweets and posts that your mentors and learners can share on their networks as well.
 
-* **Website.** You may want a website where learners can showcase what they make, while potential learners can get a feel for what happens. It can also serve as the place you share your blog, integrate your social media channels and post your print materials for others to print. [Wordpress](http://wordpress.com/), [Blogger](http://blogger.com/) and [Tumblr](https://www.tumblr.com/) are all easy and free places to start. Don’t forget to share the link on [our discussion forum!](http://discourse.webmaker.org/category/clubs)
+* **Website.** You may want a website where learners can showcase what they make, while potential learners can get a feel for what happens. It can also serve as the place you share your blog, integrate your social media channels and post your print materials for others to print. [Wordpress](http://wordpress.com/), [Blogger](http://blogger.com/) and [Tumblr](https://www.tumblr.com/) are all easy and free places to start. Don’t forget to share the link on [our discussion forum!](https://forum.learning.mozilla.org/c/mozilla-clubs)
 
 * **Feedback, surveys and assessments.** Have regular check-ins with your learners to see how they are progressing. You might learn that you need to revisit certain material, recruit more mentors, adjust the difficulty levels of activities, or change the learning environment. We hear pen and paper is often the most effective method for quick feedback, although online forms or an informal discussion can work, too. It’s most important to ask for feedback immediately after completion of a task or session so that the experience is fresh for your learners.
 
 * **Local Media.** Reach out to local media outlets and tell them what you’re doing. You can tweet or email media outlets, as well as their local reporters who write about similar topics. Remember, you need a good hook. Make it relevant to your local club and environment, and tell them why what you’re doing matters in your community.
 
-* Join our discussion forum. Ask your team and learners to sign up on our discussion forum, [Discourse](http://discourse.webmaker.org/category/clubs). Introduce yourselves and publish what you’re learning and making.
+* Join our discussion forum. Ask your team and learners to sign up on our discussion forum, [Discourse](https://forum.learning.mozilla.org/c/mozilla-clubs). Introduce yourselves and publish what you’re learning and making.
 
 ### Appendix. More Resources
 
