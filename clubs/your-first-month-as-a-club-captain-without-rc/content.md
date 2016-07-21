@@ -38,7 +38,7 @@ We can’t wait to #teachtheweb with you!
 
     8. Practice teaching the activities with your team, and then teach it to your learners.
 
-    9. After each session, [share your experience](http://discourse.webmaker.org/category/clubs) with fellow Club Captains in our discussion forum.
+    9. After each session, [share your experience](https://forum.learning.mozilla.org/c/mozilla-clubs) with fellow Club Captains in our discussion forum.
 
 1. **Pledge to Host Your Mozilla Club [Week 1]**
 
@@ -118,7 +118,7 @@ Consider even some conversations with potential learners to help identify what y
 
 There are Mozilla Club Captains all over the world. Together, we are a community that learns with and for each other. We have additional advice and experiences we’re happy to share so that your club is more fulfilling, effective and fun.
 
-When you’re ready with your personal and club goals, post them to [our Discussion Forum](http://discourse.webmaker.org/category/clubs).
+When you’re ready with your personal and club goals, post them to [our Discussion Forum](https://forum.learning.mozilla.org/c/mozilla-clubs).
 
 Throughout your engagement with Mozilla Clubs, here’s how you can connect with peers:
 
