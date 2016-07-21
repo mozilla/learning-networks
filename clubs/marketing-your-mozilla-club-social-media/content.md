@@ -50,6 +50,6 @@ Adept at creating social content, promoting an event or group, and reaching the 
 Connect with other Clubs and Club Captains to find out what Mozilla Clubs are doing around the world. On Twitter, [@MozLearn](https://twitter.com/MozLearn) has set up a [public Twitter list](https://twitter.com/MozLearn/lists/club-captains) ( a Club Captain directory, of sorts), that makes it easy to connect and follow. You can also [find Clubs near you](https://learning.mozilla.org/clubs/list/) and search the Club name to find them on social media.
 
 ##Contact
-* Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with questions about Clubs
+* Email Mozilla’s Club expert Julia Vallera (julia@mozillafoundation.org) with questions about Clubs
 * Email Mozilla’s communications manager Kevin Zawacki (kevin@mozillafoundation.org) for help or guidance with social media
 * Tweet us anytime [@MozLearn](https://twitter.com/MozLearn)
