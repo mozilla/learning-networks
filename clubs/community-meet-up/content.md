@@ -22,7 +22,7 @@ As a meet-up host, or Mozilla Club Captain in this context, you can:
 
 * Improve your own mentoring skills.
 * Create or adapt activities that are focused on the same things your community cares about.
-* Join a global network and [connect with other Mozilla Club Captains](https://discourse.webmaker.org/c/mozilla-clubs) to share best practices and contribute new/adapted content.
+* Join a global network and [connect with other Mozilla Club Captains](https://forum.learning.mozilla.org/c/mozilla-clubs) to share best practices and contribute new/adapted content.
 
 ## Activity Ideas
 There are tons of great activities that encourage community building, both online and offline at [learning.mozilla.org/activities](https://learning.mozilla.org/activities). Here are a few suggestions for mixing your current meet-up with your Mozilla Club:
@@ -50,12 +50,11 @@ There are tons of great activities that encourage community building, both onlin
 ## Resources
 Want even more ideas and tools for mixing your Mozilla Club with your current meet-up? Here are a few resources to help you dig further.
 
-* [Discourse Community Forum](https://discourse.webmaker.org/)
-* [Hive Learning Networks](https://hivelearningnetworks.org/)
+* [Discourse Community Forum](https://forum.learning.mozilla.org/c/mozilla-clubs)
 * [Connected Mentor Framework outside of the school setting](http://hiveresearchlab.org/2014/12/01/what-me-mentor-introducing-the-connected-mentor-framework-for-out-of-school-environments/)
 
 ## Contact
-Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs
+Email Mozilla’s Club expert Julia Vallera (julia@mozillafoundation.org) with any questions about Mozilla Clubs
 Tweet us anytime [@MozLearn](https://twitter.com/mozlearn) or using [#teachtheweb or #MozillaClubs](https://twitter.com/search?src=typd&q=%23mozillaclubs)
 Is your Mozilla Club doing an awesome job of retaining and growing the community? [Share your story with us!](https://docs.google.com/a/mozillafoundation.org/forms/d/1bOXV1OiF2EKS5KprlnzfFpwaoVNwxLAwN_UEq6hGKqU/viewform)
 
