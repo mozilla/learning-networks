@@ -9,7 +9,7 @@ Curious about what it takes to create a Mozilla Club environment within a librar
 2. Facilitation guidelines to make the most of your club events.
 3. Real-world examples of successful events hosted in libraries to spark your creativity and inspiration.
 
-Do you have other tips, links, or resources to share? Send them to us at teachtheweb@mozillafoundation.org or [join the discussion on teaching in a library in our community forum](https://discourse.webmaker.org/t/hosting-events-mozilla-clubs-in-libraries/581).
+Do you have other tips, links, or resources to share? Send them to us at teachtheweb@mozillafoundation.org or [join the discussion on teaching in a library in our community forum](https://forum.learning.mozilla.org/t/hosting-events-mozilla-clubs-in-libraries/581).
 
 
 ##Why Should You Meet in a Library?
@@ -80,7 +80,7 @@ The following activities are easy to implement with any size group and are perfe
 * [CSS Story Cards](https://d157rqmxrxj6ey.cloudfront.net/mouseorg/19913/) - Students play a collaborative HTML & CSS card game to assemble an offline version of web page source code, then enter their code into Thimble to see what the web page looks like, and make fixes.
 
 ##Library Event Examples
-Mozilla has supported numerous web literacy events affiliated with libraries, primarily in North America to date. [Please share your story with us](https://discourse.webmaker.org/t/hosting-events-mozilla-clubs-in-libraries/581), so we can add more international examples to this list.
+Mozilla has supported numerous web literacy events affiliated with libraries, primarily in North America to date. [Please share your story with us](https://forum.learning.mozilla.org/t/hosting-events-mozilla-clubs-in-libraries/581), so we can add more international examples to this list.
 
 * [Encryption Party at a library in Sweden](http://digibib.se/886-2/)
 * [PROjectUS](http://hivechicago.org/portfolio/project-us/)
