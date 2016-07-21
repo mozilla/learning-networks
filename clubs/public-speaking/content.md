@@ -100,4 +100,4 @@ Want even more ideas and tools to help you master public speaking? Here are a fe
 * [Mozilla Tech Speakers](https://wiki.mozilla.org/TechSpeakers)
 * [15 Ways to Calm Your Nerves Before A Big Presentation](http://www.inc.com/larry-kim/15-power-up-tips-to-make-you-a-better-presenter.html)
 * [Preparing for a TED talk](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html)
-* [Discourse Community Forum](https://discourse.webmaker.org/) 
+* [Community Forum](https://forum.learning.mozilla.org) 
