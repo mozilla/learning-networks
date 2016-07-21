@@ -20,7 +20,7 @@ Retaining and growing community is vital to the health and longevity of a succes
   * Look for content that is adjustable and open enough that it can be interpreted and remixed in many different ways. [Here's an example](http://littlebits.cc/bitolympics).
 * Partner with other Mozilla Clubs (or any other relevant club in your area). This is not only really fun and a great way to meet new people, your Club will see how others are leading and running groups and will be motivated to keep yours healthy, as well.
 * Try out Community calls! On the last Wednesday of every month, invite your online community to join you for a video call. Line up a guest speaker for a short Q&A and then break down into individual video chat rooms to have more intimate conversations with other members of the community. You can try the open source MIT platform called [Unhangout](https://unhangout.media.mit.edu/), that uses Google Hangouts to create small breakout sessions as needed, and help users find others with shared interests. Invite well-known educators, thinkers, makers and tinkerers to join as well. THIS is where community members get to meet face-to-face and where collaboration starts to  happen naturally.
-* Utilize Online forums. They exist as a place for community members to talk about what’s on their minds: project ideas, support, events, etc. These forums can indeed become stagnant if you don’t manage them properly, but try posting a weekly conversation starter and tagging community members you think might enjoy talking further about it. [Discourse](https://discourse.webmaker.org/) is an example of an online forum that you can participate in as a part of the global Mozilla Clubs community.
+* Utilize Online forums. They exist as a place for community members to talk about what’s on their minds: project ideas, support, events, etc. These forums can indeed become stagnant if you don’t manage them properly, but try posting a weekly conversation starter and tagging community members you think might enjoy talking further about it. [Our community forum](https://forum.learning.mozilla.org) is an example of an online forum that you can participate in as a part of the global Mozilla Clubs community.
 * Host local community meetups. Every couple months host a meet-up to bring together the local community. Hosting a meetup is easy and can be done in any type of a space: an apartment, backyard, coffee shop, bar, etc. At these meetups, offer plenty of time to network, but also offer guided discussion or a hands-on project. Collaboration is key!
   * [Meetup.com](http://www.meetup.com/) is an excellent tool to spread the word and a way to bring in new community members.
 
@@ -52,7 +52,7 @@ There are tons of great activities that encourage community building, both onlin
 ##Resources
 Want even more ideas and tools for retaining and growing your Mozilla Club? Here are a few resources to help you dig further.
 
-* [Discourse Community Forum](https://discourse.webmaker.org/)
+* [Community Forum](https://forum.learning.mozilla.org/c/mozilla-clubs)
 * Air Mozilla: [Maintaining and Growing a technical community](https://air.mozilla.org/maintaining-growing-a-technical-community/)
 * Read about what [Hive NYC is doing to connect their community](http://hivenyc.org/community/)
 
