@@ -20,7 +20,7 @@ NOT OKAY
 
 If you have a club domain name that contains the Mozilla name and at any point decide to stop running your club, you must stop using the domain name and may not employ it for other purposes.
 
-(5) **Websites**. The front page of your website (above the fold) must inform users that “[CLUB NAME] is part of the network of Mozilla Clubs inspired by the [Mozilla Learning Network](https://teach.mozilla.org/).”
+(5) **Websites**. The front page of your website (above the fold) must inform users that “[CLUB NAME] is part of the network of Mozilla Clubs inspired by the [Mozilla Learning Network](https://learning.mozilla.org/).”
 
 At the top of the site's main page, it should be stated clearly and explicitly that this is a community site, maintained by a group of volunteers.
 
