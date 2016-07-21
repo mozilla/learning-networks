@@ -36,11 +36,9 @@ We can’t wait to #teachtheweb with you!
 
 3. **Host your first sessions [Week 4]**
 
-    7. Select your favorite teaching activities from [Mozilla’s collection.](https://teach.mozilla.org/activities/)
+    7. Select your favorite teaching activities from [Mozilla’s collection.](https://learning.mozilla.org/activities/)
 
     8. Practice teaching the activities with your team, and then teach it to your learners.
-
-    9. After each session, [share your experience](http://discourse.webmaker.org/category/clubs) with fellow Club Captains in our discussion forum and with your Regional Coordinator during your regular calls.
 
 1. **Pledge to Host Your Mozilla Club [Week 1]**
 
@@ -88,8 +86,6 @@ We can’t wait to #teachtheweb with you!
 
 * [Mozilla Club fact sheet](http://mozilla.github.io/learning-networks/clubs/)
 
-* [Community tips and recommendations on a Club Captain’s first month](http://discourse.webmaker.org/t/first-30-days-as-a-club-captain-guide/1538/3)
-
 ### I.B. Do an interview with a Regional Coordinator to complete your pledge.
 
 ### Interview process
@@ -122,11 +118,11 @@ Consider even some conversations with potential learners to help identify what y
 
 There are Mozilla Club Captains all over the world. Together, we are a community that learns with and for each other. We have additional advice and experiences we’re happy to share so that your club is more fulfilling, effective and fun.
 
-When you’re ready with your personal and club goals, post them to [our Discussion Forum](http://discourse.webmaker.org/category/clubs).
+When you’re ready with your personal and club goals, post them to [our discussion Forum](https://forum.learning.mozilla.org/c/mozilla-clubs).
 
 Throughout your engagement with Mozilla Clubs, here’s how you can connect with peers:
 
-* Twitter. Share ideas, questions and pictures to [@Mozteach](https://twitter.com/mozteach) and use the tag [#TeachTheWeb](https://twitter.com/search?f=realtime&q=%23teachtheweb&src=typd)
+* Twitter. Share ideas, questions and pictures to [@MozLearn](https://twitter.com/mozlearn) and use the tag [#TeachTheWeb](https://twitter.com/search?f=realtime&q=%23teachtheweb&src=typd)
 
 * Email. Send an email to [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org) or email your Regional Coordinator directly.
 
@@ -175,7 +171,7 @@ What’s a club with no learners? Now that you have a stellar team ready to teac
 
 * **Word of Mouth**. Your friends and family are a powerful network. If they don’t know someone, they might know someone who knows someone. Spread the word far and wide at the next event, function, office or place you go to.
 
-* **Blog.** Share your experience running a club on your blog, or even write a guest post on other relevant blogs. If you’re looking for somewhere to start, join the community [on Discourse](http://discourse.webmaker.org/category/clubs) where you can publish posts and connect to educators around the world.
+* **Blog.** Share your experience running a club on your blog, or even write a guest post on other relevant blogs. If you’re looking for somewhere to start, join the community [on our forum](https://forum.learning.mozilla.org/c/mozilla-clubs) where you can publish posts and connect to educators around the world.
 
 ### II.C. Ensure a safe, welcoming environment.
 
@@ -196,11 +192,11 @@ A club should be a place that learners feel welcomed and inspired. Creating a sa
 
 **Review Mozilla’s teaching activities**
 
-Within our [club curriculum](https://teach.mozilla.org/activities/) you will find activities developed by Mozilla and our communities to help guide you through your regular meetups.
+Within our [club curriculum](https://learning.mozilla.org/activities/) you will find activities developed by Mozilla and our communities to help guide you through your regular meetups.
 
-All of our curriculum is available via [teach.mozilla.org/activities](http://teach.mozilla.org/activities). You are free to use any of those pages and tailor the activity to the needs of your club.
+All of our curriculum is available via [teach.mozilla.org/activities](http://learning.mozilla.org/activities). You are free to use any of those pages and tailor the activity to the needs of your club.
 
-If you need any tips, [ask your fellow Club Captains](http://discourse.webmaker.org).
+If you need any tips, [ask your fellow Club Captains](https://forum.learning.mozilla.org/c/mozilla-clubs).
 
 **Adapt the activities to your club**
 
@@ -228,7 +224,7 @@ Here are some ways we recommend adapting our teaching activities to fit your nee
 
 * Try the activities. Mentors should be aware of the activities being used and what they need to prepare ahead of time. Have the team go through the activities together, and discuss any questions. Know who has which skills and make sure everyone is comfortable with the material. You don’t have to know all the answers -- just be confident in helping your learners find out themselves!
 
-* Give each other feedback on being a facilitative leader. Review what it means to [teach ](https://teach.mozilla.org/teach-like-mozilla/)[like](https://teach.mozilla.org/teach-like-mozilla/)[ Mozilla](https://teach.mozilla.org/teach-like-mozilla/). We encourage learning through making, using participatory methods to teach, using open practices and much more. This is an important step and part of the magic of being a club leader. Support your team members in being facilitative leaders and in giving each other constructive feedback on how to do that better.
+* Give each other feedback on being a facilitative leader. We encourage learning through making, using participatory methods to teach, using open practices and much more. This is an important step and part of the magic of being a club leader. Support your team members in being facilitative leaders and in giving each other constructive feedback on how to do that better.
 
 * Learners mentor each other. Successful clubs often invite learners to be peer mentors and teachers. Identify when and how you can include this practice in your upcoming session.
 
@@ -246,15 +242,15 @@ This is why we encourage you to share your experiences after each session. Also 
 
 * **In-session sharing.** It’s fun to hear and see what others did during the session itself. Gather the group together to share what they did and reflect on the experience. This is an important part of the learning process. Try displaying the work on the walls so others can see (and leave positive comments with post-it notes!), or set up a few demo stations and ask learners to give constructive feedback.
 
-* **Social Media.** Share your experiences using [#teachtheweb](https://twitter.com/search?f=realtime&q=%23teachtheweb&src=typd) and [@Mozteach](https://twitter.com/mozteach) on social media, especially Twitter. You might consider creating a new hashtag just for your club so the learners can keep track of all that happens in one place. Write a few sample tweets and posts that your mentors and learners can share on their networks as well.
+* **Social Media.** Share your experiences using [#teachtheweb](https://twitter.com/search?f=realtime&q=%23teachtheweb&src=typd) and [@MozLearn](https://twitter.com/mozlearn) on social media, especially Twitter. You might consider creating a new hashtag just for your club so the learners can keep track of all that happens in one place. Write a few sample tweets and posts that your mentors and learners can share on their networks as well.
 
-* **Website.** You may want a website where learners can showcase what they make, while potential learners can get a feel for what happens. It can also serve as the place you share your blog, integrate your social media channels and post your print materials for others to print. [Wordpress](http://wordpress.com/), [Blogger](http://blogger.com/) and [Tumblr](https://www.tumblr.com/) are all easy and free places to start. Don’t forget to share the link on [our discussion forum!](http://discourse.webmaker.org/category/clubs)
+* **Website.** You may want a website where learners can showcase what they make, while potential learners can get a feel for what happens. It can also serve as the place you share your blog, integrate your social media channels and post your print materials for others to print. [Wordpress](http://wordpress.com/), [Blogger](http://blogger.com/) and [Tumblr](https://www.tumblr.com/) are all easy and free places to start. Don’t forget to share the link on [our discussion forum!](https://forum.learning.mozilla.org/c/mozilla-clubs)
 
 * **Feedback, surveys and assessments.** Have regular check-ins with your learners to see how they are progressing. You might learn that you need to revisit certain material, recruit more mentors, adjust the difficulty levels of activities, or change the learning environment. We hear pen and paper is often the most effective method for quick feedback, although online forms or an informal discussion can work, too. It’s most important to ask for feedback immediately after completion of a task or session so that the experience is fresh for your learners.
 
 * **Local Media.** Reach out to local media outlets and tell them what you’re doing. You can tweet or email media outlets, as well as their local reporters who write about similar topics. Remember, you need a good hook. Make it relevant to your local club and environment, and tell them why what you’re doing matters in your community.
 
-* Join our discussion forum. Ask your team and learners to sign up on our discussion forum, [Discourse](http://discourse.webmaker.org/category/clubs). Introduce yourselves and publish what you’re learning and making.
+* Join our discussion forum. Ask your team and learners to sign up on our discussion [forum](https://forum.learning.mozilla.org/c/mozilla-clubs). Introduce yourselves and publish what you’re learning and making.
 
 ### Appendix. More Resources
 
@@ -262,19 +258,19 @@ Mozilla Clubs is a relatively new program. It’s open source, so it’s changin
 
 Here are some guides to show how you can set up a Mozilla Club in different settings:
 
-* [Afterschool program](https://docs.google.com/document/d/1rUivWQybJymNlfZZHWkSJqFN5TNDVuPRSH_YCObALeM/edit)
+* [Afterschool program](http://mozilla.github.io/mozilla-club-guides/afterschool-program/)
 
-* [Community Meet-Up](https://docs.google.com/document/d/1gzbC5Q_XeHeii66v_Z4py6QrqYin5j1ozNhdeKJ-Ssg/edit)
+* [Community Meet-Up](http://mozilla.github.io/mozilla-club-guides/community-meet-up/)
 
-* [Neighborhood with low connectivity](https://docs.google.com/a/mozilla.com/document/d/18DwRtmttN_EUlp1PUsQJWrDgUwMpCf5ipKG-TGfN1Rc/edit?usp=sharing)
+* [Neighborhood with low connectivity](http://mozilla.github.io/mozilla-club-guides/neighborhood-with-low-connectivity/)
 
-* [Embedded in an existing program](https://docs.google.com/document/d/1WbEEuomaH3eHd--vn_mBBBdAMuS8s9_WxJ4zm-N-UQI/edit)
+* [Embedded in an existing program](http://mozilla.github.io/mozilla-club-guides/existing-program)
 
 * University Campus / Firefox Student Ambassadors [in progress]
 
-* Library [in progress]
+* [Library](http://mozilla.github.io/learning-networks/clubs/hosting-mozilla-club-in-library)
 
-* Classroom [in progress]
+* [Classroom](mozilla.github.io/learning-networks/clubs/incorporating-mozilla-in-school)
 
 Is there a resource you want to see included here, or something you made that you’d like to share with others? Let us know by emailing [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
 
