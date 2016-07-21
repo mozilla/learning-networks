@@ -14,7 +14,7 @@ How does "teach like Mozilla" translate to your Mozilla Club? Instead of convent
 Facilitating discussion and activities should be more about guiding participants through their own learning, as opposed to “telling” how to learn. Here are great tips to help facilitate the best and most effective discussions in your Mozilla Club!
 
 * Keep the core of Mozilla Clubs in mind: Your club should be a small community that meets regularly in person to learn how to read, write and participate on the Web in an inclusive, engaging way.
-* Play a cheerleader role, not a micromanagement role. Share, learn, motivate, create together. [Connect with other Mozilla Club Captains](https://discourse.webmaker.org/c/mozilla-clubs) and share ideas.
+* Play a cheerleader role, not a micromanagement role. Share, learn, motivate, create together. [Connect with other Mozilla Club Captains](https://forum.learning.mozilla.org/c/mozilla-clubs) and share ideas.
     * Here are a couple of examples of what you may learn. More experiences can be [found here](https://dunebuggie.wordpress.com/2015/11/08/mozfestplayful-participatory-learning-at-mozilla-clubs/).
         * In India, some Clubs taught code through games like hopscotch and HTML web page frameworks using bricks, using Lo-Fi and No-Fi teaching kits. 
         * In Brazil, people are taught to remix web pages of a popular gaming website.
@@ -61,7 +61,7 @@ Want even more ideas and tools for creating a participatory and playful Mozilla 
 
 *  [[MozFest]Playful & Participatory learning at Mozilla Clubs](https://dunebuggie.wordpress.com/2015/11/08/mozfestplayful-participatory-learning-at-mozilla-clubs/)
 *  [Using Thimble with Limited Connectivity](https://blog.webmaker.org/using-thimble-with-limited-internet-connectivity)
-*  [Discourse Community Forum](https://discourse.webmaker.org/)
+*  [Community Forum](https://forum.learning.mozilla.org/c/mozilla-clubs)
 *  [Web Literacy Map](https://learning.mozilla.org/web-literacy)
 
 
