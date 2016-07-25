@@ -66,7 +66,8 @@ The links on the [Guides & Resources](https://learning.mozilla.org/clubs/guides)
 
 ####Tips for editing this file
 
-* The categories and links appear on the page in the order they are listed in the JSON file
-* Before committing changes to the JSON (and thus making it live) please make sure the JSON is valid
-  * To do so, you can copy and paste your JSON into a syntax helper like (JSONLint)[http://jsonlint.com/]
-  * If there is an error in your published JSON, the entire list will fail to load
+* The format of this data is called JSON, read more about it [here](http://developers.squarespace.com/what-is-json/)
+* The categories and links appear on the page in the order they appear in the file
+* Before committing changes to this file (and thus making it live) please make sure the JSON is valid
+  * To do so, copy and paste the entire contents of the file into a syntax validator like (JSONLint)[http://jsonlint.com/]
+  * If there is an error in your published JSON, it will break the guides section on the Learning site
