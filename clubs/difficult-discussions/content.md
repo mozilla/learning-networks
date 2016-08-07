@@ -1,3 +1,4 @@
+![image alt text](PASECircleLogo.png "PASE logo")
 #Resources for Having Difficult Discussions with Youth
 
 by Partnership for After School Education (PASE)
