@@ -4,7 +4,7 @@
 
 by Partnership for After School Education (PASE)
 
-The resources and information below were curated and shared by the Partnership for After School Education in New York City, NY USA in July 2016. PASE is a long time collaborator and partner to Mozilla's Hive Learning Network in NYC. Given their long history with educators and rich expertise in education we value their insight and think these resources will be very valuable to the Mozilla Club community.  
+The resources and information below were curated and shared by [Partnership for After School Education](https://pasesetter.org/) in New York City, NY USA in July 2016. PASE is a long time collaborator and partner to Mozilla's Hive Learning Network in NYC. Given their long history with educators and rich expertise in education we value their insight and think these resources will be very valuable to the Mozilla Club community.  
 
 Mozilla is happy to continue to share resources on this topic. If you have additions to this list and/or would like to suggest resources for a different topic [please let us know](https://forum.learning.mozilla.org/t/suggestions-for-new-clubs-guides/970) and we are happy to add them to our growing list.
 
