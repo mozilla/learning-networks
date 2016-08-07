@@ -2,7 +2,7 @@
 
 ![image alt text](PASECircleLogo.png "PASE logo")
 
-by Partnership for After School Education (PASE)
+*This Mozilla Club guide was created by Mozilla Clubs and Partnership for After School Education (PASE)*
 
 ##About
 
