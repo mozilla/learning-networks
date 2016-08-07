@@ -4,11 +4,13 @@
 
 by Partnership for After School Education (PASE)
 
+##About
+
 The resources and information below were curated and shared by [Partnership for After School Education](https://pasesetter.org/) in New York City, NY USA in July 2016. PASE is a long time collaborator and partner to Mozilla's [Hive Learning Network in NYC](http://hivenyc.org/). Given their long history with educators and rich expertise in education we value their insight and think these resources will be very valuable to the Mozilla Club community.  
 
 Mozilla is happy to continue to share resources on this topic. If you have additions to this list and/or would like to suggest resources for a different topic [please let us know](https://forum.learning.mozilla.org/t/suggestions-for-new-clubs-guides/970) and we are happy to add them to our growing list.
 
-##About
+##Resources
 
 In times of tragic events, the children, youth and families you serve, and your staff may have questions, fears, and anger they are processing. Here is a short list of resources to support you in addressing and listening to their concerns.
 
