@@ -1,5 +1,6 @@
+#Mozilla Club Guide: Resources for Having Difficult Discussions with Youth
+
 ![image alt text](FULL-logo-New-MASTER---new-web-orange.png "PASE logo")
-#Resources for Having Difficult Discussions with Youth
 
 by Partnership for After School Education (PASE)
 
