@@ -12,25 +12,25 @@ We can’t wait to #teachtheweb with you!
 
 1. **Pledge to host your Mozilla Club [Week 1]**
 
-    ⋅⋅* Review the [Mozilla Club fact sheet.](http://mozilla.github.io/learning-networks/clubs/facts)
+    * Review the [Mozilla Club fact sheet.](http://mozilla.github.io/learning-networks/clubs/facts)
 
-    ⋅⋅* Share your goals with peers and discuss steps needed to achieve them.
+    * Share your goals with peers and discuss steps needed to achieve them.
 
 2. **Prepare your team, your learners and your space [Week 2 - 3]**
 
-    ⋅⋅*. [Name your club](https://d157rqmxrxj6ey.cloudfront.net/mozillalearning/17695/) and find a team.
+    * [Name your club](https://d157rqmxrxj6ey.cloudfront.net/mozillalearning/17695/) and find a team.
 
-    ⋅⋅* Schedule your first three sessions and invite your learners.
+    * Schedule your first three sessions and invite your learners.
 
-    ⋅⋅* Ensure a safe, welcoming environment.
+    * Ensure a safe, welcoming environment.
 
 3. **Host your first sessions [Week 4]**
 
-    ⋅⋅* Select your favorite teaching activities from [Mozilla’s collection.](https://learning.mozilla.org/activities/)
+    * Select your favorite teaching activities from [Mozilla’s collection.](https://learning.mozilla.org/activities/)
 
-    ⋅⋅* Practice teaching the activities with your team, and then teach it to your learners.
+    * Practice teaching the activities with your team, and then teach it to your learners.
 
-    ⋅⋅* After each session, [share your experience](https://forum.learning.mozilla.org/c/mozilla-clubs) with fellow Club Captains in our discussion forum.
+    * After each session, [share your experience](https://forum.learning.mozilla.org/c/mozilla-clubs) with fellow Club Captains in our discussion forum.
     
 ## Pledge to host your Mozilla Club [Week 1]
 
