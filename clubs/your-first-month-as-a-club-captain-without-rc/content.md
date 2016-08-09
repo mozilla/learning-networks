@@ -18,6 +18,7 @@ III. **Host your first sessions [Week 4]**
 
 ## I. Plan your Mozilla Club road map [Week 1]
 
+
 ### I.A. Review the Mozilla Club Fact Sheet:
 
 **Mozilla Club meets regularly in-person to learn how to read, write and participate with the web in an inclusive and engaging way.**
@@ -91,6 +92,7 @@ Throughout your engagement with Mozilla Clubs, here’s how you can connect with
 
 ## II. Prepare Your Team, Your Learners and Your Space [Week 2 - 3]
 
+
 ### II.A. Name your club and find a team.
 
 #### Name your club
@@ -152,6 +154,7 @@ A club should be a place that learners feel welcomed and inspired. Creating a sa
 
 
 ## III. Host Your First Sessions [Week 4]
+
 
 ### III.A. Select your favorite teaching activities from Mozilla’s collection.  
 
