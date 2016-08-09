@@ -99,9 +99,9 @@ Your club is yours to design. Once you have submitted your pledge and agreed to 
 
 We encourage/invite you to use the Mozilla brand provided you [follow the guidelines set forth here](https://www.mozilla.org/en-US/styleguide/identity/mozilla/branding/). The Mozilla brand helps identify your club as part of our global network and mission.
 
-* **Naming****.** You may, but are not required to, use the name "Mozilla Clubs" in your club’s name. Further identify your club by your location, region, group or interests. Here are the names of some current clubs: Mozilla Club Rio, Mozilla Club Jahangirnagar University, Cikarang Mozilla Club, Mozilla Club for the Chicago Librarians.
+* **Naming.** You may, but are not required to, use the name "Mozilla Clubs" in your club’s name. Further identify your club by your location, region, group or interests. Here are the names of some current clubs: Mozilla Club Rio, Mozilla Club Jahangirnagar University, Cikarang Mozilla Club, Mozilla Club for the Chicago Librarians.
 
-* **Logo**. While standalone uses of the "Mozilla" and “Mozilla Clubs” wordmarks are limited to what is permitted under the[ Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/), we welcome you to[ use this template to create a logo](https://sabby.makes.org/thimble/NzYxNzkwOTc2/mozilla-clubs-wordmark) for your club that incorporates these wordmarks.
+* **Logo.** While standalone uses of the "Mozilla" and “Mozilla Clubs” wordmarks are limited to what is permitted under the[ Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/), we welcome you to[ use this template to create a logo](https://sabby.makes.org/thimble/NzYxNzkwOTc2/mozilla-clubs-wordmark) for your club that incorporates these wordmarks.
 
 * Review the [remaining Mozilla Club guidelines](http://mozilla.github.io/mozilla-club-guides/branding-guidelines) for domain names, websites, references, mission and more.
 
@@ -141,20 +141,21 @@ What’s a club with no learners? Now that you have a stellar team ready to teac
 
 A club should be a place that learners feel welcomed and inspired. Creating a safe environment is an important aspect of running and maintaining a Mozilla Club. Though expectations can vary from country to country there are measures you can take to help ensure safety at your events such as a safe recruitment of volunteers, creating a code of safety for volunteers, identifying outlets for safe and/or anonymous feedback, and many others.
 
-* Clubs must meet in public places such as a coffee shop, schools, community centers or library community room.
+* **Venue.** Clubs must meet in public places such as a coffee shop, schools, community centers or library community room.
 
 * **Before the event.** When sharing information or promoting the event include all information on where the event will be held and who will be present. Share background information on yourself and other club volunteers so learners and their families know who is running the event. If any minors should wish to attend your event, you should have their parents or legal guardians also attend or get their formal consent in their child’s participation. Any participant under the age of 13 must be accompanied by a parent or legal guardian. There may be specific data protections, especially for minors, in your region. Make sure you are aware of and comply with any such laws and regulations. You may not photograph, video or audiorecord attendees without their express permission, or, for minors, without express parental consent. (Please note that certain kinds of photographing, audiotaping, and videotaping of particular age groups may be prohibited by law in certain countries.)
 
-* **During the event. **Upon arrival, inform learners about the space and anything they need to know that would make them feel more comfortable, such as the location of the emergency exits, the bathroom, etc. Learners should be informed that if at any point they feel frustrated, scared or blocked from completing their work they should approach an appropriate organizer. If they have any concerns about the club and its practices that cannot be addressed by an organizer, they should email [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org) directly.
+* **During the event.** Upon arrival, inform learners about the space and anything they need to know that would make them feel more comfortable, such as the location of the emergency exits, the bathroom, etc. Learners should be informed that if at any point they feel frustrated, scared or blocked from completing their work they should approach an appropriate organizer. If they have any concerns about the club and its practices that cannot be addressed by an organizer, they should email [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org) directly.
+* **After the event.** Share what happened at your event with onsite and remote participants through a blog post, community call, newsletter, or other open platform.
 
 * * *
 
 
-## III. Host Your First Sessions [Week 4]**
+## III. Host Your First Sessions [Week 4]
 
 ### III.A. Select your favorite teaching activities from Mozilla’s collection.  
 
-**Review Mozilla’s teaching activities **
+**Review Mozilla’s teaching activities**
 
 Within our [club curriculum](https://learning.mozilla.org/activities/) you will find activities developed by Mozilla and our communities to help guide you through your regular meetups.
 
