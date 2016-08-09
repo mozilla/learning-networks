@@ -10,11 +10,12 @@ We can’t wait to #teachtheweb with you!
 
 ## Overview of your first month at a glance:
 
-1. **Plan your Mozilla Club road map [Week 1]**
-2. **Prepare your team, your learners and your space [Week 2 - 3]**
-3. **Host your first sessions [Week 4]**
+I. **Plan your Mozilla Club road map [Week 1]**
+II. **Prepare your team, your learners and your space [Week 2 - 3]**
+III. **Host your first sessions [Week 4]**
 
-    
+* * *
+
 ## I. Plan your Mozilla Club road map [Week 1]
 
 ### I.A. Review the Mozilla Club Fact Sheet:
