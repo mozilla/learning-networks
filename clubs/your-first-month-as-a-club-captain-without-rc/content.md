@@ -8,7 +8,7 @@ If you have any questions please email [teachtheweb@mozillafoundation.org](mailt
 
 We can’t wait to #teachtheweb with you!
 
-## Your first month at a glance:
+## Overview of your first month at a glance:
 
 1. **Plan your Mozilla Club road map [Week 1]**
 2. **Prepare your team, your learners and your space [Week 2 - 3]**
@@ -17,7 +17,7 @@ We can’t wait to #teachtheweb with you!
     
 ## I. Plan your Mozilla Club road map [Week 1]
 
-### I.A. Review the Mozilla Club Fact Sheet.
+### I.A. Review the Mozilla Club Fact Sheet:
 
 **Mozilla Club meets regularly in-person to learn how to read, write and participate with the web in an inclusive and engaging way.**
 
@@ -61,7 +61,7 @@ We can’t wait to #teachtheweb with you!
 
 * [Community tips and recommendations on a Club Captain’s first month](http://discourse.webmaker.org/t/first-30-days-as-a-club-captain-guide/1538/3)
 
-I.B. Share Your Goals with peers
+### I.B. Share Your Goals with peers
 
 ### Setting Goals
 
