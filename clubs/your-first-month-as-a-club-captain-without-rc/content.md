@@ -73,7 +73,7 @@ Think about the types of learners you want to reach as well. What skills and exp
 
 Consider even some conversations with potential learners to help identify what your club’s goals can be.  
 
-**Sharing with Peers**
+### Sharing with Peers
 
 There are Mozilla Club Captains all over the world. Together, we are a community that learns with and for each other. We have additional advice and experiences we’re happy to share so that your club is more fulfilling, effective and fun.
 
@@ -88,8 +88,7 @@ Throughout your engagement with Mozilla Clubs, here’s how you can connect with
 * * *
 
 
-## II. Prepare Your Team, Your Learners and Your Space
-[Week 2 - 3]
+## II. Prepare Your Team, Your Learners and Your Space [Week 2 - 3]
 
 ### II.A. Name your club and find a team.
 
@@ -166,15 +165,15 @@ If you need any tips, [ask your fellow Club Captains](https://forum.learning.moz
 
 Here are some ways we recommend adapting our teaching activities to fit your needs:
 
-* Format. Clubs can come in the form of daily, weekly, bi-weekly, monthly or after school meetups. The time and place for your club meetings can vary, but the meetups should remain consistent so that the learning can be on-going and learners have time to grow and complete multiple activities.
+* **Format.** Clubs can come in the form of daily, weekly, bi-weekly, monthly or after school meetups. The time and place for your club meetings can vary, but the meetups should remain consistent so that the learning can be on-going and learners have time to grow and complete multiple activities.
 
-* Time. Time is the biggest variable when running a club activity. Though we’ve suggested time allocations per activity, be aware that depending on many factors this can often be too little or too much time. Age, web experience, number of mentors, internet connection and other factors can all impact how long each activity takes. Plan accordingly if you know you will need more time.
+* **Time.** Time is the biggest variable when running a club activity. Though we’ve suggested time allocations per activity, be aware that depending on many factors this can often be too little or too much time. Age, web experience, number of mentors, internet connection and other factors can all impact how long each activity takes. Plan accordingly if you know you will need more time.
 
-* Age. There is no perfect answer for what age your average attendees should be. The majority of the curriculum was designed with participants aged 14 - 24 in mind, but can be adapted to all levels. We’ve had many older age groups complete--and enjoy--these activities!
+* **Age.** There is no perfect answer for what age your average attendees should be. The majority of the curriculum was designed with participants aged 14 - 24 in mind, but can be adapted to all levels. We’ve had many older age groups complete--and enjoy--these activities!
 
-* Examples. Consider having an example project, activity or story on hand to help learners visualize what they are doing and better understand the task.
+* **Examples.** Consider having an example project, activity or story on hand to help learners visualize what they are doing and better understand the task.
 
-* Be flexible. Use your best judgment when following the activities; your unique situation will likely require you to adapt a little. For example, if learners are asked to complete four tasks but are running out of time, adjust the expectations so they only have to finish two tasks. Find moments throughout the event for the team to evaluate how they might adjust activities to better suit the learners and increase the activities’ success.
+* **Be flexible.** Use your best judgment when following the activities; your unique situation will likely require you to adapt a little. For example, if learners are asked to complete four tasks but are running out of time, adjust the expectations so they only have to finish two tasks. Find moments throughout the event for the team to evaluate how they might adjust activities to better suit the learners and increase the activities’ success.
 
 ### III.B. Practice teaching the activities with your team, and then teach it to your learners.
 
@@ -182,15 +181,15 @@ Here are some ways we recommend adapting our teaching activities to fit your nee
 
 **Gather your team and give yourselves the tools you need to be successful.**
 
-* Meet in-person. Discuss the selected teaching activities. Give an overview of the schedule. Identify what parts of the learning will need the most support. Each team member should know what is expected of them so they are poised to give their best effort.
+* **Meet in-person.** Discuss the selected teaching activities. Give an overview of the schedule. Identify what parts of the learning will need the most support. Each team member should know what is expected of them so they are poised to give their best effort.
 
 * **Explore the mission.** Your club will be dedicated to [teaching the web](https://wiki.mozilla.org/Learning/Networks). Explain why this matters to you and ask each of your team members to say why they are motivated to be involved.
 
-* Try the activities. Mentors should be aware of the activities being used and what they need to prepare ahead of time. Have the team go through the activities together, and discuss any questions. Know who has which skills and make sure everyone is comfortable with the material. You don’t have to know all the answers -- just be confident in helping your learners find out themselves!
+* **Try the activities.** Mentors should be aware of the activities being used and what they need to prepare ahead of time. Have the team go through the activities together, and discuss any questions. Know who has which skills and make sure everyone is comfortable with the material. You don’t have to know all the answers -- just be confident in helping your learners find out themselves!
 
-* Give each other feedback on being a facilitative leader. We encourage learning through making, using participatory methods to teach, using open practices and much more. This is an important step and part of the magic of being a club leader. Support your team members in being facilitative leaders and in giving each other constructive feedback on how to do that better.
+* **Give each other feedback on being a facilitative leader.** We encourage learning through making, using participatory methods to teach, using open practices and much more. This is an important step and part of the magic of being a club leader. Support your team members in being facilitative leaders and in giving each other constructive feedback on how to do that better.
 
-* Learners mentor each other. Successful clubs often invite learners to be peer mentors and teachers. Identify when and how you can include this practice in your upcoming session.
+* **Learners mentor each other.** Successful clubs often invite learners to be peer mentors and teachers. Identify when and how you can include this practice in your upcoming session.
 
 #### Teach your learners
 
@@ -214,7 +213,7 @@ This is why we encourage you to share your experiences after each session. Also 
 
 * **Local Media.** Reach out to local media outlets and tell them what you’re doing. You can tweet or email media outlets, as well as their local reporters who write about similar topics. Remember, you need a good hook. Make it relevant to your local club and environment, and tell them why what you’re doing matters in your community.
 
-* Join our discussion forum. Ask your team and learners to sign up on our discussion [forum,](https://forum.learning.mozilla.org/c/mozilla-clubs). Introduce yourselves and publish what you’re learning and making.
+* **Join our discussion forum.** Ask your team and learners to sign up on our discussion [forum,](https://forum.learning.mozilla.org/c/mozilla-clubs). Introduce yourselves and publish what you’re learning and making.
 
 ### Appendix. More Resources
 
