@@ -10,29 +10,12 @@ We can’t wait to #teachtheweb with you!
 
 ## Your first month at a glance:
 
-1. **Pledge to host your Mozilla Club [Week 1]**
-
-    * Review the [Mozilla Club fact sheet.](http://mozilla.github.io/learning-networks/clubs/facts)
-
-    * Share your goals with peers and discuss steps needed to achieve them.
-
+1. **Plan your Mozilla Club road map [Week 1]**
 2. **Prepare your team, your learners and your space [Week 2 - 3]**
-
-    * [Name your club](https://d157rqmxrxj6ey.cloudfront.net/mozillalearning/17695/) and find a team.
-
-    * Schedule your first three sessions and invite your learners.
-
-    * Ensure a safe, welcoming environment.
-
 3. **Host your first sessions [Week 4]**
 
-    * Select your favorite teaching activities from [Mozilla’s collection.](https://learning.mozilla.org/activities/)
-
-    * Practice teaching the activities with your team, and then teach it to your learners.
-
-    * After each session, [share your experience](https://forum.learning.mozilla.org/c/mozilla-clubs) with fellow Club Captains in our discussion forum.
     
-## Pledge to host your Mozilla Club [Week 1]
+## I. Plan your Mozilla Club road map [Week 1]
 
 ### I.A. Review the Mozilla Club Fact Sheet.
 
@@ -76,25 +59,9 @@ We can’t wait to #teachtheweb with you!
 
 #### Read more:
 
-* [Mozilla Club fact sheet](http://mozilla.github.io/learning-networks/clubs/)
-
 * [Community tips and recommendations on a Club Captain’s first month](http://discourse.webmaker.org/t/first-30-days-as-a-club-captain-guide/1538/3)
 
-### I.B. Complete your pledge.
-
-#### Interview process
-
-After you apply to be Club Captain, you will be asked a few questions about the work you are currently going. The goal of the questions is to learn more about your interests and how the Mozilla Club program can support you in realizing those goals. It’s also a chance to raise questions and get answers.
-
-#### Completing your pledge
-
-If the program is a good fit for your interests and local community, we will invite you to review and sign the Club Captain pledge at the end of this document.
-
-Please return a signed copy of the pledge to [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org). Once that is received,  your club will be displayed on teach.mozilla.org and you will officially be a Mozilla Club Captain!
-
-Don’t forget to register yourself on [Mozillians.org](https://mozillians.org/). You are now also apart of the Mozilla family.
-
-I.C. Share Your Goals with peers
+I.B. Share Your Goals with peers
 
 ### Setting Goals
 
@@ -269,22 +236,3 @@ Here are some guides to show how you can set up a Mozilla Club in different sett
 
 Is there a resource you want to see included here, or something you made that you’d like to share with others? Let us know by emailing [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
 
-# Mozilla Club Captain Pledge
-
-I understand that:
-
-A Mozilla Club is a unique and sustainable way to teach the Web. It focuses on regular, in-person meetings with learning tailored to the needs and opportunities of my local community. It harnesses the Web as a unique public resource to learn and grow.
-
-
-
-As a Mozilla Club Captain, I pledge to:
-
-* Teach others how to read, write and participate on the Web using inclusive and participatory methods in safe and welcoming spaces.
-
-* Empower learners through authentic making, reflective learning, and meaningful action with and on the Web.
-
-* Commit to the mission of universal web literacy.
-
-* Share my club’s experience with Mozilla Learning Networks through participation in regular calls and discussion forums.
-
-* Honor [Mozilla’s community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)[, ](https://www.mozilla.org/en-US/about/governance/policies/participation/)[style guidelines,](https://www.mozilla.org/en-US/styleguide/)[ and ](https://www.mozilla.org/en-US/styleguide/)[privacy policy](https://www.mozilla.org/en-US/privacy/websites/).
