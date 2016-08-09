@@ -8,7 +8,7 @@ If you have any questions please email [teachtheweb@mozillafoundation.org](mailt
 
 We can’t wait to #teachtheweb with you!
 
-### Overview of your first month at a glance:
+### Overview. In this guide you willlearn how to:
 
 I. **Plan your Mozilla Club road map [Week 1]**
 II. **Prepare your team, your learners and your space [Week 2 - 3]**
