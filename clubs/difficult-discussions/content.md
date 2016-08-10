@@ -22,4 +22,5 @@ In times of tragic events, the children, youth and families you serve, and your 
 * [How to Talk to Your Kids About Shootings and Terror](http://%20http//bit.ly/1OKYYR5) by Parent Toolkit
 * [Talking to Kids About News](http://www.pbs.org/parents/talkingwithkids/news/talking.html) by PBS Parents
 * [Teaching about Race and Criminal Justice](http://www.stonehill.edu/offices-services/ctl/teaching-resources/teaching-about-race-and-polici/) by Stonehill College
+* [Resiliency Building Skills to Practice for Trauma Recovery](http://www.new-synapse.com/aps/wordpress/?p=1825) by Heidi Hanson
 
