@@ -236,7 +236,5 @@ Here are some guides to show how you can set up a Mozilla Club in different sett
 
 * [Library](http://mozilla.github.io/learning-networks/clubs/hosting-mozilla-club-in-library/)
 
-* [Classroom](mozilla.github.io/learning-networks/clubs/incorporating-mozilla-in-school)
-
 Is there a resource you want to see included here, or something you made that you’d like to share with others? Let us know by emailing [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
 
