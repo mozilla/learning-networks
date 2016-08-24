@@ -260,10 +260,5 @@ Here are some guides to show how you can set up a Mozilla Club in different sett
 
 Is there a resource you want to see included here, or something you made that you’d like to share with others? Let us know by emailing [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
 
-# Mozilla Club Captain Pledge
-
-I understand that:
-
-A Mozilla Club is a unique and sustainable way to teach the Web. It focuses on regular, in-person meetings with learning tailored to the needs and opportunities of my local community. It harnesses the Web as a unique public resource to learn and grow.
 
 
