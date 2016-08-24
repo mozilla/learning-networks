@@ -36,7 +36,6 @@ We can’t wait to #teachtheweb with you!
 
     8. Practice teaching the activities with your team, and then teach it to your learners.
 
-1. **Pledge to Host Your Mozilla Club [Week 1]**
 
 ### I.A. Review the Mozilla Club Fact Sheet.
 
