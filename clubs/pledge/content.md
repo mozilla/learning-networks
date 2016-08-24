@@ -6,12 +6,8 @@ A Mozilla Club is a unique and sustainable way to teach the Web. It focuses on r
 
 As a Mozilla Club Captain, I pledge to:
 
-    * Teach others how to read, write and participate on the Web using inclusive and participatory methods in safe and welcoming spaces. 
-
-    * Empower learners through authentic making, reflective learning, and meaningful action with and on the Web. 
-
-    * Commit to the mission of universal web literacy. 
-
-    * Share my club’s experience with Mozilla Learning Networks through participation in regular calls and discussion forums. 
-
-    * Honor Mozilla’s [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), [style guidelines](https://www.mozilla.org/en-US/styleguide/), and [privacy policy](https://www.mozilla.org/en-US/privacy/websites/). 
+* Teach others how to read, write and participate on the Web using inclusive and participatory methods in safe and welcoming spaces. 
+* Empower learners through authentic making, reflective learning, and meaningful action with and on the Web. 
+* Commit to the mission of universal web literacy. 
+* Share my club’s experience with Mozilla Learning Networks through participation in regular calls and discussion forums. 
+* Honor Mozilla’s [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), [style guidelines](https://www.mozilla.org/en-US/styleguide/), and [privacy policy](https://www.mozilla.org/en-US/privacy/websites/). 
