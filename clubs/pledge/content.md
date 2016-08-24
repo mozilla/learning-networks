@@ -1,4 +1,4 @@
-##Mozilla Club Captain Pledge
+#Mozilla Club Captain Pledge
 
 I understand that:
 
