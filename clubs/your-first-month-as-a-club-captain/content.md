@@ -6,11 +6,7 @@ Thanks for your interest in being a Mozilla Club Captain and hosting a Mozilla C
 
 This is an incredible opportunity for you to empower your learners with important web skills by guiding them through seriously fun activities. You will also grow as you teach, improving your facilitation and web skills as you go.
 
-In this package you will find:
-
-* a guide for your first month as a Club Captain.
-
-* a pledge to sign and send back to your Regional Coordinator.
+In this package you will find a guide for your first month as a Club Captain.
 
 If you have any questions please contact your Regional Coordinator. If you still have issues email [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
 
@@ -86,19 +82,9 @@ We can’t wait to #teachtheweb with you!
 
 * [Mozilla Club fact sheet](http://mozilla.github.io/learning-networks/clubs/facts)
 
-### I.B. Do an interview with a Regional Coordinator to complete your pledge.
+### I.B. Enroll in [Mozilla CLubs Training](https://mozilla.teachable.com/courses/mozilla-club-training)
 
-### Interview process
-
-A Regional Coordinator is a volunteer dedicated to supporting Mozilla Club Captains. After you apply to be Club Captain, you will be interviewed by a Regional coordinator.
-
-They will contact you using the email address you provided. Together you’ll set up a time for an interview. The goal of the interview is to learn more about your interests and how the Mozilla Club program can support you in realizing those goals. It’s also a chance to raise questions and to meet a Regional Coordinator.
-
-### Completing your pledge
-
-At the end of the interview, if the program is a good fit for your interests and local community, a Regional Coordinator will be assigned to your club and invite you to review and sign the Club Captain pledge at the end of this document.
-
-Please return a signed copy of the pledge to the Regional Coordinator. Once that is received,  your club will be displayed on teach.mozilla.org and you will officially be a Mozilla Club Captain!
+This is a free training that will introduce you to Mozilla, The Mozilla Clubs program and other helpful tools and resources.
 
 Don’t forget to register yourself on [Mozillians.org](https://mozillians.org/). You are now also apart of the Mozilla family.
 
