@@ -62,7 +62,7 @@ You can also add an image file to the folder that contains your guide, and then 
 
 ## Updating resource links on the Learning site
 
-The links on the [Guides & Resources](https://learning.mozilla.org/clubs/guides) page on the Learning site are generated from the ``clubs-resoucres.json`` file found in this folder. When you make changes to this file, they will take effect immediately on the Learning site.
+The links on the [Guides & Resources](https://learning.mozilla.org/clubs/guides) page on the Learning site are generated from the ``clubs-resources.json`` file found in this folder. When you make changes to this file, they will take effect immediately on the Learning site.
 
 ####Tips for editing this file
 
