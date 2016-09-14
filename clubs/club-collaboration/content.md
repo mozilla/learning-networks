@@ -1,6 +1,6 @@
 #Best Practices for Cross-Club Collaboration
 
-This Mozilla Club guide was created by [Mozilla Clubs](https://learning.mozilla.org/en-US/clubs/)staff and Mozilla Club Captain Steven Van Sant ([Mozilla Club Omaha](https://www.facebook.com/mozillaOmaha/)) If you have an idea for a guide and/or would like to help author one of your own please [let us know](https://forum.learning.mozilla.org/t/suggestions-for-new-clubs-guides/970/1). 
+This Mozilla Club guide was created by [Mozilla Clubs](https://learning.mozilla.org/en-US/clubs/) staff and Mozilla Club Captain Steven Van Sant ([Mozilla Club Omaha](https://www.facebook.com/mozillaOmaha/)) If you have an idea for a guide and/or would like to help author one of your own please [let us know](https://forum.learning.mozilla.org/t/suggestions-for-new-clubs-guides/970/1). 
 
 ##Welcome
 
