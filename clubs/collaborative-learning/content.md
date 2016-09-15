@@ -88,6 +88,7 @@ During the circle activity:
 * Each dream is written on the flipchart with the dreamer’s name.
 
 The dream circle ends when the talking stick has been passed around the entire group and no-one has contributed a new dream. Then, one of the group members with a taste for drama or performing reads out loud all the dreams in the past tense, in a tone of accomplishment (hey, this is meant to be fun), using “we” instead of the dreamers’ names. For example, if the dreams were...
+
 * “Hélène: include more girls and women
 * André: play with robotics
 * Luigui: expand to other cities
@@ -146,7 +147,7 @@ This is Rio Mozilla Club’s statement:
 
 >“We want to engage and extend our team to make the Mozilla Clubs stronger, improving our efficiency and abilities to teach new digital skills in a fun and inclusive way”.
 
-##Step 3 - The gameboard
+##Step 3 - Gameboard
 
 _Who?_ The people who did the dream circle and goal (if there are newcomers, first read out the dreams for them and include their dreams too).
 _When?_ After defining the goal, possibly on the same day or within two weeks.
@@ -186,7 +187,7 @@ Ask people to take note of the tasks they have volunteered for and their role, a
 
 Succession planning: everyone should feel free to leave the club when they want or need to. At the same time, this should be done in a responsible way, that takes care of the club and the people who keep it alive. This means finding replacement as soon as possible for the tasks one is committed with, with enough time for apprenticeship.
 
-##Step 5 - sustainability tests
+##Step 5 - Sustainability
 
 Before crossing the threshold between planning and doing, you need to know if your team is committed and resilient enough to face the challenges and demands that will arise in the doing stage. This means having at least four people profoundly committed to the club as their own, and no single person essential for the club to exist and be active.
 
@@ -202,7 +203,7 @@ Empty center:  It is crucial for the sustainability of the project that no membe
 
 If you identify some key members that the club is depending on, invite them to train someone to replace them while their energy is still high, with enough time of apprenticeship ahead that the history of the club is kept alive when the key members depart, even temporarily.
 
-##Optional step - Budget drumming
+##Optional budget drumming
 
 If your club needs budgeting, the dragon dreaming method can work for this topic as well. The idea is to make it fun, quick and intuitive. Through the magic of collective intelligence,  budget drumming has been known to reach the same level of accuracy as longer, detailed and math-based budgeting methods.
 
@@ -253,7 +254,7 @@ The interviewer says what quarters they understand that their interviewee’s te
 
 In addition to the visualization of the project’s progress, this activity aims to provide collective support to members who might need it, as well as remembering everyone that dreaming and celebrating are equally important as planning and doing.
 
-##Optional step: force field analysis
+##Optional force field analysis
 
 _Who?_ As many club members as possible.
 _When?_ Any time you need clarity about the club’s assets and challenges, especially if your club is stuck in or going through a challenging moment.
