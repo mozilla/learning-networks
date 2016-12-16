@@ -1,4 +1,4 @@
-#Developing an Online Learning Platform for Women and Girls - 2016 Case Study
+#Case Study: Developing an Online Learning Platform for Women and Girls
 
 *This report is a collaboration of data and findings by Mozilla and the team at Every1Mobile who were leaders behind the development, curation and analysis of the online platform.*
 
