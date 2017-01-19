@@ -30,12 +30,14 @@ Here are a few of the teaching kits available. For a full list and access, pleas
 
 * **Web Literacy Basics I & II** - Help learners become familiar with reading, writing and participating on the web by discovering the foundations of the web through production and collaboration.
 * **Privacy Basics: Passwords, Tracking, and Data Retention** - Learn how to safeguard your privacy online and develop an awareness of how companies and governments track and collect your data online.
-* **Lo-Fi, No-Fi** - This series of activities help teach web literacy concepts offline, or where access to technology is limited. Includes printable templates and games to teach coding, game design and app development.
+* **Offline Icebreakers** - This series of activities help teach web literacy concepts offline, or where access to technology is limited. Includes printable templates and games to teach coding, game design and app development.
+* **Make Your First WebPage** - Build and style a webpage with common HTML tags and CSS selectors, learning skills like coding, composing, designing, and sharing online.
 
 **Intermediate**
 
 * **Minecraft A Flavor of Java** - Learners develop computational thinking skills by using Java to create their own Minecraft mod.
 * **Girls In Tech: Hacking My Media** - Create a remix of a Wikimedia page and think critically about the intersection of gender, culture, technology and identity.
+* **Intermediate Web Literacy I & II** - Build on Web Literacy Basics I & II skills through activities that explain how to style HTML elements on a webpage using CSS selectors, attributes, and values as well as using buttons, forms, and inputs alongside JavaScript functions to tell stories on the web.
 
 ![Teaching Activities Page](http://i.imgur.com/QAZbKmJ.png)
 
