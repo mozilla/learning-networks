@@ -8,7 +8,7 @@ Mozilla also created Thimble, an online, educational code editor and remixing to
 
 As you scroll through this kit, we provide more details about these **free and easy-to-use resources for your immediate use to teach the web**. 
 
-If you have any ideas or questions about these resources, please email us anytime at [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org), tweet us [@MozTeach](https://twitter.com/mozteach), or post on our [community forum](https://discourse.webmaker.org/). 
+If you have any ideas or questions about these resources, please email us anytime at [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org), tweet us [@MozLearn](https://twitter.com/mozlearn), or post on our [community forum](https://forum.learning.mozilla.org). 
 
 ##Web Literacy Map Overview
 
@@ -16,15 +16,15 @@ If you have any ideas or questions about these resources, please email us anytim
 
 The interactive framework consists of the skills and competencies needed to be web literate, while also building 21st Century skills in communication, creativity, problem-solving and collaboration. **Read** is about how we explore and evaluate web content. **Write** outlines the skills needed to build and contribute to the Web. **Participate** refers to how we connect with others online. Each skill links to related activities and curriculum and will eventually be linked to credentials that individuals can earn for mastering these skills. 
 
-We encourage you to sharpen your own skills and become a mentor in the community. Use the Web Literacy Map to plan learning activities for others. Reflect on this work in your own online spaces by blogging about it. Include the #teachtheweb and/or #webliteracy hashtags in your posts across social media to contribute to the dialogue. And join the Mozilla Learning [community calls](https://teach.mozilla.org/community/community-call) each month to engage and participate in practical discussions about web literacy.
+We encourage you to sharpen your own skills and become a mentor in the community. Use the Web Literacy Map to plan learning activities for others. Reflect on this work in your own online spaces by blogging about it. Include the #teachtheweb and/or #webliteracy hashtags in your posts across social media to contribute to the dialogue. And join the [Mozilla Curriculum Workshops](https://learning.mozilla.org/community/curriculum-workshop) to engage and participate in practical discussions about web literacy.
 
-Explore the Web Literacy Map at [https://teach.mozilla.org/web-literacy](https://teach.mozilla.org/web-literacy) 
+Explore the Web Literacy Map at [https://learning.mozilla.org/web-literacy](https://learning.mozilla.org/web-literacy) 
 
 ##Curriculum Overview
 
 Start teaching others how to read, write and participate on the web with **free activities created by teachers, educators and technologists like you**. Each teaching activity is fully scalable and remixable to meet your needs, and the needs of your participants. Many of the activities can be adapted offline, and also include activity guides, handouts, and other resources, as appropriate.
 
-Here are a few of the teaching kits available. For a full list and access, please visit: [https://teach.mozilla.org/activities](https://teach.mozilla.org/activities/).
+Here are a few of the teaching kits available. For a full list and access, please visit: [https://learning.mozilla.org/activities](https://learning.mozilla.org/activities/).
 
 **Beginner**
 
@@ -47,7 +47,7 @@ Here are some great examples of how these teaching kits are being used across th
 * Active community member [Greg McVerry](https://twitter.com/jgmac1106) uses Thimble in his **University classroom** for his [student’s final projects](http://edu106.networkedlearningcollaborative.com/pages/fall15-portfolios).
 * [This article](http://www.cilip.org.uk/blog/digital-literacy-maker-librarians-mozilla-learning-network) outlines how [**one librarian from the UK**](https://twitter.com/DorineFlies), when speaking about the fundamental clash between youth and adults on the web... 
     “...shared her [Mozilla teaching kit](https://d157rqmxrxj6ey.cloudfront.net/mrskapp/9795/) [which she remixed herself!] and talked about how as a “maker librarian you are committing to providing an open space where students are free to make choices about their learning”. This was her take on “Embracing the 21st century chaos” that technology brought to her school's front door.”
-* **In the U.S.A.**, the [National Writing Project](http://letters2president.org/resource/letters-to-the-next-president-2-0-letter-remix/) is featuring a [Letters to the Next President Thimble template](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/24389/) to use in a national campaign for youth to write a letter to the next President.
+* **In the U.S.A.**, the [National Writing Project](http://letters2president.org/resource/letters-to-the-next-president-2-0-letter-remix/) is featured a [Letters to the Next President Thimble template](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/24389/) to use in a national campaign for youth to write a letter to the next President.
 
 ##Thimble Overview 
 
@@ -71,8 +71,8 @@ Thimble is a powerful curriculum aid: educators can build and share projects and
 
 The #teachtheweb resources introduced in this kit are open to all. Please help us spread the word for others to learn, and remix. Here are a few social media posts and images that you can copy, paste, and share.
 
-* Start teaching others how to read, write & participate on the web w/these free activities from @MozTeach [http://mzl.la/activities](http://mzl.la/activities) #teachtheweb
-* Teach others digital literacy skills through hands-on making. Try a @mozteach activity today: [https://teach.mozilla.org/](https://teach.mozilla.org/) #teachtheweb
+* Start teaching others how to read, write & participate on the web w/these free activities from @MozLearn [http://mzl.la/activities](http://mzl.la/activities) #teachtheweb
+* Teach others digital literacy skills through hands-on making. Try a @MozLearn activity today: [https://learning.mozilla.org/](https://learning.mozilla.org/) #teachtheweb
 * Discover these free lo-fi & no-fi #teachtheweb activities to create, remix & share: [http://mzl.la/activities](http://mzl.la/activities)
 * Free teaching kits. Dozens of activities. #teachtheweb today: [http://mzl.la/activities](http://mzl.la/activities)
 * Teachers, bring coding into your classroom. Mozilla #Thimble makes teaching code easy: [http://mzl.la/1ZgskPE](http://mzl.la/1ZgskPE)  
