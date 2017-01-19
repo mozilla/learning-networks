@@ -42,7 +42,7 @@ Here are a few of the teaching kits available. For a full list and access, pleas
 Here are some great examples of how these teaching kits are being used across the globe: 
 
 * Learn how a **Mozilla Club in Switzerland** used [Kraken the Code](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html) in their kick-off event [here](https://learningfreewheel.wordpress.com/2016/01/25/mozilla-club-lift-off/). And here’s a bit about what they did remixing with Thimble:
-    Using [Thimble](https://thimble.mozilla.org/) we remixed a meme to explain our understanding. In [X-ray Goggles](https://webmaker.org/en-US/goggles) we explored remixing further by redesigning the [Science Museum, London](http://www.sciencemuseum.org.uk/) website to be all about the Kraken. This idea evolved from one of the many inspirations from Mozfest, London and a collaboration with Tate Gallery.
+    Using [Thimble](https://thimble.mozilla.org/) we remixed a meme to explain our understanding. In [X-ray Goggles](https://goggles.mozilla.org) we explored remixing further by redesigning the [Science Museum, London](http://www.sciencemuseum.org.uk/) website to be all about the Kraken. This idea evolved from one of the many inspirations from Mozfest, London and a collaboration with Tate Gallery.
 * A variety of Mozilla free resources were used for a **Maker Party in India**. [Read the details and view photos here](https://rowdymehul.wordpress.com/2015/08/05/maker-party-mega-nashik/).
 * Active community member [Greg McVerry](https://twitter.com/jgmac1106) uses Thimble in his **University classroom** for his [student’s final projects](http://edu106.networkedlearningcollaborative.com/pages/fall15-portfolios).
 * [This article](http://www.cilip.org.uk/blog/digital-literacy-maker-librarians-mozilla-learning-network) outlines how [**one librarian from the UK**](https://twitter.com/DorineFlies), when speaking about the fundamental clash between youth and adults on the web... 
@@ -53,7 +53,7 @@ Here are some great examples of how these teaching kits are being used across th
 
 ![Thimble](http://i.imgur.com/URkKz63.jpg)
 
-Mozilla also offers free tools to help you teach the web! Thimble is our fun, educational code editor and remixing tool for teaching HTML, CSS and other web skills. You can [start a project from scratch](https://thimble.mozilla.org/anonymous/992a2059-a1e4-43e1-83f6-33323d0ab6a6) or [remix a featured activity](https://thimble.mozilla.org/en-US/). Features include:
+Mozilla also offers free tools to help you teach the web! Thimble is our fun, educational code editor and remixing tool for teaching HTML, CSS and other web skills. You can [start a project from scratch](https://thimble.mozilla.org) or [remix a featured activity](https://thimble.mozilla.org). Features include:
 
 * Multiple panes to see and remix the code while also previewing the finished pages
 * Step-by-step tutorials, auto-closing tags, autocomplete, and autosave
@@ -72,8 +72,8 @@ Thimble is a powerful curriculum aid: educators can build and share projects and
 The #teachtheweb resources introduced in this kit are open to all. Please help us spread the word for others to learn, and remix. Here are a few social media posts and images that you can copy, paste, and share.
 
 * Start teaching others how to read, write & participate on the web w/these free activities from @MozLearn [http://mzl.la/activities](http://mzl.la/activities) #teachtheweb
-* Teach others digital literacy skills through hands-on making. Try a @MozLearn activity today: [https://learning.mozilla.org/](https://learning.mozilla.org/) #teachtheweb
-* Discover these free lo-fi & no-fi #teachtheweb activities to create, remix & share: [http://mzl.la/activities](http://mzl.la/activities)
+* Teach others digital literacy skills through hands-on making. Try a @MozLearn activity today: [http://mzl.la/activities](http://mzl.la/activities) #teachtheweb
+* Discover these free lo-fi & no-fi #teachtheweb activities to create, remix & share: [https://mzl.la/lofinofi](https://mzl.la/lofinofi)
 * Free teaching kits. Dozens of activities. #teachtheweb today: [http://mzl.la/activities](http://mzl.la/activities)
 * Teachers, bring coding into your classroom. Mozilla #Thimble makes teaching code easy: [http://mzl.la/1ZgskPE](http://mzl.la/1ZgskPE)  
 * Did you know that Mozilla offers free, open source teaching kits? Each featured activity includes step-by-step instructions and has been tested in schools, afterschool programs, libraries and community centers around the globe. Give them a try: [http://mzl.la/activities](http://mzl.la/activities)
