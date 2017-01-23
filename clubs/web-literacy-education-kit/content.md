@@ -71,12 +71,12 @@ Thimble is a powerful curriculum aid: educators can build and share projects and
 
 ##X-Ray Goggles Overview 
 
+![XRay Goggles](http://i.imgur.com/g6VXIpf.png)
+
 X-Ray Goggles makes it easy to see and remix the code behind your favorite web pages.
 The best part: you don't need any prior coding experience! Just activate Goggles, click on a section, and edit. Then, share your remixes with others. 
 
 Get started with this full, easy-to-follow tutorial and fun sample activity [here](https://goggles.mozilla.org).
-
-![XRay Goggles](http://i.imgur.com/g6VXIpf.png)
 
 Dive deeper with these activities:
 
@@ -93,7 +93,9 @@ The #teachtheweb resources introduced in this kit are open to all. Please help u
 * Free teaching kits. Dozens of activities. #teachtheweb today: [http://mzl.la/activities](http://mzl.la/activities)
 * Teachers, bring coding into your classroom. Mozilla #Thimble makes teaching code easy: [http://mzl.la/1ZgskPE](http://mzl.la/1ZgskPE)  
 * Did you know that Mozilla offers free, open source teaching kits? Each featured activity includes step-by-step instructions and has been tested in schools, afterschool programs, libraries and community centers around the globe. Give them a try: [http://mzl.la/activities](http://mzl.la/activities)
+* Tried @Mozilla's X-Ray Goggles? It's a code inspector that lets you view, remix the code of your favorite web pages! http://mzl.la/1o6bMtb
 
 ![Teaching Activities](http://i.imgur.com/KE3S4dn.png)
 ![Thimble](http://i.imgur.com/kAQpNO6.png)
 ![Thimble](http://i.imgur.com/xpRofX9.png)
+![XRay Goggles](http://i.imgur.com/wTH7h4u.png)
