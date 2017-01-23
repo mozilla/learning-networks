@@ -4,7 +4,7 @@ You may not know it, but Mozilla, whose mission is to maintain the Internet as a
 
 If you're looking for fun, hands-on activities (optimized for ages 13 and up but easily adaptable for the younger set too) with step-by-step tutorials, you will love our resources! The curriculum is tested among educators and volunteers around the world, and can be remixed to suit a variety of  learning environments. You can try some standalone activities in your classroom or afterschool program, or follow a complete module comprised of a scaffolded set of activities. 
 
-Mozilla also created Thimble, an online, educational code editor and remixing tool for teaching HTML, CSS and other web skills.
+Mozilla also created Thimble, an online, educational code editor and remixing tool for teaching HTML, CSS and other web skills and X-Ray Goggles, a code viewer that allows you to remix HTML and CSS on many web pages.
 
 As you scroll through this kit, we provide more details about these **free and easy-to-use resources for your immediate use to teach the web**. 
 
@@ -68,6 +68,20 @@ Thimble is a powerful curriculum aid: educators can build and share projects and
 
 * [Here is a great example](https://d157rqmxrxj6ey.cloudfront.net/sa501428/24680/) of a website built inside Thimble by a **middle school student in Houston, Texas**.
 * [This roundup](https://blog.webmaker.org/our-creative-community-thimble-remixes) includes several **fun and educational Thimble remixes from community members around the globe**. 
+
+##X-Ray Goggles Overview 
+
+X-Ray Goggles makes it easy to see and remix the code behind your favorite web pages.
+The best part: you don't need any prior coding experience! Just activate Goggles, click on a section, and edit. Then, share your remixes with others. 
+
+Get started with this full, easy-to-follow tutorial and fun sample activity [here](https://goggles.mozilla.org).
+
+![XRay Goggles](http://i.imgur.com/g6VXIpf.png)
+
+Dive deeper with these activities:
+
+* [Hack the News](https://mozilla.github.io/mozilla-club-activity-hack-the-news/#en) - Use X-Ray Goggles to remix a news website, learning about openly-licensed resources, different forms of media, and how to create something new on the web through remixing.
+* [Hacking my Media](https://thimbleprojects.org/stephguthrie/48361) - Think critically about your identity and the media you enjoy. Use these reflections to create your first webpage by hacking and tinkering with an existing webpage.
 
 ##Sample Social Media & Graphics
 
