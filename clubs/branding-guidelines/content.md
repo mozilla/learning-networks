@@ -1,4 +1,4 @@
-![Imgur](http://i.imgur.com/LWGqCAS.png?1)
+![Imgur](http://imgur.com/a/tiYYR)
 
 # Branding Guidelines
 
@@ -21,7 +21,16 @@ NOT OKAY
 
 ## Club Logo
 
-(3) **Logo**. We welcome you to [use this template to create a logo](https://sabby.makes.org/thimble/NzYxNzkwOTc2/mozilla-clubs-wordmark) for your club that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/), and these guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
+(3) **Logo**. We welcome you to [use this template to create a logo](https://thimbleprojects.org/carotejada/272301/) for your club that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/)and our [brand principles](https://mozilla.ninja/brand-principles/). These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
+
+### Thypography
+Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://www.fontsquirrel.com/fonts/fira-sans).
+
+### Color palette
+Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette [here](https://mozilla.ninja/color-palette/).
+
+### Some images
+Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
 
 ## Club Website
 
