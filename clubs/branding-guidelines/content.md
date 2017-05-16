@@ -1,4 +1,4 @@
-![Imgur](http://imgur.com/a/tiYYR)
+[Imgur](http://i.imgur.com/IO73B1J.png)
 
 # Branding Guidelines
 
