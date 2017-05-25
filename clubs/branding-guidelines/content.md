@@ -21,7 +21,7 @@ NOT OKAY
 
 ## Club Logo
 
-(3) **Logo**. We welcome you to [use this template to create a logo](https://thimbleprojects.org/carotejada/272301/) for your club that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/)and our [brand principles](https://mozilla.ninja/brand-principles/). These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
+(3) **Logo**. We welcome you to [use this template to create a logo](https://thimbleprojects.org/carotejada/272301/) or use [this file](https://github.com/mozilla/mozillaclubs/blob/master/designresources/clubs-logo.svg) for your club that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/)and our [brand principles](https://mozilla.ninja/brand-principles/). These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
 
 ### Thypography
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files). 
