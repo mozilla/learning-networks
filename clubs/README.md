@@ -6,7 +6,7 @@ This folder contains Mozilla Clubs guides & resources.
 
 **Note** - Drag & drop does not work in Firefox! Please use Chrome.
 
-1. Download the [Template Folder zip file](https://dl.dropboxusercontent.com/u/109902/blank-template.zip)
+1. Download the [Template Folder zip file](https://drive.google.com/open?id=0B_CPRh4f3yyqaU1aMGRGVGRtZGM)
 2. Unzip it
 3. Edit the ``content.md`` file only
   * Try the [Brackets Editor](http://brackets.io/) - it's cool!
