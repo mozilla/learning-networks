@@ -19,7 +19,7 @@ Your use of “Mozilla Club” to refer to your Club must always be in combinati
 
 We welcome you to use this template to create a logo or use this file that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
 
- <iframe src="https://thimbleprojects.org/carotejada/272301/"></iframe> 
+![Thimble](https://thimbleprojects.org/carotejada/272301/)
 
 ###This is another sub heading
 
