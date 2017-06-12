@@ -1,14 +1,18 @@
-#This is the title of this article
+#Communications Guidelines and Templates 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis. In hac habitasse platea dictumst. Etiam sit amet lacus metus. Praesent sit amet velit nisl. Quisque mattis, ex non consequat scelerisque, lacus mauris pharetra nunc, nec consequat magna felis eu elit. Integer a consequat leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+"First comes aesthetics, then logic". That's what writer Daniel Tammet afirms, and that is the reason behind this tool. Here you'll find resources to shape your Club's image and make it appealing!
 
-* This is a bullet in an un-ordered list
-* This is a bullet in an un-ordered list
-* This is a bullet in an un-ordered list
 
-##This is a heading
+## NAME YOUR CLUB
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis. In hac habitasse platea dictumst. Etiam sit amet lacus metus. Praesent sit amet velit nisl. Quisque mattis, ex non consequat scelerisque, lacus mauris pharetra nunc, nec consequat magna felis eu elit. Integer a consequat leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+You may, but are not required to, use the name “Mozilla Clubs” in your club’s name. Further identify your club by your location, region, group or interests. 
+ 
+Your use of “Mozilla Club” to refer to your Club must always be in combination with the location, region, group, or interest you are using to identify your club. (For clarity, you may nonetheless state that your club is “a Mozilla Club,” without the additional identifiers).
+
+**Examples with Mozilla Clubs:** Mozilla Club Rio, Mozilla Club Jahangirnagar University, Cikarang Mozilla Club, Mozilla Club for the Chicago Librarians.
+ 
+**Examples without Mozilla Clubs:** Ikaros, Coders Paradise, Community Tech Club, Indigenous Code, Active Minds.
+
 
 ###This is sub-heading
 
