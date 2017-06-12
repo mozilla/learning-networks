@@ -1,5 +1,3 @@
-![Imgur](http://i.imgur.com/IO73B1J.png)
-
 # Branding Guidelines
 
 Mozilla grants you a limited license to use the Mozilla Clubs branding in accordance with the following policy. You agree at all times to maintain the spirit of these guidelines within the particular laws of your jurisdiction.
@@ -20,6 +18,8 @@ NOT OKAY
 - Welcome to the Mozilla Rio Club.
 
 ## Club Logo
+
+![Imgur](http://i.imgur.com/IO73B1J.png)
 
 (3) **Logo**. We welcome you to [use this template to create a logo](https://thimbleprojects.org/carotejada/272301/) or use [this file](https://github.com/mozilla/mozillaclubs/blob/master/designresources/clubs-logo.svg) that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/)and our [brand principles](https://mozilla.ninja/brand-principles/). These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
 
