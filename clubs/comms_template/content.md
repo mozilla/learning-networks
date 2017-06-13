@@ -34,3 +34,13 @@ Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
 
 ![Imgur](http://i.imgur.com/w8HJCH8.gif)
 
+## 3. Create your Club's website
+
+Domain names. You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an application for a license to use a domain name related to a Mozilla trademark.
+ 
+The front page of your website (above the fold) must inform users that “[CLUB NAME] is part of the network of Mozilla Clubs inspired by the Mozilla Learning Network.” At the top of the site’s main page, it should be stated clearly and explicitly that this is a community site, maintained by a group of volunteers.
+
+### Some examples
+
+<iframe width="760" height="345" src="<iframe width="760" height="345" src="https://thimbleprojects.org/carotejada/272301/"></iframe>/"></iframe>
+
