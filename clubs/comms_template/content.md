@@ -18,10 +18,10 @@ Your use of “Mozilla Club” to refer to your Club must always be in combinati
 
 We welcome you to use this template to create a logo or use this file that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
 
-<iframe width="760" height="345" src="https://thimble.mozilla.org/en-US/anonymous/517024c0-7914-4c31-b317-d372ac64c3c8/272301"></iframe>
+<iframe width="760" height="345" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
 
 ### Thypography
-![Imgur](http://i.imgur.com/mPlwXCc.jpg)
+![Imgur](http://i.imgur.com/rytjRy0.png)
 
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files).
 
