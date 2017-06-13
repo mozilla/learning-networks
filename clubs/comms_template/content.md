@@ -2,9 +2,9 @@
 
 ![Imgur](http://i.imgur.com/FNknSE7.png)
 
-Here you'll find hands-on tools and resources to make your Mozilla Club even more appealing!
+Here you'll find hands-on tools and step by step instructions to make your Mozilla Club even more appealing!
 
-## 1. Name your club
+## Step 1. Name your club
 
 You may, but are not required to, use the name “Mozilla Clubs” in your club’s name. Your use of “Mozilla Club” to refer to your Club must always be in combination with the location, region, group, or interest you are using to identify your club. (For clarity, you may nonetheless state that your club is “a Mozilla Club,” without the additional identifiers).
 
@@ -22,7 +22,7 @@ You may, but are not required to, use the name “Mozilla Clubs” in your club�
 - Welcome to the Mozilla Rio Club.
 
 
-## 2. What about a Logo?
+## Step 2. What about a Logo?
 
 We welcome you to use this template to create a logo or use this file that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
 
@@ -39,7 +39,7 @@ Zilla is our core brand identity display typeface. We use it for our wordmark, f
 
 >Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
 
-## 3. Create your Club's website
+## Step 3. Create your Club's website
 
 **Domain names.** You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an [application for a license to use a domain name related to a Mozilla trademark](http://static.mozilla.com/foundation/documents/domain-name-license.pdf).
  
@@ -57,7 +57,7 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 ![Imgur](http://i.imgur.com/KXiWv5S.png)
 
 
-## 4. Share your Club activity
+## Step 4. Share your Club activity
 
 We know a lot of time is put into organizing, planning and running a Club session. Which is why we want to make sure that once your event is completed it is documented and sharable so we can celebrate your success with you!
 
@@ -66,8 +66,10 @@ There are many different ways to give the community a deeper look at your event,
 ### [Event Reporter](http://mozilla.github.io/clubs-events/)
 ### [Medium](https://medium.com/read-write-participate)
 
+## Setp 5. Keep in touch with the community
+XXXXXXX
 
-## 5. TERMS OF USE
+## TERMS OF USE
 
 ### Use of club name in legal registrations, entities, and fundraising
 
