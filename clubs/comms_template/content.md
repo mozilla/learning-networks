@@ -14,6 +14,15 @@ Your use of “Mozilla Club” to refer to your Club must always be in combinati
  
 **Examples of names WOTHOUT Mozilla Clubs:** Ikaros, Coders Paradise, Community Tech Club, Indigenous Code, Active Minds.
 
+OKAY
+- Join our Mozilla Club Rio! We are a Mozilla Club in the city of Rio de Janeiro, Brazil.
+- This is the website for the Mozilla Club for the Chicago Librarians.
+ 
+NOT OKAY
+- Join Mozilla Clubs!
+- This is the website for Mozilla Rio.
+- Welcome to the Mozilla Rio Club.
+
 
 ## 2. What about a Logo?
 
@@ -30,8 +39,7 @@ Mozilla’s main brand colors are black and white. This illustrates our gutsy pe
 
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files).
 
-### Some images
-Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
+>Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
 
 ## 3. Create your Club's website
 
@@ -61,4 +69,34 @@ There are many different ways to give the community a deeper look at your event,
 ### [Medium](https://medium.com/read-write-participate)
 
 
+## 5. TERMS OF USE
+
+### Use of club name in legal registrations, entities, and fundraising
+
+**Registration.** To the extent your club name or logo incorporates any Mozilla marks, you may not register them as trademarks, service marks, certification marks or other designation, or claim any trademark-related rights therein under the laws of any jurisdiction.
+ 
+**Legal entity.** If you are establishing a new legal entity in connection with your club, you may not use the Mozilla or Mozilla Clubs name or branding in any way in your entity’s legal name or to identify your entity. For example, you will not register any corporate name or trade name that violates Mozilla’s rights in the marks.
+ 
+**Fundraising.** You may not make any donation requests for your club in Mozilla’s name. If you engage in fundraising activities or solicitations for in-kind support, you must be clear that those requests are not endorsed by Mozilla, that you are not officially affiliated with Mozilla and that any donations will not be received by Mozilla.
+
+### Club focus; change in purpose or termination
+
+Mission and Termination of club. Your club must align with the goals and structure of Mozilla Clubs and the Mozilla Clubs Network. If at any time you should change the focus of your club, or stop running your club altogether, you must also stop any and all uses of the Mozilla brand related to Mozilla Clubs, including Mozilla and Mozilla Clubs marks in your logo; your domain name, which you may not use for other purposes; and any materials on your website or elsewhere that suggest an association with Mozilla Clubs, except as may be otherwise permitted in the Mozilla Trademark Policy. You are, however, permitted to retain Mozilla branding that is compliant with these guidelines on any archived materials from your club that you may wish to maintain, including the domain name if you continue to host an archived site.
+ 
+Other than as permitted here, you may not
+ 
+* Alter our trademarks and logos in any way.
+* Combine our trademarks and logos with your own or any other logos, trademarks, or designs.
+* Place a logo in such close proximity to other content that it is indistinguishable.
+* Make our logo the most distinctive or prominent feature on your web page, printed material, or other content.
+* Use our trademarks and logos in a way that is harmful, deceptive, obscene, or otherwise objectionable to the average person.
+* Use our trademarks and logos on websites or other places containing content associated with hate speech, pornography, gambling, or illegal activities.
+* Use our trademarks and logos to, or in connection with, content that disparages us or sullies our reputation.
+ 
+Mozilla reserves the right to rescind a Club’s permission to call itself a Mozilla Club at any time at its discretion
+ 
+ 
+ 
+ 
+ 
 
