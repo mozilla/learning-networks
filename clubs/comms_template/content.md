@@ -1,6 +1,8 @@
 # Communications Guidelines and Templates 
 
->*"First comes aesthetics, then logic".* That's what writer Daniel Tammet afirms, and that is the reason behind this tool. Here you'll find resources to shape your Club's image and make it appealing! Hands-on tools to get you started with your Club's communications. 
+>*"First comes aesthetics, then logic".* That's what writer Daniel Tammet afirms, and that is the reason behind this guide. 
+
+>Here you'll find hands-on tools and resources to make your Mozilla Club even more appealing!
 
 ## 1. Name your club
 
@@ -45,8 +47,8 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 [México Mozilla Clubs](http://www.mexicomozillaclub.com/)
 ![Imgur](http://i.imgur.com/ZiTFuuA.png)
 
-[Mozilla Club of HackathonGirls, Banjul](https://hackathongirlsmozilla.wordpress.com/)
-![Imgur](http://i.imgur.com/eQpLpLD.png)
+[Mozilla Cagliari Club, Italia](http://mozillacagliariclub.edovio.com/)
+![Imgur](http://i.imgur.com/KXiWv5S.png)
 
 
 
