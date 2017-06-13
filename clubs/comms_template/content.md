@@ -34,9 +34,9 @@ Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
 
 ## 3. Create your Club's website
 
-Domain names. You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an application for a license to use a domain name related to a Mozilla trademark.
+**Domain names.** You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an [application for a license to use a domain name related to a Mozilla trademark](http://static.mozilla.com/foundation/documents/domain-name-license.pdf).
  
-The front page of your website (above the fold) must inform users that “[CLUB NAME] is part of the network of Mozilla Clubs inspired by the Mozilla Learning Network.” At the top of the site’s main page, it should be stated clearly and explicitly that this is a community site, maintained by a group of volunteers.
+The front page of your website (above the fold) must inform users that “[CLUB NAME] is part of the network of Mozilla Clubs inspired by the [Mozilla Learning Network](https://learning.mozilla.org/en-US/).” At the top of the site’s main page, it should be stated clearly and explicitly that this is a community site, maintained by a group of volunteers.
 
 ### Some examples
 
