@@ -1,7 +1,6 @@
 # Communications Guidelines and Templates 
 
-*"First comes aesthetics, then logic".* That's what writer Daniel Tammet afirms, and that is the reason behind this tool. Here you'll find resources to shape your Club's image and make it appealing!
-
+>*"First comes aesthetics, then logic".* That's what writer Daniel Tammet afirms, and that is the reason behind this tool. Here you'll find resources to shape your Club's image and make it appealing! Hands-on tools to get you started with your Club's communications. 
 
 ## 1. Name your club
 
