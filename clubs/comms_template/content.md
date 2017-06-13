@@ -20,19 +20,17 @@ We welcome you to use this template to create a logo or use this file that incor
 
 <iframe width="760" height="305" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
 
+### Color palette
+
+Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette [here](https://mozilla.ninja/visualelements/).
+
 ### Thypography
 ![Imgur](http://i.imgur.com/rytjRy0.png)
 
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files).
 
-### Color palette
-
-Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette [here](https://mozilla.ninja/visualelements/).
-
 ### Some images
 Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
-
-![Imgur](http://i.imgur.com/w8HJCH8.gif)
 
 ## 3. Create your Club's website
 
@@ -42,5 +40,8 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 
 ### Some examples
 
-<iframe width="760" height="345" src="<iframe width="760" height="345" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
+<iframe width="760" height="305" src="https://leaomozillaclubs.com/"></iframe>
+
+
+![Imgur](http://i.imgur.com/w8HJCH8.gif)
 
