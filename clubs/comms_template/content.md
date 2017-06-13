@@ -18,7 +18,7 @@ Your use of “Mozilla Club” to refer to your Club must always be in combinati
 
 We welcome you to use this template to create a logo or use this file that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
 
-<iframe width="760" height="345" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
+<iframe width="760" height="305" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
 
 ### Thypography
 ![Imgur](http://i.imgur.com/rytjRy0.png)
@@ -42,5 +42,5 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 
 ### Some examples
 
-<iframe width="760" height="345" src="<iframe width="760" height="345" src="https://thimbleprojects.org/carotejada/272301/"></iframe>/"></iframe>
+<iframe width="760" height="345" src="<iframe width="760" height="345" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
 
