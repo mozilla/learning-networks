@@ -43,7 +43,11 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 [Leo Mozilla Clubs - Brazil](https://leaomozillaclubs.com/)
 ![Imgur](http://i.imgur.com/Q57GiQT.png)
 
+[México Mozilla Clubs](http://www.mexicomozillaclub.com/)
+![Imgur](http://i.imgur.com/ZiTFuuA.png)
 
+[Mozilla Club of HackathonGirls, Banjul](https://hackathongirlsmozilla.wordpress.com/)
+![Imgur](http://i.imgur.com/eQpLpLD.png)
 
 
 
