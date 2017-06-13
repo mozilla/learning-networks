@@ -2,7 +2,6 @@
 
 *"First comes aesthetics, then logic".* That's what writer Daniel Tammet afirms, and that is the reason behind this tool. Here you'll find resources to shape your Club's image and make it appealing!
 
-![Imgur](http://i.imgur.com/w8HJCH8.gif)
 
 ## 1. Name your club
 
@@ -22,6 +21,7 @@ We welcome you to use this template to create a logo or use this file that incor
 <iframe width="760" height="345" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
 
 ### Thypography
+![Imgur](http://i.imgur.com/mPlwXCc.jpg)
 
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files).
 
@@ -31,4 +31,6 @@ Mozilla’s main brand colors are black and white. This illustrates our gutsy pe
 
 ### Some images
 Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
+
+![Imgur](http://i.imgur.com/w8HJCH8.gif)
 
