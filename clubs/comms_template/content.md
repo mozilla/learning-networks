@@ -1,24 +1,22 @@
 # Communications Guidelines and Templates 
 
->*"First comes aesthetics, then logic".* That's what writer Daniel Tammet afirms, and that is the reason behind this guide. 
+>*"First comes aesthetics, then logic".* 
 
->Here you'll find hands-on tools and resources to make your Mozilla Club even more appealing!
+>That's what writer Daniel Tammet afirms, and that is the reason behind this guide. Here you'll find hands-on tools and resources to make your Mozilla Club even more appealing!
 
 ## 1. Name your club
 
-You may, but are not required to, use the name “Mozilla Clubs” in your club’s name. 
- 
-Your use of “Mozilla Club” to refer to your Club must always be in combination with the location, region, group, or interest you are using to identify your club. (For clarity, you may nonetheless state that your club is “a Mozilla Club,” without the additional identifiers).
+You may, but are not required to, use the name “Mozilla Clubs” in your club’s name. Your use of “Mozilla Club” to refer to your Club must always be in combination with the location, region, group, or interest you are using to identify your club. (For clarity, you may nonetheless state that your club is “a Mozilla Club,” without the additional identifiers).
 
 **Examples of names WITH Mozilla Clubs:** Mozilla Club Rio, Mozilla Club Jahangirnagar University, Cikarang Mozilla Club, Mozilla Club for the Chicago Librarians.
  
-**Examples of names WOTHOUT Mozilla Clubs:** Ikaros, Coders Paradise, Community Tech Club, Indigenous Code, Active Minds.
+**Examples of names WITHOUT Mozilla Clubs:** Ikaros, Coders Paradise, Community Tech Club, Indigenous Code, Active Minds.
 
-OKAY
+**OKAY**
 - Join our Mozilla Club Rio! We are a Mozilla Club in the city of Rio de Janeiro, Brazil.
 - This is the website for the Mozilla Club for the Chicago Librarians.
  
-NOT OKAY
+**NOT OKAY**
 - Join Mozilla Clubs!
 - This is the website for Mozilla Rio.
 - Welcome to the Mozilla Rio Club.
