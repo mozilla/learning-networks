@@ -1,4 +1,4 @@
-# Communications Guidelines and Templates 
+# Comms Guidelines and Templates 
 
 ![Imgur](http://i.imgur.com/FNknSE7.png)
 
