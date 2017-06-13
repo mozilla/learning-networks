@@ -69,7 +69,7 @@ There are many different ways to give the community a deeper look at your event,
 ## Setp 5. Keep in touch with the community
 XXXXXXX
 
-## TERMS OF USE
+TERMS OF USE
 
 ### Use of club name in legal registrations, entities, and fundraising
 
