@@ -25,7 +25,7 @@ We welcome you to use this template to create a logo or use this file that incor
 Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette [here](https://mozilla.ninja/visualelements/).
 
 ### Thypography
-![Imgur](http://i.imgur.com/rytjRy0.png)
+![Imgur](http://i.imgur.com/qS6Sxlo.png)
 
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files).
 
