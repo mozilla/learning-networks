@@ -51,10 +51,14 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 ![Imgur](http://i.imgur.com/KXiWv5S.png)
 
 
+## 4. Share your Club activity
+
+We know a lot of time is put into organizing, planning and running a Club session. Which is why we want to make sure that once your event is completed it is documented and sharable so we can celebrate your success with you!
+
+There are many different ways to give the community a deeper look at your event, choose the one that resonates better with you! Here are some of the options our community members prefer: 
+
+### [Event Reporter](http://mozilla.github.io/clubs-events/)
+### [Medium](https://medium.com/read-write-participate)
 
 
-
-
-
-![Imgur](http://i.imgur.com/w8HJCH8.gif)
 
