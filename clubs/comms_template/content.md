@@ -40,7 +40,15 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 
 ### Some examples
 
-<iframe width="760" height="305" src="https://leaomozillaclubs.com/"></iframe>
+[Leo Mozilla Clubs - Brazil](https://leaomozillaclubs.com/)
+![Imgur](http://i.imgur.com/Q57GiQT.png)
+
+
+
+
+
+
+
 
 
 ![Imgur](http://i.imgur.com/w8HJCH8.gif)
