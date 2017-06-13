@@ -1,8 +1,8 @@
 # Communications Guidelines and Templates 
 
->*"First comes aesthetics, then logic".* 
+![Imgur](http://i.imgur.com/FNknSE7.png)
 
->That's what writer Daniel Tammet afirms, and that is the reason behind this guide. Here you'll find hands-on tools and resources to make your Mozilla Club even more appealing!
+Here you'll find hands-on tools and resources to make your Mozilla Club even more appealing!
 
 ## 1. Name your club
 
