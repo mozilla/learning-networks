@@ -24,7 +24,7 @@ You may, but are not required to, use the name “Mozilla Clubs” in your club�
 
 ### - Create your own Logo!
 
-We welcome you to use this template to create a logo or use [this](https://github.com/mozilla/mozillaclubs/blob/master/designresources/Mozilla%20Clubs%20Logo/logo_particular_club.svg) file that incorporates the “Mozilla Clubs” wordmark.  
+We welcome you to use this template -created by community lead Geraldo Barros- to create a logo or use [this](hhttps://github.com/mozilla/mozillaclubs/blob/master/designresources/Mozilla%20Clubs%20Logo/logo_particular_club.svg) file that incorporates the “Mozilla Clubs” wordmark.  
 
 <iframe width="760" height="305" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
 
@@ -67,8 +67,6 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 [Mozilla Cagliari Club, Italia](http://mozillacagliariclub.edovio.com/)
 ![Imgur](http://i.imgur.com/KXiWv5S.png)
 
-## Setp 3. Keep in touch with the community
-
 ### - Social media. Share your Club activity
 
 We know a lot of time is put into organizing, planning and running a Club session. Which is why we want to make sure that once your event is completed it is documented and sharable so we can celebrate your success with you!
@@ -78,10 +76,11 @@ There are many different ways to give the community a deeper look at your event,
 ### [Event Reporter](http://mozilla.github.io/clubs-events/)
 ### [Medium](https://medium.com/read-write-participate)
 
+## Setp 3. Swag, presentations templates and more
 
 
 
-TERMS OF USE
+## TERMS OF USE
 
 ### Use of club name in legal registrations, entities, and fundraising
 
