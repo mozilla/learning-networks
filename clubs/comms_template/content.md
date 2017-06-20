@@ -22,7 +22,7 @@ You may, but are not required to, use the name “Mozilla Clubs” in your club�
 >- This is the website for Mozilla Rio.
 >- Welcome to the Mozilla Rio Club.
 
-### Create your own Logo!
+### - Create your own Logo!
 
 We welcome you to use this template to create a logo or use [this](https://github.com/mozilla/mozillaclubs/blob/master/designresources/Mozilla%20Clubs%20Logo/logo_particular_club.svg) file that incorporates the “Mozilla Clubs” wordmark.  
 
@@ -30,11 +30,11 @@ We welcome you to use this template to create a logo or use [this](https://githu
 
 Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo.
 
-### Color palette
+### - Color palette
 
 Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette [here](https://mozilla.ninja/visualelements/).
 
-### Thypography
+### - Thypography
 ![Imgur](http://i.imgur.com/qS6Sxlo.png)
 
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files).
@@ -44,7 +44,7 @@ Zilla is our core brand identity display typeface. We use it for our wordmark, f
 ## Step 2. Create your Media
 
 
-### Building a website for your club
+### - Building a website for your club
 
 Some clubs have created their own websites to spread the word about what they do (See examples below). Club Captains are welcome to use any tool of their preference, however here are two templates ([Option A](https://edovio.github.io/WebsiteMozillaClub/) - [Option B](https://edovio.github.io/WebsiteMozillaClubB/)) built by community member Edoardo Viola. You are allowed to fork the project, remix it and share!
 
@@ -56,7 +56,7 @@ Some clubs have created their own websites to spread the word about what they do
  
 The front page of your website (above the fold) must inform users that “[CLUB NAME] is part of the network of Mozilla Clubs inspired by the [Mozilla Learning Network](https://learning.mozilla.org/en-US/).” At the top of the site’s main page, it should be stated clearly and explicitly that this is a community site, maintained by a group of volunteers.
 
-### Some examples
+***Some examples***
 
 [Leo Mozilla Clubs - Brazil](https://leaomozillaclubs.com/)
 ![Imgur](http://i.imgur.com/Q57GiQT.png)
@@ -67,8 +67,9 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 [Mozilla Cagliari Club, Italia](http://mozillacagliariclub.edovio.com/)
 ![Imgur](http://i.imgur.com/KXiWv5S.png)
 
+## Setp 3. Keep in touch with the community
 
-### Social media. Share your Club activity
+### - Social media. Share your Club activity
 
 We know a lot of time is put into organizing, planning and running a Club session. Which is why we want to make sure that once your event is completed it is documented and sharable so we can celebrate your success with you!
 
@@ -77,8 +78,8 @@ There are many different ways to give the community a deeper look at your event,
 ### [Event Reporter](http://mozilla.github.io/clubs-events/)
 ### [Medium](https://medium.com/read-write-participate)
 
-## Setp 5. Keep in touch with the community
-XXXXXXX
+
+
 
 TERMS OF USE
 
