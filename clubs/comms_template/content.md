@@ -80,7 +80,9 @@ There are many different ways to give the community a deeper look at your event,
 
 - [Posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) 
 - [Fox Stickers](https://github.com/mozilla/mozillaclubs/tree/master/designresources/fox_stickers)
+- [Email and social media templates](https://docs.google.com/document/d/11262KhL_HbrPzaq3H77oV8897AET4TiNM4dMQf2XE9g/edit?usp=sharing)
 - 
+- Explore the [Open Design Repo](https://github.com/mozilla/OpenDesign)
 
 ## TERMS OF USE
 
