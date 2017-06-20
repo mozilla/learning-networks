@@ -12,15 +12,14 @@ You may, but are not required to, use the name “Mozilla Clubs” in your club�
  
 **Examples of names WITHOUT Mozilla Clubs:** Ikaros, Coders Paradise, Community Tech Club, Indigenous Code, Active Minds.
 
-**OKAY**
-- Join our Mozilla Club Rio! We are a Mozilla Club in the city of Rio de Janeiro, Brazil.
-- This is the website for the Mozilla Club for the Chicago Librarians.
+>**OKAY**
+>- Join our Mozilla Club Rio! We are a Mozilla Club in the city of Rio de Janeiro, Brazil.
+>- This is the website for the Mozilla Club for the Chicago Librarians.
  
-**NOT OKAY**
-- Join Mozilla Clubs!
-- This is the website for Mozilla Rio.
-- Welcome to the Mozilla Rio Club.
-
+>**NOT OKAY**
+>- Join Mozilla Clubs!
+>- This is the website for Mozilla Rio.
+>- Welcome to the Mozilla Rio Club.
 
 ### Create your own Logo
 
