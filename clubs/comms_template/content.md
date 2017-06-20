@@ -22,7 +22,7 @@ You may, but are not required to, use the name “Mozilla Clubs” in your club�
 >- This is the website for Mozilla Rio.
 >- Welcome to the Mozilla Rio Club.
 
-### Create your own Logo
+### Create your own Logo!
 
 We welcome you to use this template to create a logo or use [this](https://github.com/mozilla/mozillaclubs/blob/master/designresources/Mozilla%20Clubs%20Logo/logo_particular_club.svg) file that incorporates the “Mozilla Clubs” wordmark.  
 
@@ -41,7 +41,9 @@ Zilla is our core brand identity display typeface. We use it for our wordmark, f
 
 >Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
 
-## Step 3. Create your Club's website
+## Step 2. Create your Media
+
+### Bulding a website for your club
 
 **Domain names.** You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an [application for a license to use a domain name related to a Mozilla trademark](http://static.mozilla.com/foundation/documents/domain-name-license.pdf).
  
@@ -59,7 +61,7 @@ The front page of your website (above the fold) must inform users that “[CLUB 
 ![Imgur](http://i.imgur.com/KXiWv5S.png)
 
 
-## Step 4. Share your Club activity
+### Social media. Share your Club activity
 
 We know a lot of time is put into organizing, planning and running a Club session. Which is why we want to make sure that once your event is completed it is documented and sharable so we can celebrate your success with you!
 
