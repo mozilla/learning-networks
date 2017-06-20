@@ -50,7 +50,7 @@ Some clubs have created their own websites to spread the word about what they do
 
 ![Imgur](http://i.imgur.com/oSweIOv.png)
 
-> Here you can find the Repo. IMPORTANT: before making any edits, make sure to follow instructions.
+> Find the Repo in this [link](https://github.com/mozilla/mozillaclubs/tree/master/designresources/website_templates_mozilla_clubs). IMPORTANT: before making any edits, make sure to follow instructions.
 
 **Domain names.** You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an [application for a license to use a domain name related to a Mozilla trademark](http://static.mozilla.com/foundation/documents/domain-name-license.pdf).
  
