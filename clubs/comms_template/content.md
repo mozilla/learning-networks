@@ -35,14 +35,13 @@ Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limit
 Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette [here](https://mozilla.ninja/visualelements/).
 
 ### - Thypography
-![Imgur](http://i.imgur.com/qS6Sxlo.png)
 
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files).
 
 >Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
 
-## Step 2. Create your Media
 
+## Step 2. Create your Media
 
 ### - Building a website for your club
 
@@ -80,11 +79,11 @@ There are many different ways to give the community a deeper look at your event,
 
 ## Setp 3. SWAG, presentations templates and more
 
-- [Flyer to invite members](https://geraldobarros.me/arrival-flyer-design-hackathongirls-mozilla-club-banjul/) by Geraldo Barros.
+In our Clubs' Repository you can find some designs you can use. From posters, and stickers created by Mozilla, to flyers and presentations templates created by community members. 
+
+- [Flyer to invite members](https://geraldobarros.me/arrival-flyer-design-hackathongirls-mozilla-club-banjul/) by Geraldo Barros. Find it in our [Repo](https://github.com/mozilla/mozillaclubs/tree/master/designresources/flyer_template)
 - [Posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) 
 - [Fox Stickers](https://github.com/mozilla/mozillaclubs/tree/master/designresources/fox_stickers)
-
-- https://github.com/mozilla/mozillaclubs/tree/master/designresources/flyer_template
 - Explore the [Open Design Repo](https://github.com/mozilla/OpenDesign)
 
 ## TERMS OF USE
