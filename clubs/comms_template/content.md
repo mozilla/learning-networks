@@ -76,9 +76,11 @@ There are many different ways to give the community a deeper look at your event,
 ### [Event Reporter](http://mozilla.github.io/clubs-events/)
 ### [Medium](https://medium.com/read-write-participate)
 
-## Setp 3. Swag, presentations templates and more
+## Setp 3. SWAG, presentations templates and more
 
-
+- [Posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) 
+- [Fox Stickers](https://github.com/mozilla/mozillaclubs/tree/master/designresources/fox_stickers)
+- 
 
 ## TERMS OF USE
 
