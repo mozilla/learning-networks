@@ -77,13 +77,14 @@ There are many different ways to give the community a deeper look at your event,
 
 > These are some [email and social media templates](https://docs.google.com/document/d/11262KhL_HbrPzaq3H77oV8897AET4TiNM4dMQf2XE9g/edit?usp=sharing) you can remix!
 
-## Setp 3. SWAG, presentations templates and more
+## Setp 3. SWAG and templates
 
 In our Clubs' Repository you can find some designs you can use. From posters, and stickers created by Mozilla, to flyers and presentations templates created by community members. 
 
 - [Flyer to invite members](https://geraldobarros.me/arrival-flyer-design-hackathongirls-mozilla-club-banjul/) by Geraldo Barros. Find it in our [Repo](https://github.com/mozilla/mozillaclubs/tree/master/designresources/flyer_template)
 - [Posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) 
 - [Fox Stickers](https://github.com/mozilla/mozillaclubs/tree/master/designresources/fox_stickers)
+- [Fox - Paper craft](https://s-media-cache-ak0.pinimg.com/736x/d4/1a/24/d41a24bcf87a2f7691c07880bcf43c96.jpg) 
 - Explore the [Open Design Repo](https://github.com/mozilla/OpenDesign)
 
 ## TERMS OF USE
