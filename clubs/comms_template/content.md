@@ -78,6 +78,7 @@ There are many different ways to give the community a deeper look at your event,
 
 ## Setp 3. SWAG, presentations templates and more
 
+- [Flyer to invite members](https://geraldobarros.me/arrival-flyer-design-hackathongirls-mozilla-club-banjul/) by Geraldo Barros.
 - [Posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) 
 - [Fox Stickers](https://github.com/mozilla/mozillaclubs/tree/master/designresources/fox_stickers)
 - [Email and social media templates](https://docs.google.com/document/d/11262KhL_HbrPzaq3H77oV8897AET4TiNM4dMQf2XE9g/edit?usp=sharing)
