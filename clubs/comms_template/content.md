@@ -73,16 +73,18 @@ We know a lot of time is put into organizing, planning and running a Club sessio
 
 There are many different ways to give the community a deeper look at your event, choose the one that resonates better with you! Here are some of the options our community members prefer: 
 
-### [Event Reporter](http://mozilla.github.io/clubs-events/)
-### [Medium](https://medium.com/read-write-participate)
+- [Event Reporter](http://mozilla.github.io/clubs-events/)
+- [Medium](https://medium.com/read-write-participate)
+
+> These are some [email and social media templates](https://docs.google.com/document/d/11262KhL_HbrPzaq3H77oV8897AET4TiNM4dMQf2XE9g/edit?usp=sharing) you can remix!
 
 ## Setp 3. SWAG, presentations templates and more
 
 - [Flyer to invite members](https://geraldobarros.me/arrival-flyer-design-hackathongirls-mozilla-club-banjul/) by Geraldo Barros.
 - [Posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) 
 - [Fox Stickers](https://github.com/mozilla/mozillaclubs/tree/master/designresources/fox_stickers)
-- [Email and social media templates](https://docs.google.com/document/d/11262KhL_HbrPzaq3H77oV8897AET4TiNM4dMQf2XE9g/edit?usp=sharing)
-- 
+
+- https://github.com/mozilla/mozillaclubs/tree/master/designresources/flyer_template
 - Explore the [Open Design Repo](https://github.com/mozilla/OpenDesign)
 
 ## TERMS OF USE
