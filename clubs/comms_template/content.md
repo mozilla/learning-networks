@@ -4,7 +4,7 @@
 
 Here you'll find hands-on tools and step by step instructions to make your Mozilla Club even more appealing!
 
-## Step 1. Name your club
+## Step 1. Name and brand your club
 
 You may, but are not required to, use the name “Mozilla Clubs” in your club’s name. Your use of “Mozilla Club” to refer to your Club must always be in combination with the location, region, group, or interest you are using to identify your club. (For clarity, you may nonetheless state that your club is “a Mozilla Club,” without the additional identifiers).
 
@@ -22,11 +22,13 @@ You may, but are not required to, use the name “Mozilla Clubs” in your club�
 - Welcome to the Mozilla Rio Club.
 
 
-## Step 2. What about a Logo?
+### Create your own Logo
 
-We welcome you to use this template to create a logo or use this file that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
+We welcome you to use this template to create a logo or use [this](https://github.com/mozilla/mozillaclubs/blob/master/designresources/Mozilla%20Clubs%20Logo/logo_particular_club.svg) file that incorporates the “Mozilla Clubs” wordmark.  
 
 <iframe width="760" height="305" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
+
+Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo.
 
 ### Color palette
 
