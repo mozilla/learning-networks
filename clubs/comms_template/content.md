@@ -43,7 +43,14 @@ Zilla is our core brand identity display typeface. We use it for our wordmark, f
 
 ## Step 2. Create your Media
 
-### Bulding a website for your club
+
+### Building a website for your club
+
+Some clubs have created their own websites to spread the word about what they do (See examples below). Club Captains are welcome to use any tool of their preference, however here are two templates ([Option A](https://edovio.github.io/WebsiteMozillaClub/) - [Option B](https://edovio.github.io/WebsiteMozillaClubB/)) built by community member Edoardo Viola. You are allowed to fork the project, remix it and share!
+
+![Imgur](http://i.imgur.com/oSweIOv.png)
+
+> Here you can find the Repo. IMPORTANT: before making any edits, make sure to follow instructions.
 
 **Domain names.** You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an [application for a license to use a domain name related to a Mozilla trademark](http://static.mozilla.com/foundation/documents/domain-name-license.pdf).
  
