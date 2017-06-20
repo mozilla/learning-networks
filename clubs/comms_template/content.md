@@ -79,7 +79,7 @@ There are many different ways to give the community a deeper look at your event,
 
 ## Setp 3. SWAG and templates
 
-In our Clubs' Repository you can find some designs you can use. From posters, and stickers created by Mozilla, to flyers and presentations templates created by community members. 
+In our Clubs' [Repository](https://github.com/mozilla/mozillaclubs/tree/master/designresources) you can find some of the available designs, from posters, and stickers created by Mozilla, to flyers and presentations templates created by community members. 
 
 - [Flyer to invite members](https://geraldobarros.me/arrival-flyer-design-hackathongirls-mozilla-club-banjul/) by Geraldo Barros. Find it in our [Repo](https://github.com/mozilla/mozillaclubs/tree/master/designresources/flyer_template)
 - [Posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) 
@@ -114,7 +114,7 @@ Other than as permitted here, you may not
 Mozilla reserves the right to rescind a Club’s permission to call itself a Mozilla Club at any time at its discretion
  
  
- ### - [Mozilla Clubs Leader Agreement] (https://docs.google.com/document/d/1DIAXJCGzTGgjRMRrjkhd4Q63XBxOAQiR-xdOV3jjLW4/edit?usp=sharing)
+ ### - [Mozilla Clubs Leader Agreement](https://docs.google.com/document/d/1DIAXJCGzTGgjRMRrjkhd4Q63XBxOAQiR-xdOV3jjLW4/edit?usp=sharing)
  
  
 
