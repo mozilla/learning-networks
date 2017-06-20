@@ -114,7 +114,7 @@ Other than as permitted here, you may not
 Mozilla reserves the right to rescind a Club’s permission to call itself a Mozilla Club at any time at its discretion
  
  
- 
+ ### - [Mozilla Clubs Leader Agreement] (https://docs.google.com/document/d/1DIAXJCGzTGgjRMRrjkhd4Q63XBxOAQiR-xdOV3jjLW4/edit?usp=sharing)
  
  
 
