@@ -1,4 +1,5 @@
 # Comms Guidelines and Templates 
+Guide created in collaboration with community members [Geraldo Barros](https://twitter.com/geraldobarros_), [Edoardo Viola](https://twitter.com/edovio), [Julia Vallera](https://twitter.com/colorwheelz) and [Carolina Tejada](https://twitter.com/cctalvarez).
 
 ![Imgur](http://i.imgur.com/FNknSE7.png)
 
