@@ -24,7 +24,7 @@ You may, but are not required to, use the name “Mozilla Clubs” in your club�
 
 ### - Create your own Logo!
 
-We welcome you to use this template -created by community lead Geraldo Barros- to create a logo or use [this](hhttps://github.com/mozilla/mozillaclubs/blob/master/designresources/Mozilla%20Clubs%20Logo/logo_particular_club.svg) file that incorporates the “Mozilla Clubs” wordmark.  
+We welcome you to use this template -created by community lead Geraldo Barros- to create a logo or use [this](https://github.com/mozilla/mozillaclubs/blob/master/designresources/Mozilla%20Clubs%20Logo/logo_particular_club.svg) file that incorporates the “Mozilla Clubs” wordmark.  
 
 <iframe width="760" height="305" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
 
