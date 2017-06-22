@@ -111,10 +111,4 @@ Other than as permitted here, you may not
 * Use our trademarks and logos on websites or other places containing content associated with hate speech, pornography, gambling, or illegal activities.
 * Use our trademarks and logos to, or in connection with, content that disparages us or sullies our reputation.
  
-Mozilla reserves the right to rescind a Club’s permission to call itself a Mozilla Club at any time at its discretion
- 
- 
- ### - [Mozilla Clubs Leader Agreement](https://docs.google.com/document/d/1DIAXJCGzTGgjRMRrjkhd4Q63XBxOAQiR-xdOV3jjLW4/edit?usp=sharing)
- 
- 
-
+Mozilla reserves the right to rescind a Club’s permission to call itself a Mozilla Club at any time at its discretion.
