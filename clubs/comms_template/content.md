@@ -2,6 +2,7 @@
 Guide created in collaboration with community members [Geraldo Barros](https://twitter.com/geraldobarros_), [Edoardo Viola](https://twitter.com/edovio), [Julia Vallera](https://twitter.com/colorwheelz) and [Carolina Tejada](https://twitter.com/cctalvarez).
 
 ![Imgur](http://i.imgur.com/FNknSE7.png)
+Image:[Blog Mozilla](https://blog.mozilla.org/internetcitizen/files/2017/01/013_moz_blogImg_fb_0.5.png)used under [CC BY] by Mozilla Clubs.
 
 Here you'll find hands-on tools and step by step instructions to make your Mozilla Club even more appealing!
 
