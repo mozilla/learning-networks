@@ -31,6 +31,8 @@ We welcome you to use this template -created by community lead Geraldo Barros- t
 
 Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo.
 
+Find the original files for Mozilla Clubs in [this folder](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla%20Clubs%20Logo).
+
 ### - Images Gallery
 Find somebranding images used by Mozilla. 
 https://github.com/mozilla/mozillaclubs/blob/master/designresources/images.md
