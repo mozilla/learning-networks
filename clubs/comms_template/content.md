@@ -31,6 +31,10 @@ We welcome you to use this template -created by community lead Geraldo Barros- t
 
 Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the Mozilla Trademark Policyand our brand principles. These guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo.
 
+### - Images Gallery
+Find somebranding images used by Mozilla. 
+https://github.com/mozilla/mozillaclubs/blob/master/designresources/images.md
+
 ### - Color palette
 
 Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette [here](https://mozilla.ninja/visualelements/).
